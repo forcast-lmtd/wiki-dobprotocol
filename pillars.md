@@ -20,13 +20,13 @@ layout:
 
 <figure><img src=".gitbook/assets/Dobprotocol Pillars (1).jpg" alt=""><figcaption></figcaption></figure>
 
-At Dobprotocol we have 4 mains pillars being developed in synchronicity.&#x20;
+At Dobprotocol we have 4 mains pillars being developed in synchronicity.
 
 **Validate → Tokenize → Packaging/Distribute → Protect**
 
 {% stepper %}
 {% step %}
-### Validate: Dob Validator
+#### Validate: Dob Validator
 
 1. Proves existence, operation, and revenue of machines.
 2. Issues a Dob Score Stamp (TRUFA) for investor trust.
@@ -35,7 +35,7 @@ At Dobprotocol we have 4 mains pillars being developed in synchronicity.&#x20;
 {% endstep %}
 
 {% step %}
-### Tokenize: Dob Token Studio
+#### Tokenize: Dob Token Studio
 
 1. Converts validated cashflows into standardized tokens.
 2. Acts as back office for Dob Validator.
@@ -44,7 +44,7 @@ At Dobprotocol we have 4 mains pillars being developed in synchronicity.&#x20;
 {% endstep %}
 
 {% step %}
-### Packaging and distribution: Dob Link
+#### Packaging and distribution: Dob Link
 
 1. Deploys validator-backed tokens and indexes across liquidity channels.
 2. Distributes products as widgets, indexes, or connectors into wallets, operator webpages, indexers, DeFi protocols, institutional platforms, and secondary markets.
@@ -52,7 +52,7 @@ At Dobprotocol we have 4 mains pillars being developed in synchronicity.&#x20;
 {% endstep %}
 
 {% step %}
-### Protect: Enforcement and insurance
+#### Protect: Enforcement and insurance
 
 1. Ensures recovery on defaults through enforcement partners.
 2. Covers unexpected failures via insurance providers.

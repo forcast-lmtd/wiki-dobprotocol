@@ -1,10 +1,11 @@
 ---
 icon: money-check-pen
+cover: .gitbook/assets/1_20251217_142346_0000.jpg
+coverY: 105.82586427656851
+coverHeight: 259
 ---
 
 # Investor Data Room
-
-<figure><img src=".gitbook/assets/Miniaturas WikiDob.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Problem: The gap we fix
 
@@ -28,9 +29,9 @@ Dobprotocol makes proof into opportunity. Explore the materials in this Investor
 
 ### Vision
 
-We believe capital should flow to machines that produce value, not to opacity. Dobprotocol builds the rails that let operators raise capital from their communities, and lets anyone invest in real, verifiable yields.&#x20;
+We believe capital should flow to machines that produce value, not to opacity. Dobprotocol builds the rails that let operators raise capital from their communities, and lets anyone invest in real, verifiable yields.
 
-Our vision is simple: machines that work, earn, and share. We call it the Machine Economy — and we are wiring it for the world.&#x20;
+Our vision is simple: machines that work, earn, and share. We call it the Machine Economy — and we are wiring it for the world.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Óscar Castillo</strong></td><td><em>Co-founder &#x26; CEO</em></td><td>With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects</td><td><a href=".gitbook/assets/1720463970913.png">1720463970913.png</a></td><td><a href="https://www.linkedin.com/in/oscar-castillo-arce/">https://www.linkedin.com/in/oscar-castillo-arce/</a></td></tr><tr><td><strong>Fernando Castillo</strong></td><td><em>Co-founder &#x26; CTO</em></td><td>Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td><a href=".gitbook/assets/1574436488062.png">1574436488062.png</a></td><td><a href="https://www.linkedin.com/in/fernando-castillo-97b390120/">https://www.linkedin.com/in/fernando-castillo-97b390120/</a></td></tr><tr><td>Simón Espínola</td><td><em>Co-founder &#x26; COO</em></td><td>Simón leads operations and business execution at Dobprotocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td><a href=".gitbook/assets/1752805246370.png">1752805246370.png</a></td><td><a href="https://www.linkedin.com/in/simon-espinola-marin-06a78b86/">https://www.linkedin.com/in/simon-espinola-marin-06a78b86/</a></td></tr></tbody></table>
 

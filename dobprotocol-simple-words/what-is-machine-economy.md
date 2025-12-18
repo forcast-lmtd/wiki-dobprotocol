@@ -6,7 +6,7 @@ icon: microchip
 
 The Machine Economy refers to a new economic model where machines (not just humans) generate, manage, and exchange value.
 
-In this model, connected physical infrastructure like EV chargers, sensors, solar panels, or even drones can operate autonomously and generate income by offering services to the world.&#x20;
+In this model, connected physical infrastructure like EV chargers, sensors, solar panels, or even drones can operate autonomously and generate income by offering services to the world.
 
 These machines are equipped with smart contracts, IoT devices, and payment rails, allowing them to interact with the digital economy directly.
 
@@ -36,7 +36,7 @@ They could cut waste, open doors, and make life easier, but only if we guide the
 
 * [How the Machine Economy combining AI, blockchain, and Fintech is growing - Generative Ventures](https://www.genventures.xyz/research/machine-economy-thesis-update-2024)
 * [Welcome to Machine DeFi - peaq](https://www.peaq.xyz/blog/welcome-to-machine-defi)
-* [What are Machine RWAs? - peaq](https://app.gitbook.com/s/MZYR3ReltN4XcGCGneN0/)
+* [What are Machine RWAs? - peaq](https://app.gitbook.com/o/Yvm8BASJHrAcryeLWJny/s/MZYR3ReltN4XcGCGneN0/)
 * [The machine economy has arrived and bots have wallets - Cointelegraph](https://cointelegraph.com/news/the-machine-economy-has-arrived-and-bots-have-wallets)
 * [Blockchain Meets IoT: Pioneering the Machine Economy - Icetea Software](https://www.linkedin.com/pulse/blockchain-meets-iot-pioneering-machine-economy-iceteasoftware-dld9c/)
 
