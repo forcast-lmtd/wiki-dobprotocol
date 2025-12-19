@@ -32,9 +32,11 @@ Investors participate through collective investment structures, backed by real, 
 
 Dobprotocol transforms real-world machines into verified, investable assets. Everything is traceable, compliant, and built for scale. Just machines, performance, and shared value.
 
+<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem (1).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
-## THE SOLUTION: DOB LIQUID RWA DEX
+### THE SOLUTION: DOB LIQUID RWA DEX
 
 **DOB Liquid RWA DEX** — The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
@@ -46,23 +48,23 @@ Dobprotocol transforms real-world machines into verified, investable assets. Eve
 
 **DOB Validator** — Machines are verified to exist, operate, and generate real revenue. Performance and cashflow is continuously monitored and recorded on-chain, ensuring only validated assets enter the DEX.
 
+### How it Works
+
 {% stepper %}
 {% step %}
-### HOW IT WORKS
-
 #### VERIFY
 
 Machines are validated and performance data recorded on-chain.
 {% endstep %}
 
 {% step %}
-### TOKENIZE
+#### TOKENIZE
 
 Verified revenue is packaged into RWA tokens via Token Studio.
 {% endstep %}
 
 {% step %}
-### INVEST & TRADE
+#### INVEST & TRADE
 
 Tokens are listed on the Liquid RWA DEX for free trading.
 {% endstep %}
@@ -77,6 +79,8 @@ DOB Protocol is not just a concept, but an operational platform generating real 
 ***
 
 ## TRACTION: LIVE PROOF POINTS
+
+<figure><img src=".gitbook/assets/photo_2025-07-02_17-35-19.jpg" alt=""><figcaption></figcaption></figure>
 
 **Status**: LIVE and OPERATIONAL — First functional use case of DOB Protocol
 
@@ -186,6 +190,8 @@ Mitigation: Clear operator incentives (capital without debt or dilution), live p
 
 ## BUSINESS MODEL
 
+<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem (4).png" alt=""><figcaption></figcaption></figure>
+
 Our business model is designed to be sustainable, scalable, and aligned with the interests of both infrastructure operators and capital providers.
 
 Dobprotocol earns protocol-level fees through token flows, while creating new opportunities for token holders to engage in the platform's growth.
@@ -210,7 +216,7 @@ Operators pay a one-time fee to access the DOB Validator and tokenization proces
 
 ***
 
-## WHO IT'S FOR: Buyer Personas
+### WHO IT'S FOR: Buyer Personas
 
 ### Investors (Retail & Institutional)
 
@@ -235,6 +241,16 @@ Use cases:
 ### VCs & Partners (Builders and Service Providers)
 
 A scalable infrastructure for the future of real-world finance. Integrate tokenized revenue models into real-world projects.
+
+***
+
+### PRE-SEED ROUND RESUME
+
+<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem (2).png" alt=""><figcaption></figcaption></figure>
+
+### PROJECTIONS
+
+<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -311,11 +327,12 @@ Marketplace: https://dobprotocol.com
 
 Want to learn more about our scalable infrastructure for the future of real-world finance? Let's talk.
 
-Explore the documents. If you want a walkthrough or an intro to the founders, reach out: **simon@dobprotocol.com**. We're scheduling one-on-one demos and a live Q\&A for interested parties.
+Explore the documents. If you want a walkthrough or an intro to the founders, reach out:&#x20;
 
-### Next steps & contact
+* **simon@dobprotocol.com**&#x20;
+* **oscar@dobprotocol.com**
 
-Explore the documents. If you want a walkthrough or an intro to the founders, reach out: **simon@dobprotocol.com or oscar@dobprotocol.com**. We’re scheduling one-on-one demos and a live Q\&A for interested parties.
+We’re scheduling one-on-one demos and a live Q\&A for interested parties.
 
 ### Important Links
 
