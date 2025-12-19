@@ -1,12 +1,11 @@
 ---
 description: DOB Liquid RWA DEX — The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 icon: money-check-pen
-cover: .gitbook/assets/1_20251217_142346_0000.jpg
-coverY: 105.82586427656851
-coverHeight: 259
 ---
 
 # Investor Data Room
+
+<figure><img src=".gitbook/assets/1_20251217_142346_0000.jpg" alt=""><figcaption></figcaption></figure>
 
 Real machines produce real value. But funding them is slow, complex, and limited.
 
