@@ -1,5 +1,5 @@
 ---
-description: DOB Liquid RWA DEX — The First Liquid RWA DEX powered by Uniswap v4 Hooks.
+description: 'DOB Liquid RWA DEX: The First Liquid RWA DEX powered by Uniswap v4 Hooks.'
 icon: money-check-pen
 ---
 
@@ -37,15 +37,15 @@ Dobprotocol transforms real-world machines into verified, investable assets. Eve
 
 ### THE SOLUTION: DOB LIQUID RWA DEX
 
-**DOB Liquid RWA DEX** — The First Liquid RWA DEX powered by Uniswap v4 Hooks.
+**DOB Liquid RWA DEX:** The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
 * Anyone can invest, trade, and exit freely.&#x20;
 * Minimum investment: just $10.&#x20;
 * Liquidity is built-in and transparently managed by smart contracts powered by Uniswap Hooks, and distributed through DobLink embedded channels.
 
-**DOB Token Studio** — Verified machine revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure feeds the DEX, creating liquid markets for real-world assets.
+**DOB Token Studio:** Verified machine revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure feeds the DEX, creating liquid markets for real-world assets.
 
-**DOB Validator** — Machines are verified to exist, operate, and generate real revenue. Performance and cashflow is continuously monitored and recorded on-chain, ensuring only validated assets enter the DEX.
+**DOB Validator:** Machines are verified to exist, operate, and generate real revenue. Performance and cashflow is continuously monitored and recorded on-chain, ensuring only validated assets enter the DEX.
 
 ### How it Works
 
@@ -81,23 +81,23 @@ DOB Protocol is not just a concept, but an operational platform generating real 
 
 <figure><img src=".gitbook/assets/photo_2025-07-02_17-35-19.jpg" alt=""><figcaption></figcaption></figure>
 
-**Status**: LIVE and OPERATIONAL — First functional use case of DOB Protocol
+**Status**: LIVE and OPERATIONAL: First functional use case of DOB Protocol
 
-### eHive — Operational Use Case
+### eHive: Operational Use Case
 
 About the Project:
 
 * Digital platform to manage, monitor, and monetize EV charging stations
-* Focus: Santiago, Chile — green mobility
+* Focus: Santiago, Chile (Green Mobility)
 * Website: https://ehive.cc
 
 Chargers on Marketplace:
 
-✅ Charger #173 — Status "Trusted", available for purchase (Price $8.5K, APR 15%)
+✅ **Charger #173:** Status "Trusted", available for purchase (Price $8.5K, APR 15%)
 
-✅ Charger #171 — Status "Trusted", available for Airdrop
+✅ **Charger #171:** Status "Trusted", available for Airdrop
 
-✅ Charger #172 — Status "Trusted", available for Airdrop
+✅ **Charger #172:** Status "Trusted", available for Airdrop
 
 
 
@@ -115,7 +115,7 @@ Metrics:
 
 Pipeline:
 
-* Bas 3 — Tokenization in process
+* **Bas 3:** Tokenization in process
 
 ***
 
@@ -183,7 +183,7 @@ Mitigation: Clear operator incentives (capital without debt or dilution), live p
 
 </details>
 
-**Risk Philosophy:** Dob Protocol does not remove risk — it makes risk visible, measurable, and liquid through verified performance and programmatic liquidity.
+**Risk Philosophy:** Dob Protocol does not remove risk. It makes risk visible, measurable, and liquid through verified performance and programmatic liquidity.
 
 ***
 
@@ -231,7 +231,7 @@ Typical flow: Onboard & validate via DOB Validator → Token Studio (creates poo
 
 Use cases:
 
-* Mining fleets — GPUs and AI clusters
+* Mining fleets: GPUs and AI clusters
 * Solar and renewable energy
 * EV charging networks
 * Industrial robots
@@ -261,19 +261,19 @@ A scalable infrastructure for the future of real-world finance. Integrate tokeni
 
 ### Q1: Early Traction
 
-* January: Built and shipped prototype in under 24h (Red Pill Challenge — Virtuals)
-* February: Best Consumer Product at Aleph Mantle Hackathon | 2nd place at AVAX Chile Pitch Demo Day
-* March: Top50 LatAm startup by Rayuela (Lisk) | Selected for OdiseaLabs 2025 accelerator
+* **January:** Built and shipped prototype in under 24h (Red Pill Challenge — Virtuals)
+* **February:** Best Consumer Product at Aleph Mantle Hackathon | 2nd place at AVAX Chile Pitch Demo Day
+* **March:** Top50 LatAm startup by Rayuela (Lisk) | Selected for OdiseaLabs 2025 accelerator
 
 ### Q2-Q4: Recognition and Acceleration
 
-* June: Finalists at ApeCon Miami 2025 | Finalists at Virtuals Hackathon 2025
-* July: Winners of the Stellar X Draper University Founder Residency 2025 | Winners of the Founder School Incubator Program
-* August: Winners of the Stellar x Draper Embark Program
-* September: Presented DOB Protocol at Meridian (Stellar)
-* October: Winners of the Lisk Buildathon by Crecimiento | Winners of the Lisk Founder Residency at Edge City Patagonia
-* November: Pitch presented at Crecimiento SWC
-* December: Accepted into the Uniswap Hook Incubator | Hosted DOB Machine Day 2025
+* **June:** Finalists at ApeCon Miami 2025 | Finalists at Virtuals Hackathon 2025
+* **July:** Winners of the Stellar X Draper University Founder Residency 2025 | Winners of the Founder School Incubator Program
+* **August:** Winners of the Stellar x Draper Embark Program
+* **September:** Presented DOB Protocol at Meridian (Stellar)
+* **October:** Winners of the Lisk Buildathon by Crecimiento | Winners of the Lisk Founder Residency at Edge City Patagonia
+* **November:** Pitch presented at Crecimiento SWC
+* **December:** Accepted into the Uniswap Hook Incubator | Hosted DOB Machine Day 2025
 
 Dobprotocol is built in the open and with the community. We work closely with Stellar, Draper U, Tellus Cooperative and regional partners across Latin America to scale adoption, compliance, and on-chain interoperability. Our stacks bridge Base (where pools are deployed) and Stellar (where DeFi reinvestment and interoperability happen), creating a cross-chain flow that multiplies capital efficiency.
 
@@ -283,22 +283,22 @@ Dobprotocol is built in the open and with the community. We work closely with St
 
 ### Strategic Investors
 
-* Stellar — Strategic investment (1%)
-* Draper University — Strategic investment (1%)
+* **Stellar:** Strategic investment (1%)
+* **Draper University:** Strategic investment (1%)
 
 ### Accelerators & Incubators
 
-* Uniswap Hook Incubator — Accepted to create the First Liquid RWA DEX
-* Stellar X Draper University — Founder Residency (Winners)
-* Lisk Foundation — Founder Residency at Edge City Patagonia (Winners)
-* OdiseaLabs — 2025 accelerator
+* **Uniswap Hook Incubator:** Accepted to create the First Liquid RWA DEX
+* **Stellar X Draper University:** Founder Residency (Winners)
+* **Lisk Foundation:** Founder Residency at Edge City Patagonia (Winners)
+* **OdiseaLabs:** 2025 accelerator
 
 ### Recognition
 
-* Stellar Build Award — US$143k
-* Top50 LatAm startup — Rayuela (Lisk)
-* Crecimiento Startup World Cup — Finalists (12 out of 210+)
-* Meridian Conference — Presentation at Stellar's flagship conference
+* **Stellar Build Award:** US$143k
+* **Top50 LatAm startup:** Rayuela (Lisk)
+* **Crecimiento Startup World Cup:** Finalists (12 out of 210+)
+* **Meridian Conference:** Presentation at Stellar's flagship conference
 
 ***
 
@@ -320,7 +320,7 @@ Want to tokenize your productive assets? Reach out to discover how DOB Protocol 
 
 Interested in investing in tokenized Real World Assets? Explore our marketplace and start with just US$10.
 
-Marketplace: https://dobprotocol.com
+Marketplace: [https://dobprotocol.com](https://dobprotocol.com/)
 
 ### For VCs & Partners (Builders and Service Providers)
 
