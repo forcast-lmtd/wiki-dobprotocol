@@ -221,13 +221,13 @@ Operators pay a one-time fee to access the DOB Validator and tokenization proces
 
 Access real, machine-backed returns through the Liquid RWA DEX. Transparent, verifiable, globally accessible alternative investment opportunities outside of traditional finance.
 
-Typical flow: Invest → Yields generated → Reinvestment/composability → Returns distributed on-chain.
+**Typical flow:** Invest <mark style="color:blue;">**>**</mark> Yields generated <mark style="color:blue;">**>**</mark> Reinvestment/composability <mark style="color:blue;">**>**</mark> Returns distributed on-chain.
 
 ### Infrastructure Operators
 
 Raise capital without equity dilution to expand and scale operations. Turn productive machines into investable assets, using verified data and tokenization to raise capital directly from investors through the DEX.
 
-Typical flow: Onboard & validate via DOB Validator → Token Studio (creates pool) → Distribution via DobLink (embedded widget) → Listed on DEX.
+**Typical flow:** Onboard & validate via DOB Validator <mark style="color:blue;">**>**</mark> Token Studio (creates pool) <mark style="color:blue;">**>**</mark> Distribution via DobLink (embedded widget) <mark style="color:blue;">**>**</mark> Listed on DEX.
 
 Use cases:
 
