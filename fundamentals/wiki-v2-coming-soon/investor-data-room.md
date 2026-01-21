@@ -215,7 +215,7 @@ DOB Protocol operates at the intersection of real-world projects, verified perfo
 
 <summary>❌ <strong>Real-World Performance Risk</strong></summary>
 
-❌ Physical assets may underperform, impacting yield.
+Physical assets may underperform, impacting yield.
 
 ✅ **DOB Mitigation:** Only projects with real-time validated performance and revenue are onboarded via DOB Validator. Underperforming assets cannot sustain token issuance.
 
