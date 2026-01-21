@@ -1,4 +1,8 @@
-# DOB VALIDATOR WIKI Reviewed.gitbook
+---
+icon: file-certificate
+---
+
+# DOB Validator
 
 DOB Validator solves the critical trust problem in the blockchain universe (DePIN) - it replaces trust in promises with verifiable proof. Before any project accesses capital, it must prove it exists, functions, and generates revenue through cryptographic validation anchored on-chain.
 

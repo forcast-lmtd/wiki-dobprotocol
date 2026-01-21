@@ -1,6 +1,12 @@
-# COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL Reviewed.gitbook
+---
+icon: gavel
+---
+
+# Legal
 
 Learn how DOB Protocol's legal framework works and what legal protections we provide for everyone who interacts with our Real World Assets (RWA) Tokenization Solutions.
+
+***
 
 ## The Foundation: Ensuro Re Limited
 
@@ -59,6 +65,8 @@ Legal entity through which the protocol operates in regulatory and legal terms, 
 | **DABA Class M**                                     | Specific authorization for operations with digital assets under Bermuda's Digital Asset Business Act 2018, including issuance, sale, and management of tokens. Maintained by the General Account, can be used by all segregated compartments. Establishes compliance requirements, including KYC/AML (Know Your Customer/Anti-Money Laundering) procedures, ensuring operation within international standards for prevention of money laundering and terrorism financing. | License       | ✅ Active    |
 | **Regulatory Sandbox**                               | Ensuro Re Limited graduated from the Bermuda Monetary Authority (BMA) Regulatory Sandbox on April 30, 2024, receiving a full Class IIGB license.                                                                                                                                                                                                                                                                                                                          | Program       | ✅ Graduated |
 
+***
+
 ## The Segregated Accounts System
 
 DOB Protocol's legal framework is based on a fundamental concept: **segregated accounts**. It is the central mechanism that ensures legal protection for each tokenization.
@@ -75,6 +83,8 @@ This separation is guaranteed by the **SAC Act** (Segregated Accounts Companies 
 
 If a tokenization has its assets in a segregated account, these resources cannot be used to pay debts of other tokenizations, nor accessed by Ensuro Re Limited's general account.
 
+***
+
 ## Protection for Investors: Limited Recourse
 
 One of the most important concepts for investors is **limited recourse** (limited recovery). It defines exactly where investors can seek resources if something goes wrong.
@@ -83,10 +93,13 @@ One of the most important concepts for investors is **limited recourse** (limite
 
 When you acquire tokens from a tokenization, your rights as an investor are limited to the **Account Assets** of the compartment that backs those tokens:
 
-* ✅ You have the right to the assets of the compartment that backs your tokens
-* ❌ You cannot seek resources from Ensuro Re Limited's general account
-* ❌ You cannot seek resources from other compartments of other tokenizations
-* ❌ You cannot seek resources from Ensuro Re Limited's own shareholders or administrators
+✅ You have the right to the assets of the compartment that backs your tokens
+
+❌ You cannot seek resources from Ensuro Re Limited's general account
+
+❌ You cannot seek resources from other compartments of other tokenizations
+
+❌ You cannot seek resources from Ensuro Re Limited's own shareholders or administrators
 
 It's as if each tokenization were a financially independent entity, even though technically they're all within the same legal structure.
 
@@ -95,6 +108,8 @@ It's as if each tokenization were a financially independent entity, even though 
 This protection works as "risk isolation". If a specific tokenization faces financial problems, this doesn't affect other tokenizations. Similarly, if Ensuro Re Limited has issues unrelated to a specific tokenization, that tokenization's assets remain protected.
 
 Bermuda's Supreme Court has already confirmed this protection on multiple occasions, including in insolvency cases. The structure has solid and recognized legal precedent.
+
+***
 
 ## Bermuda as Jurisdiction
 
@@ -112,35 +127,39 @@ The SAC Act was enacted in 2000, which means this legal framework has over two d
 
 Creating a segregated compartment in Bermuda costs significantly less than incorporating a new company for each tokenization, allowing DOB Protocol to offer tokenization more affordably and benefit smaller operators who would otherwise not have access to sophisticated legal frameworks.
 
+***
+
 ## How It Works in Practice
 
 See how all of this works when an asset is tokenized:
 
 {% stepper %}
 {% step %}
-### Create the Segregated Account
+#### Create the Segregated Account
 
 When a tokenization is approved, a new segregated compartment is created within Ensuro Re Limited's structure. This compartment receives a unique identifier name and is governed by a "Governing Instrument", which is basically a legal agreement that defines all terms and conditions.
 {% endstep %}
 
 {% step %}
-### Link Assets to the Compartment
+#### Link Assets to the Compartment
 
 Assets are then "linked" to that specific compartment. From a legal standpoint, these assets belong to the compartment, not to Ensuro Re Limited as a whole.
 {% endstep %}
 
 {% step %}
-### Issue Tokens
+#### Issue Tokens
 
 Tokens are issued through this compartment, using the DABA Class M authorization. Each token represents a proportional participation in the Account Assets of that specific compartment.
 {% endstep %}
 
 {% step %}
-### Maintain Continuous Protection
+#### Maintain Continuous Protection
 
 Throughout the tokenization's lifespan, Account Assets remain protected within the compartment. Revenues generated by tokenized assets flow to the compartment and are distributed proportionally to token holders.
 {% endstep %}
 {% endstepper %}
+
+***
 
 ## Limitations and Restrictions
 
@@ -158,6 +177,8 @@ Understand what this legal framework **does not** guarantee and how DOB Protocol
 | RWA markets are structurally illiquid, limiting investor exits.                                                                                                                                                                                                | ✅ **Dob Liquid DEX**: Liquidity programmatically designed through mechanisms and Uniswap v4 Hooks supported by revenue flows. The DEX provides integrated liquidity for all listed RWA tokens, eliminating dependence on manual market makers.                                                                                             |
 | **Geographic restrictions**                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                            |
 | The system is subject to prohibited jurisdiction restrictions. Investors or operators from certain countries cannot participate due to international sanctions or specific legal requirements.                                                                 | Inherent limitation to the regulated structure. The legal structure ensures compliance with prohibited jurisdictions through KYC/AML procedures established by the DABA Class M license.                                                                                                                                                   |
+
+***
 
 ## Transparency and Compliance
 

@@ -21,8 +21,6 @@
 * [DobLink](dob-ecosystem/overview-2/README.md)
   * [Use case: Data centers in Brazil](dob-ecosystem/overview-2/use-case-data-centers-in-brazil.md)
   * [Use case: Automatic protection fund](dob-ecosystem/overview-2/use-case-automatic-protection-fund.md)
-* [DOB VALIDATOR WIKI Reviewed.gitbook](dob-ecosystem/dob-validator-wiki-reviewed.gitbook.md)
-* [COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL.gitbook.v3](dob-ecosystem/como-funciona-estrutura-legal-dob-protocol.gitbook.v3.md)
 
 ## Fundamentals
 
@@ -43,4 +41,8 @@
   * [Terms and Conditions](fundamentals/privacy-policy/terms-and-conditions.md)
 * [Customer support](fundamentals/customer-support.md)
 * [WIKI V2 (UNDER CONSTRUCTION)](fundamentals/wiki-v2-under-construction/README.md)
-  * [COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL Reviewed.gitbook](fundamentals/wiki-v2-under-construction/como-funciona-estrutura-legal-dob-protocol-reviewed.gitbook.md)
+  * [Solutions](fundamentals/wiki-v2-under-construction/solutions/README.md)
+    * [DOB Validator](fundamentals/wiki-v2-under-construction/solutions/dob-validator.md)
+  * [Legal](fundamentals/wiki-v2-under-construction/legal.md)
+  * [INVESTOR DATA ROOM.gitbook](fundamentals/wiki-v2-under-construction/investor-data-room.gitbook.md)
+  * [INVESTOR DATA ROOM.gitbook](fundamentals/wiki-v2-under-construction/investor-data-room.gitbook-1.md)
