@@ -213,7 +213,7 @@ DOB Protocol operates at the intersection of real-world projects, verified perfo
 
 <details>
 
-<summary>❌ <strong>Real-World Performance Risk</strong></summary>
+<summary>❌ <strong>Real-World Performance Risk</strong>                     ✅ DOB Mitigation</summary>
 
 Physical assets may underperform, impacting yield.
 
@@ -223,7 +223,7 @@ Physical assets may underperform, impacting yield.
 
 <details>
 
-<summary>❌ <strong>Data Integrity &#x26; Trust Risk</strong></summary>
+<summary>❌ <strong>Data Integrity &#x26; Trust Risk</strong>                            ✅ DOB Mitigation</summary>
 
 Inaccurate or manipulated data could affect investor confidence.
 
@@ -233,7 +233,7 @@ Inaccurate or manipulated data could affect investor confidence.
 
 <details>
 
-<summary>❌ <strong>Liquidity Risk</strong></summary>
+<summary>❌ <strong>Liquidity Risk</strong>                                                      ✅ DOB Mitigation</summary>
 
 RWA markets are structurally illiquid, limiting exits.
 
@@ -243,7 +243,7 @@ RWA markets are structurally illiquid, limiting exits.
 
 <details>
 
-<summary>❌ <strong>Smart Contract &#x26; Protocol Risk</strong></summary>
+<summary>❌ <strong>Smart Contract &#x26; Protocol Risk</strong>                   ✅ DOB Mitigation</summary>
 
 Smart contract vulnerabilities or integration failures may impact operations.
 
@@ -253,7 +253,7 @@ Smart contract vulnerabilities or integration failures may impact operations.
 
 <details>
 
-<summary>❌ <strong>Regulatory &#x26; Compliance Risk</strong></summary>
+<summary>❌ <strong>Regulatory &#x26; Compliance Risk</strong>                     ✅ DOB Mitigation</summary>
 
 Regulatory treatment of tokenized revenue may evolve.
 
@@ -263,7 +263,7 @@ Regulatory treatment of tokenized revenue may evolve.
 
 <details>
 
-<summary>❌ <strong>Adoption &#x26; Execution Risk (Pre-Seed)</strong></summary>
+<summary>❌ <strong>Adoption &#x26; Execution Risk (Pre-Seed)</strong>     ✅ DOB Mitigation</summary>
 
 Project Owner adoption and early execution risks remain.
 
