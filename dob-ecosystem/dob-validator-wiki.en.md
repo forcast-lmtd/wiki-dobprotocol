@@ -96,9 +96,7 @@ Take advantage of the already integrated compliance structure, reducing the need
 
 **Operative Dashboards:**&#x20;
 
-Access ready-made dashboards to monitor validations and approved projects.
-
-
+Access ready-made dashboards to monitor your validations and approved projects.
 
 > ✅ Modular plug and play infrastructure
 >
@@ -109,8 +107,10 @@ Access ready-made dashboards to monitor validations and approved projects.
 > ✅ Scalability without internal teams
 >
 > ✅ Reduced operational costs
->
->
+
+
+
+
 
 <mark style="color:blue;">**Schedule a Meeting with our Team**</mark> &#x20;
 {% endcolumn %}
