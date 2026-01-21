@@ -38,8 +38,6 @@ Projects need to validate their existence, operation, and revenue to access capi
 
 Access the platform and start your project validation process.
 
-
-
 {% stepper %}
 {% step %}
 ### Complete structured forms
@@ -67,8 +65,6 @@ Receive a score based on real and auditable data. Only valid and bankable projec
 {% endstepper %}
 
 Once validated, your project becomes available to global investors, eliminating geographical and trust barriers.
-
-
 
 {% hint style="info" %}
 
@@ -149,8 +145,6 @@ Access ready-made dashboards to monitor validations and approved projects.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-***
 
 ## Auxiliary Information
 
