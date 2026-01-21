@@ -23,7 +23,7 @@
   * [Use case: Automatic protection fund](dob-ecosystem/overview-2/use-case-automatic-protection-fund.md)
 * [DOB VALIDATOR WIKI Reviewed.gitbook](dob-ecosystem/dob-validator-wiki-reviewed.gitbook.md)
 * [DOB VALIDATOR WIKI.gitbook](dob-ecosystem/dob-validator-wiki.gitbook.md)
-* [COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL.gitbook](dob-ecosystem/como-funciona-estrutura-legal-dob-protocol.gitbook.md)
+* [COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL Reviewed.gitbook](dob-ecosystem/como-funciona-estrutura-legal-dob-protocol-reviewed.gitbook.md)
 
 ## Fundamentals
 
