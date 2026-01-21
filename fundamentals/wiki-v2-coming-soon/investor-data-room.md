@@ -494,8 +494,6 @@ We are scheduling individual demos and a live Q\&A session for stakeholders.
 {% endtab %}
 {% endtabs %}
 
-***
-
 ### Important Links
 
 {% columns %}
