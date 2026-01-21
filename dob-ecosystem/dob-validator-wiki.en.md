@@ -69,8 +69,6 @@ Once validated, your project becomes available to global investors, eliminating 
 
 <mark style="color:blue;">**Simulate**</mark>**&#x20;  |  &#x20;**<mark style="color:blue;">**Raise Funds**</mark>
 {% endhint %}
-
-
 {% endcolumn %}
 
 {% column %}
@@ -125,22 +123,8 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 <mark style="color:blue;">**Schedule a Meeting with our Team**</mark> &#x20;
 {% endhint %}
-
-
-
-
-
-
-
-
-
-
 {% endcolumn %}
 {% endcolumns %}
-
-***
-
-###
 
 ***
 
