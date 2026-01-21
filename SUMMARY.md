@@ -47,7 +47,6 @@
   * [Legal](fundamentals/wiki-v2-coming-soon/legal.md)
   * [TRUSTEDBY](fundamentals/wiki-v2-coming-soon/trustedby.md)
   * [TEAM](fundamentals/wiki-v2-coming-soon/team.md)
-  * [SOLUTIONS](fundamentals/wiki-v2-coming-soon/solutions-1.md)
   * [ROADMAP](fundamentals/wiki-v2-coming-soon/roadmap.md)
   * [PESQUISA DESENVOLVIMENTO](fundamentals/wiki-v2-coming-soon/pesquisa-desenvolvimento.md)
   * [GLOSSARIO](fundamentals/wiki-v2-coming-soon/glossario.md)
