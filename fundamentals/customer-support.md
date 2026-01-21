@@ -1,5 +1,6 @@
 ---
 icon: head-side-headphones
+layout: landing
 ---
 
 # Customer support
