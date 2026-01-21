@@ -22,8 +22,8 @@
   * [Use case: Data centers in Brazil](dob-ecosystem/overview-2/use-case-data-centers-in-brazil.md)
   * [Use case: Automatic protection fund](dob-ecosystem/overview-2/use-case-automatic-protection-fund.md)
 * [DOB VALIDATOR WIKI Reviewed.gitbook](dob-ecosystem/dob-validator-wiki-reviewed.gitbook.md)
-* [DOB VALIDATOR WIKI.gitbook](dob-ecosystem/dob-validator-wiki.gitbook.md)
 * [COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL Reviewed.gitbook](dob-ecosystem/como-funciona-estrutura-legal-dob-protocol-reviewed.gitbook.md)
+* [COMO FUNCIONA ESTRUTURA LEGAL DOB PROTOCOL.gitbook.v3](dob-ecosystem/como-funciona-estrutura-legal-dob-protocol.gitbook.v3.md)
 
 ## Fundamentals
 
@@ -43,3 +43,4 @@
 * [Privacy Policy](fundamentals/privacy-policy/README.md)
   * [Terms and Conditions](fundamentals/privacy-policy/terms-and-conditions.md)
 * [Customer support](fundamentals/customer-support.md)
+* [WIKI V2 (UNDER CONSTRUCTION)](fundamentals/wiki-v2-under-construction.md)
