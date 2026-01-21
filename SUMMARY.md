@@ -22,6 +22,7 @@
   * [Use case: Data centers in Brazil](dob-ecosystem/overview-2/use-case-data-centers-in-brazil.md)
   * [Use case: Automatic protection fund](dob-ecosystem/overview-2/use-case-automatic-protection-fund.md)
 * [DOB VALIDATOR WIKI Reviewed.gitbook](dob-ecosystem/dob-validator-wiki-reviewed.gitbook.md)
+* [DOB VALIDATOR WIKI.gitbook](dob-ecosystem/dob-validator-wiki.gitbook.md)
 
 ## Fundamentals
 
