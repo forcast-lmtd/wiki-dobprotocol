@@ -1,22 +1,20 @@
-# INVESTOR DATA ROOM.gitbook
+---
+icon: display-chart-up
+---
+
+# Investor Data Room
 
 DOB Protocol: Your starting point for Real World Asset Tokenization.
 
 Real-world assets produce real value. But financing them is slow, complex, and limited.
 
-❌ Tokenizing assets is expensive.
-
-❌ There is no liquidity for this class of Real World Assets (RWA).
-
-❌ Investors don't trust what they cannot verify.
-
-❌ Project Owners struggle to raise capital without debt or capital dilution.
-
+❌ Tokenizing assets is expensive.\
+❌ There is no liquidity for this class of Real World Assets (RWA).\
+❌ Investors don't trust what they cannot verify.\
+❌ Project Owners struggle to raise capital without debt or capital dilution.\
 ❌ There is no adequate way to diversify risks in this type of operations.
 
 Thus, projects remain underfunded. And value remains locked.
-
-Figure: DOB Protocol trusts verified performance, not credit score.
 
 <figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,16 +39,12 @@ Offer tokenized products without recruiting internal teams of programmers and la
 
 Participate through collective investment structures, backed by real and auditable project performance yields.
 
-✅ No banks.
-
-✅ No dilution.
-
+✅ No banks.\
+✅ No dilution.\
 ✅ No traditional debt.
 
 DOB Protocol transforms real-world projects into verified and investable assets. Everything is traceable, compliant, and built for scale. Just projects, performance, and shared value.
 {% endhint %}
-
-***
 
 ## THE SOLUTION: DOB PROTOCOL
 
@@ -58,35 +52,56 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 
 {% tabs %}
 {% tab title="DOB Liquid DEX" %}
-### Dob Liquid DEX
+#### Dob Liquid DEX
 
 The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
-✅ Anyone can invest, trade, and exit freely
-
-✅ Minimum investment: just USD 10.00
-
-✅ Programmatic liquidity based on real revenue flows from projects
-
-✅ Dynamic pricing that reflects real project performance in real time
-
+✅ Anyone can invest, trade, and exit freely\
+✅ Minimum investment: just USD 10.00\
+✅ Programmatic liquidity based on real revenue flows from projects\
+✅ Dynamic pricing that reflects real project performance in real time\
 ✅ Native DeFi: tokens compatible with AMMs, lending pools, and vaults from day one
 
 Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets with programmatic liquidity.
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-### Dob Validator
+#### Dob Validator
 
+Projects are verified to exist, operate, and generate real revenue. Performance and cash flow are continuously monitored and recorded on-chain, ensuring that only validated assets enter the DEX.
 
+✅ Cryptographic validation with verifiable proof of existence, operation, and revenue\
+✅ Auditable operation trail that eliminates information asymmetry\
+✅ Real data-based scoring: only valid projects reach the market\
+✅ Global access to investors through verifiable credibility
+
+Dob Validator is the official entry point for projects that want to be verified, tokenized, and financed through the protocol.
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
+#### Dob Token Studio
 
+Verified project revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure powers the DEX, creating liquid markets for real-world assets.
+
+✅ Tokenization based on future revenue as collateral, not historical\
+✅ Transparent Investment Rounds without losing equity participation\
+✅ Ready legal structure: tokenize in days, not months\
+✅ Revenue flows automatically to investors
+
+Dob Token Studio offers access to capital without traditional intermediaries, eliminating access barriers for small and medium-sized projects.
 {% endtab %}
 
 {% tab title="DOB Link" %}
+#### Dob Link
 
+Offer access to your project's tokens simply and securely on your own website or wherever you want. No programming required. Automatic double yield: real revenue + DeFi returns.
+
+✅ Embeddable widget on your site without programming\
+✅ Automatic double yield: real revenue + DeFi returns\
+✅ Wallet integration: geographic distribution without barriers\
+✅ Direct sale on your own site without intermediaries
+
+Dob Link transforms your site into a point of sale, democratizing access to tokenized projects for retail investors.
 {% endtab %}
 {% endtabs %}
 
@@ -94,61 +109,12 @@ Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets
 
 Strategic solution for Financial Agents and Development Teams who want to offer tokenized products without recruiting internal teams of programmers and lawyers. Scale with our solutions through end-to-end or modular implementation.
 
-✅ Ready APIs and reusable modular legal structures
-
-✅ Operational dashboards ready for immediate use
-
-✅ Compliance embedded in the product
-
+✅ Ready APIs and reusable modular legal structures\
+✅ Operational dashboards ready for immediate use\
+✅ Compliance embedded in the product\
 ✅ Fast time to market: onboard enterprise clients in days, not months
 
 DOB White Label transforms financial agents into tokenization players without the high costs of custom development.
-
-***
-
-### Dob Token Studio
-
-Verified project revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure powers the DEX, creating liquid markets for real-world assets.
-
-✅ Tokenization based on future revenue as collateral, not historical
-
-✅ Transparent Investment Rounds without losing equity participation
-
-✅ Ready legal structure: tokenize in days, not months
-
-✅ Revenue flows automatically to investors
-
-Dob Token Studio offers access to capital without traditional intermediaries, eliminating access barriers for small and medium-sized projects.
-
-***
-
-Projects are verified to exist, operate, and generate real revenue. Performance and cash flow are continuously monitored and recorded on-chain, ensuring that only validated assets enter the DEX.
-
-✅ Cryptographic validation with verifiable proof of existence, operation, and revenue
-
-✅ Auditable operation trail that eliminates information asymmetry
-
-✅ Real data-based scoring: only valid projects reach the market
-
-✅ Global access to investors through verifiable credibility
-
-Dob Validator is the official entry point for projects that want to be verified, tokenized, and financed through the protocol.
-
-***
-
-### Dob Link
-
-Offer access to your project's tokens simply and securely on your own website or wherever you want. No programming required. Automatic double yield: real revenue + DeFi returns.
-
-✅ Embeddable widget on your site without programming
-
-✅ Automatic double yield: real revenue + DeFi returns
-
-✅ Wallet integration: geographic distribution without barriers
-
-✅ Direct sale on your own site without intermediaries
-
-Dob Link transforms your site into a point of sale, democratizing access to tokenized projects for retail investors.
 
 ***
 
@@ -178,12 +144,9 @@ Tokens are listed on Dob Liquid DEX for free trading, with distribution via Dob 
 
 **Financial Agents and Development Teams** can offer tokenized products to their clients without recruiting internal teams of programmers and lawyers. With DOB White Label, you access:
 
-✅ **Ready APIs** and reusable modular legal structures for rapid integration
-
-✅ **Operational dashboards** ready for immediate use, without need for custom development
-
-✅ **Embedded compliance** in the product, eliminating need for customized legal structures
-
+✅ **Ready APIs** and reusable modular legal structures for rapid integration\
+✅ **Operational dashboards** ready for immediate use, without need for custom development\
+✅ **Embedded compliance** in the product, eliminating need for customized legal structures\
 ✅ **Fast time to market**: onboard enterprise clients in days, not months
 
 **Development teams** can integrate DOB Protocol solutions in a modular or end-to-end manner, using documented APIs and ready legal structures. Scale tokenization operations without the high costs of custom development or need for internal legal teams.
@@ -202,7 +165,7 @@ DOB Protocol is not just a concept, but an operational platform generating real 
 
 ## TRACTION: OPERATIONAL PROOF POINTS
 
-**Status**: OPERATIONAL: First functional use case of DOB Protocol
+<figure><img src="../../.gitbook/assets/photo_2025-07-02_17-35-19.jpg" alt=""><figcaption></figcaption></figure>
 
 ### eHive: Operational Use Case
 
@@ -218,11 +181,9 @@ Figure: eHive project card showing APY and pool balance.
 
 ### Chargers in the Marketplace
 
-✅ **Charger #173:** Status "Trusted", available for purchase (Price USD 8.5K, APR 15%)
-
-✅ **Charger #171:** Status "Trusted", available for Airdrop
-
-✅ **Charger #172:** Status "Trusted", available for Airdrop
+✅ Charger #173: Status "Trusted", available for purchase (Price USD 8.5K, APR 15%)\
+✅ Charger #171: Status "Trusted", available for Airdrop\
+✅ Charger #172: Status "Trusted", available for Airdrop
 
 * USD 40K tokenized
 * Tokens available for investment (purchase or airdrop)
@@ -252,61 +213,61 @@ DOB Protocol operates at the intersection of real-world projects, verified perfo
 
 <details>
 
-<summary><strong>Real-World Performance Risk</strong></summary>
+<summary>❌ <strong>Real-World Performance Risk</strong></summary>
 
 ❌ Physical assets may underperform, impacting yield.
 
-**Mitigation:** Only projects with real-time validated performance and revenue are onboarded via DOB Validator. Underperforming assets cannot sustain token issuance.
+✅ **DOB Mitigation:** Only projects with real-time validated performance and revenue are onboarded via DOB Validator. Underperforming assets cannot sustain token issuance.
 
 </details>
 
 <details>
 
-<summary><strong>Data Integrity &#x26; Trust Risk</strong></summary>
+<summary>❌ <strong>Data Integrity &#x26; Trust Risk</strong></summary>
 
-❌ Inaccurate or manipulated data could affect investor confidence.
+Inaccurate or manipulated data could affect investor confidence.
 
-**Mitigation:** Performance and revenue are continuously verified and recorded on-chain, creating auditable and tamper-resistant data flows.
-
-</details>
-
-<details>
-
-<summary><strong>Liquidity Risk</strong></summary>
-
-❌ RWA markets are structurally illiquid, limiting exits.
-
-**Mitigation:** Liquidity is engineered, not assumed, through programmatic mechanisms and Uniswap v4 Hooks backed by revenue flows. The DEX provides built-in liquidity for all listed RWA tokens.
+✅ **DOB Mitigation:** Performance and revenue are continuously verified and recorded on-chain, creating auditable and tamper-resistant data flows.
 
 </details>
 
 <details>
 
-<summary><strong>Smart Contract &#x26; Protocol Risk</strong></summary>
+<summary>❌ <strong>Liquidity Risk</strong></summary>
 
-❌ Smart contract vulnerabilities or integration failures may impact operations.
+RWA markets are structurally illiquid, limiting exits.
 
-**Mitigation:** Modular architecture, staged deployments, and reliance on battle-tested DeFi primitives reduce systemic exposure.
-
-</details>
-
-<details>
-
-<summary><strong>Regulatory &#x26; Compliance Risk</strong></summary>
-
-❌ Regulatory treatment of tokenized revenue may evolve.
-
-**Mitigation:** The protocol focuses on revenue participation, not asset ownership, with jurisdiction-aware onboarding and LATAM-first deployment.
+✅ **DOB Mitigation:** Liquidity is engineered, not assumed, through programmatic mechanisms and Uniswap v4 Hooks backed by revenue flows. The DEX provides built-in liquidity for all listed RWA tokens.
 
 </details>
 
 <details>
 
-<summary><strong>Adoption &#x26; Execution Risk (Pre-Seed)</strong></summary>
+<summary>❌ <strong>Smart Contract &#x26; Protocol Risk</strong></summary>
 
-❌ Project Owner adoption and early execution risks remain.
+Smart contract vulnerabilities or integration failures may impact operations.
 
-**Mitigation:** Clear incentives for Project Owners (capital without debt or dilution), operational proof points (eHive), and strong ecosystem partners.
+✅ **DOB Mitigation:** Modular architecture, staged deployments, and reliance on battle-tested DeFi primitives reduce systemic exposure.
+
+</details>
+
+<details>
+
+<summary>❌ <strong>Regulatory &#x26; Compliance Risk</strong></summary>
+
+Regulatory treatment of tokenized revenue may evolve.
+
+✅ **DOB Mitigation:** The protocol focuses on revenue participation, not asset ownership, with jurisdiction-aware onboarding and LATAM-first deployment.
+
+</details>
+
+<details>
+
+<summary>❌ <strong>Adoption &#x26; Execution Risk (Pre-Seed)</strong></summary>
+
+Project Owner adoption and early execution risks remain.
+
+✅ **DOB Mitigation:** Clear incentives for Project Owners (capital without debt or dilution), operational proof points (eHive), and strong ecosystem partners.
 
 </details>
 
@@ -318,13 +279,11 @@ DOB Protocol does not remove risk. It makes risk visible, measurable, and liquid
 
 ***
 
-## BUSINESS MODEL
+## Business Model
 
 Our business model is designed to be sustainable, scalable, and aligned with the interests of Project Owners and capital providers. DOB Protocol earns fees at the protocol level through token flows, while creating new opportunities for token holders to participate in platform growth.
 
-Figure: DOB Protocol Business Model overview.
-
-***
+<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Investor-Side Fees
 
@@ -369,22 +328,14 @@ Validation via DOB Validator → Tokenization via Dob Token Studio → Distribut
 
 **Use cases:**
 
-✅ SaaS platforms with monthly subscriptions
-
-✅ Farms measuring and validating grain production
-
-✅ Factories delivering consumer-ready products
-
-✅ Vehicle fleets (land, maritime, river, and air)
-
-✅ Mining fleets: GPUs and AI clusters
-
-✅ Solar and renewable energy
-
-✅ Electric vehicle charging networks
-
-✅ Industrial robots
-
+✅ SaaS platforms with monthly subscriptions\
+✅ Farms measuring and validating grain production\
+✅ Factories delivering consumer-ready products\
+✅ Vehicle fleets (land, maritime, river, and air)\
+✅ Mining fleets: GPUs and AI clusters\
+✅ Solar and renewable energy\
+✅ Electric vehicle charging networks\
+✅ Industrial robots\
 ✅ Data and IoT infrastructure
 
 {% hint style="info" %}
@@ -404,12 +355,9 @@ End-to-end or modular implementation via DOB White Label → Onboard enterprise 
 
 **Benefits:**
 
-✅ Scale without internal teams of programmers or lawyers
-
-✅ Fast time to market: onboard enterprise clients in days, not months
-
-✅ Controlled costs: without expensive custom development
-
+✅ Scale without internal teams of programmers or lawyers\
+✅ Fast time to market: onboard enterprise clients in days, not months\
+✅ Controlled costs: without expensive custom development\
 ✅ Total flexibility: modular implementation as needed
 {% endtab %}
 
@@ -423,33 +371,28 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 
 **Benefits:**
 
-✅ Minimum investment of USD 10.00 eliminates entry barriers
-
-✅ Programmatic liquidity: exit when you want, without being locked until maturity
-
-✅ Fair pricing based on real project performance
-
+✅ Minimum investment of USD 10.00 eliminates entry barriers\
+✅ Programmatic liquidity: exit when you want, without being locked until maturity\
+✅ Fair pricing based on real project performance\
 ✅ Native DeFi integration: capital works on multiple fronts simultaneously
 {% endtab %}
 {% endtabs %}
 
 ***
 
-## PRE-SEED ROUND RESUME
+## PRE-SEED Round Resume
 
-Figure: Pre-seed round allocation breakdown.
+<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (2).png" alt=""><figcaption></figcaption></figure>
 
-***
+## Projections
 
-## PROJECTIONS
-
-Figure: Market opportunity projections - TAM, SAM, SOM.
+<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## TEAM
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Óscar Castillo</strong></td><td><em>Co-founder &#x26; CEO</em></td><td>With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects.</td><td></td></tr><tr><td><strong>Fernando Castillo</strong></td><td><em>Co-founder &#x26; CTO</em></td><td>Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td></td></tr><tr><td><strong>Simón Espínola</strong></td><td><em>Co-founder &#x26; COO</em></td><td>Simón leads operations and business execution at DOB Protocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Óscar Castillo</strong></td><td align="center"><em>Co-founder &#x26; CEO</em></td><td align="center">With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects.</td><td><a href="../../.gitbook/assets/1720463970913.png">1720463970913.png</a></td></tr><tr><td align="center"><strong>Fernando Castillo</strong></td><td align="center"><em>Co-founder &#x26; CTO</em></td><td align="center">Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td><a href="../../.gitbook/assets/Design sem nome (46).png">Design sem nome (46).png</a></td></tr><tr><td align="center"><strong>Simón Espínola</strong></td><td align="center"><em>Co-founder &#x26; COO</em></td><td align="center">Simón leads operations and business execution at DOB Protocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td><a href="../../.gitbook/assets/1752805246370.png">1752805246370.png</a></td></tr></tbody></table>
 
 ***
 
