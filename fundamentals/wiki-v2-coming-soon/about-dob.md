@@ -1,4 +1,8 @@
-# CONCEPT TEXT
+---
+icon: shield-check
+---
+
+# About DOB
 
 DOB Protocol is your starting point for Real World Asset Tokenization.
 

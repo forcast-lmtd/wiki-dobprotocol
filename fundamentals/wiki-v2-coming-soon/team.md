@@ -1,4 +1,8 @@
-# TEAM
+---
+icon: sitemap
+---
+
+# Team
 
 Multidisciplinary team that combines deep expertise in blockchain technology, finance, and business development to create innovative solutions for the future of decentralized finance and real-world asset tokenization.
 

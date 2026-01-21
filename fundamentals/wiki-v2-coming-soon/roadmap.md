@@ -1,4 +1,8 @@
-# ROADMAP
+---
+icon: arrow-up-right-dots
+---
+
+# Roadmap
 
 Follow here the evolution of the DOB Protocol ecosystem and always be the first to know about our news and advances.
 

@@ -1,4 +1,8 @@
-# GLOSSARIO
+---
+icon: arrow-up-a-z
+---
+
+# Glossary
 
 This document presents the main terms used in DOB Protocol documentation, including technical, legal, product, and academic concepts, organized alphabetically for quick reference.
 
