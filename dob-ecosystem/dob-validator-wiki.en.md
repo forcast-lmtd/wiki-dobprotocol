@@ -126,13 +126,13 @@ Access ready-made dashboards to monitor validations and approved projects.
 {% endcolumn %}
 {% endcolumns %}
 
-***
-
 ## Auxiliary Information
+
+***
 
 ### DOB Validator: Detailed Technical Solution
 
-**Structured Forms System**
+#### **Structured Forms System**
 
 ✅ Dynamic forms adapted to the project type
 
@@ -140,7 +140,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 ✅ Support for multiple document types and formats
 
-**Document Upload and Processing**
+
+
+***
+
+#### **Document Upload and Processing**
 
 ✅ Secure document storage system
 
@@ -148,7 +152,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 ✅ Automated processing of structured documents
 
-**Scoring System**
+
+
+***
+
+#### **Scoring System**
 
 ✅ Algorithms based on real and auditable data
 
@@ -156,7 +164,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 ✅ Final score determines eligibility for capital access
 
-**Blockchain Anchoring**
+
+
+***
+
+#### **Blockchain Anchoring**
 
 ✅ Validation metadata anchored on Stellar blockchain using Soroban smart contracts
 
@@ -164,7 +176,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 ✅ Elimination of the need for off-chain trust
 
-**Integration with DOB Protocol Ecosystem**
+
+
+***
+
+#### **Integration with DOB Protocol Ecosystem**
 
 ✅ Mandatory prior validation for tokenization via Dob Token Studio
 
@@ -172,15 +188,27 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 ✅ Compatibility with Dob Whitelabel for financial agents
 
+
+
+***
+
 ### Architecture
 
-**Blockchain:** ✅ Stellar Network with Soroban smart contracts
+**Blockchain:**&#x20;
 
-**Storage:** ✅ Distributed system for documents and metadata
+✅ Stellar Network with Soroban smart contracts
 
-**APIs:** ✅ RESTful APIs for integration with external systems
+**Storage:**&#x20;
 
-**Security:** ✅ End-to-end encryption and cryptographic validation
+✅ Distributed system for documents and metadata
+
+**APIs:**&#x20;
+
+✅ RESTful APIs for integration with external systems
+
+**Security:**&#x20;
+
+✅ End-to-end encryption and cryptographic validation
 
 ***
 
