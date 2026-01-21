@@ -108,17 +108,13 @@ Access ready-made dashboards to monitor your validations and approved projects.
 >
 > ✅ Reduced operational costs
 
-
-
-
-
 <mark style="color:blue;">**Schedule a Meeting with our Team**</mark> &#x20;
 {% endcolumn %}
 {% endcolumns %}
 
-## Auxiliary Information
-
 ***
+
+## Auxiliary Information
 
 ### DOB Validator: Detailed Technical Solution
 
