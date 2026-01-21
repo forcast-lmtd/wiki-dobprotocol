@@ -185,14 +185,27 @@ The technical robustness of our architecture is not an end in itself; it serves 
 DOB Validator is not just a Solution in code, it is the practical application of years of academic research carried out by our co-founders Fernando Castillo (CTO), Oscar Castillo (CEO), and Simón Espínola (COO), with Fernando being the most frequent and active in these activities. In this way, DOB Protocol practically applies advanced concepts of _Trustless Systems_ in its architecture and working methods. The final result of all this are more mature Solutions resilient to the challenges that the market demands today.
 
 {% hint style="info" %}
-#### Applied Concepts (From Paper to Product)
+### Applied Concepts (From Paper to Product)
 
 ***
 
-**Credential-Based Device Registration**
+####
 
-* **Concept:** ✅ Registration systems based on cryptographic credentials for authentication of devices and physical entities.
-* **Application:** ✅ We use verifiable credentials to authenticate Project Owners and physical assets, eliminating dependence on off-chain trusted intermediaries.
+#### **Credential-Based Device Registration**
+
+
+
+**Concept:**&#x20;
+
+✅ Registration systems based on cryptographic credentials for authentication of devices and physical entities.
+
+
+
+**Application:**
+
+✅ We use verifiable credentials to authenticate Project Owners and physical assets, eliminating dependence on off-chain trusted intermediaries.
+
+
 
 ***
 
