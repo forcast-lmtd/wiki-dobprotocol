@@ -75,7 +75,7 @@ Once validated, your project becomes available to global investors, eliminating 
 
 {% column %}
 {% hint style="info" %}
-### Financial Agents and Development Teams
+### DOB Whitelable: For Financial Agents and Development Teams
 
 Financial Institutions and Software Houses need a reliable, compliant, structured, easy-to-operate, quick-setup, and scalable tokenization system to validate projects before offering RWA products in the market under their brands.
 
