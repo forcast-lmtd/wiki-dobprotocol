@@ -54,21 +54,15 @@ Receive a score based on real and auditable data. Only valid and bankable projec
 
 Once validated, your project becomes available to global investors, eliminating geographical and trust barriers.
 
-{% hint style="info" %}
-
-
-✅ Cryptographic credibility verifiable on blockchain
-
-✅ Access to investors in any jurisdiction
-
-✅ Elimination of information asymmetry
-
-✅ Transparent and auditable process
-
-
+> ✅ Cryptographic credibility verifiable on blockchain
+>
+> ✅ Access to investors in any jurisdiction
+>
+> ✅ Elimination of information asymmetry
+>
+> ✅ Transparent and auditable process
 
 <mark style="color:blue;">**Simulate**</mark>**&#x20;  |  &#x20;**<mark style="color:blue;">**Raise Funds**</mark>
-{% endhint %}
 {% endcolumn %}
 
 {% column %}
