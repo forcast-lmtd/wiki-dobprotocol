@@ -100,23 +100,19 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-{% hint style="info" %}
-
-
-✅ Modular plug and play infrastructure
-
-✅ Stable validation APIs
-
-✅ Compliance built into the product
-
-✅ Scalability without internal teams
-
-✅ Reduced operational costs
-
-
+> ✅ Modular plug and play infrastructure
+>
+> ✅ Stable validation APIs
+>
+> ✅ Compliance built into the product
+>
+> ✅ Scalability without internal teams
+>
+> ✅ Reduced operational costs
+>
+>
 
 <mark style="color:blue;">**Schedule a Meeting with our Team**</mark> &#x20;
-{% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
