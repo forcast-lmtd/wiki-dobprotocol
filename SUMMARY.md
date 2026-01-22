@@ -4,14 +4,15 @@
 * [Dobprotocol in simple words](dobprotocol-simple-words/README.md)
   * [Value Proposition](dobprotocol-simple-words/value-proposition.md)
   * [What is the Machine Economy?](dobprotocol-simple-words/what-is-machine-economy.md)
-* [Investor Data Room](investor-data-room.md)
+* [Investor Data Room (V2)](investor-data-room-v2.md)
+* [Research and Development (V2)](research-and-development-v2.md)
+* [Roadmap (V2)](roadmap-v2.md)
+* [Team (V2)](team-v2.md)
 * [Market Cap](market-cap/README.md)
   * [Market Cap in depth](market-cap/in-depth/README.md)
     * [Capture Plan](market-cap/in-depth/capture-plan.md)
     * [One Pager](market-cap/in-depth/one-pager.md)
 * [Pillars](pillars.md)
-* [Team](team.md)
-* [Roadmap](roadmap.md)
 
 ## Dob Ecosystem
 
@@ -52,4 +53,6 @@
   * [Legal](fundamentals/wiki-v2-coming-soon/legal.md)
   * [Glossary](fundamentals/wiki-v2-coming-soon/glossary.md)
 * [WIKI V1](fundamentals/wiki-v1/README.md)
-  * [Investor Data Room](fundamentals/wiki-v1/investor-data-room.md)
+  * [Investor Data Room (V1)](fundamentals/wiki-v1/investor-data-room.md)
+  * [Team (V1)](fundamentals/wiki-v1/team.md)
+  * [Roadmap (V1)](fundamentals/wiki-v1/roadmap.md)

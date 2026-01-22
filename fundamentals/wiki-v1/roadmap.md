@@ -16,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Roadmap
+# Roadmap (V1)
 
-<figure><img src=".gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Phase 1 (0–12 months): Foundation
 
@@ -60,9 +60,9 @@ layout:
 
 ### Phase 3 (24–36 months): Institutional Adoption
 
-**Focus:** Achieve institutional-grade scale with automated, protected flows.
+**Focus:** Achieve institutional-grade scale with automated, protected flows.
 
-**OKRs**
+**OKRs**
 
 * [ ] Deploy autonomous validation with agents allocating capital without manual steps.
 * [ ] Expand distribution of validated tokens into global secondary markets.
