@@ -20,30 +20,32 @@ Our solutions do not only address technical requirements. In addition to being e
 
 ## Solutions
 
+{% tabs %}
+{% tab title="Dob Liquid DEX" %}
 **Dob Liquid DEX**
 
 Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on real performance of tokenized Projects.
 
 <a class="button primary">Discover our DEX</a>
+{% endtab %}
 
-***
-
+{% tab title="Dob Validator" %}
 **Dob Validator**
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
 <a class="button primary">Learn more</a>
+{% endtab %}
 
-***
-
+{% tab title="Dob Token Studio" %}
 **Dob Token Studio**
 
 Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
 
 <a class="button primary">Explore the platform</a>
+{% endtab %}
 
-***
-
+{% tab title="Dob Link" %}
 **Dob Link**
 
 Offer access to your project tokens in a simple and secure way on your own website or wherever you want. No programming required.
@@ -51,8 +53,8 @@ Offer access to your project tokens in a simple and secure way on your own websi
 Automatic double yield: real revenue + DeFi returns.
 
 <a class="button primary">See how it works</a>
-
-***
+{% endtab %}
+{% endtabs %}
 
 **Dob Whitelabel**
 
@@ -64,15 +66,31 @@ Financial agents no longer need to recruit internal teams of programmers and law
 
 ## Dob Token (DOB)
 
-The DOB Token is the gateway to our solutions.
+The DOB Token is the gateway to our solutions. By acquiring this token you can:
 
-By acquiring this token you can:
 
-* **Fast-Track Onboarding:** Projects using DOB have full priority in onboarding and immediate access to the platform.
-* **Cost Reduction:** Pay protocol fees with DOB and get exclusive discounts.
-* **Premium Data and Intelligence:** Access advanced dashboards and exclusive strategic insights.
-* **Active Governance:** Vote on critical decisions and participate directly in the protocol evolution.
-* **Staking:** Lock DOB and receive recurring rewards.
+
+&#x20;✅ **Fast-Track Onboarding:**
+
+Projects using DOB have full priority in onboarding and immediate access to the platform.
+
+✅ **Cost Reduction:**&#x20;
+
+Pay protocol fees with DOB and get exclusive discounts.
+
+✅ **Premium Data and Intelligence:**&#x20;
+
+Access advanced dashboards and exclusive strategic insights.
+
+✅ **Active Governance:**&#x20;
+
+Vote on critical decisions and participate directly in the protocol evolution.
+
+✅ **Staking:**&#x20;
+
+Lock DOB and receive recurring rewards.
+
+
 
 DOB is not just a token - it is competitive advantage for those who operate in the DOB Protocol ecosystem.
 

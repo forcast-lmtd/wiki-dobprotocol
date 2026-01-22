@@ -51,3 +51,5 @@
   * [Research and Development](fundamentals/wiki-v2-coming-soon/research-and-development.md)
   * [Legal](fundamentals/wiki-v2-coming-soon/legal.md)
   * [Glossary](fundamentals/wiki-v2-coming-soon/glossary.md)
+* [WIKI V1](fundamentals/wiki-v1/README.md)
+  * [Investor Data Room](fundamentals/wiki-v1/investor-data-room.md)
