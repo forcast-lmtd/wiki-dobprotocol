@@ -2,7 +2,7 @@
 icon: microchip
 ---
 
-# What is the Machine Economy?
+# What is the Machine Economy? (V1)
 
 The Machine Economy refers to a new economic model where machines (not just humans) generate, manage, and exchange value.
 
@@ -10,7 +10,7 @@ In this model, connected physical infrastructure like EV chargers, sensors, sola
 
 These machines are equipped with smart contracts, IoT devices, and payment rails, allowing them to interact with the digital economy directly.
 
-<figure><img src="../.gitbook/assets/The Machine Economy (X).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/The Machine Economy (X).jpg" alt=""><figcaption></figcaption></figure>
 
 ### A new era
 
@@ -28,7 +28,7 @@ A DAM could be anything from a self-driving taxi, to a drone that delivers packa
 
 Decentralized Autonomous Machines are like a sneak peek at tomorrow: a world where machines don’t just follow orders but join us as partners in building a better economy.
 
-They could cut waste, open doors, and make life easier, but only if we guide them right. [Read more!](../fundamentals/purpose-and-vision/dams.md)
+They could cut waste, open doors, and make life easier, but only if we guide them right. [Read more!](../../purpose-and-vision/dams.md)
 
 <details>
 

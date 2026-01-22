@@ -34,7 +34,7 @@ Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
-<a href="dob-ecosystem/overview-1/" class="button primary">Learn more</a>
+<a href="dob-ecosystem-v1/overview-1/" class="button primary">Learn more</a>
 {% endtab %}
 
 {% tab title="Dob Token Studio" %}
@@ -42,7 +42,7 @@ Certify and Approve your Project with real auditable data and access investors w
 
 Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
 
-<a href="dob-ecosystem/overview.md" class="button primary">Explore the platform</a>
+<a href="dob-ecosystem-v1/overview.md" class="button primary">Explore the platform</a>
 {% endtab %}
 
 {% tab title="Dob Link" %}
@@ -52,7 +52,7 @@ Offer access to your project tokens in a simple and secure way on your own websi
 
 Automatic double yield: real revenue + DeFi returns.
 
-<a href="dob-ecosystem/overview-2/" class="button primary">See how it works</a>
+<a href="dob-ecosystem-v1/overview-2/" class="button primary">See how it works</a>
 {% endtab %}
 {% endtabs %}
 

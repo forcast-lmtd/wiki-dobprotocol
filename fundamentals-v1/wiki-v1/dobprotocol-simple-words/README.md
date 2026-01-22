@@ -16,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Dobprotocol in simple words
+# Dobprotocol in simple words (V1)
 
-<figure><img src="../.gitbook/assets/Dobprotocol supports (Post de Twitter) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dobprotocol supports (Post de Twitter) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dobprotocol is a decentralized infrastructure platform that helps people invest in real-world machines (like EV chargers, solar panels, or data centers) and earn income from their operations.
 

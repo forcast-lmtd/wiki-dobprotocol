@@ -17,7 +17,7 @@ Understanding the financial potential behind Dobprotocol requires looking at the
 
 The total annual capital expenditures (CAPEX) in physical infrastructure that Dobprotocol can validate and tokenize.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### How much potential does this imply for Dob?
 
@@ -32,7 +32,7 @@ The LATAM infrastructure gap ≈ $250B/year.
 
 LAC’s widely cited infrastructure gap is roughly 5% of GDP (\~$250B/yr) needed to meet growth/SDG targets; this is the regional ceiling from which we carve out Dob-relevant, short-cycle categories \[21]\[31]\[32].
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### SOM – Serviceable Obtainable Market
 
@@ -42,11 +42,11 @@ SOM is the share of SAM we can plausibly capture in 1–3 years, built bottom-up
 
 * The obtainable pool of short-term, niche/medium CAPEX projects.
 * Realistic capture ramp.
-* A fixed 1.5% fee — not a blanket % of TAM/SAM \[1].&#x20;
+* A fixed 1.5% fee — not a blanket % of TAM/SAM \[1].
 
-<figure><img src="../../.gitbook/assets/1 year.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 year.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 Year.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3 Year.png" alt=""><figcaption></figcaption></figure>
 
 For Dobprotocol, SOM represents the practical market we can capture in the near term, before expanding into the rest of LATAM and beyond.
 
