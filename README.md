@@ -1,8 +1,24 @@
 ---
 icon: shield-check
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # About DOB (V2)
+
+<figure><img src=".gitbook/assets/Portada Wiki.jpg" alt=""><figcaption></figcaption></figure>
 
 DOB Protocol is your starting point for Real World Asset Tokenization.
 
