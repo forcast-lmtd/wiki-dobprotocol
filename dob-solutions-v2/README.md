@@ -2,9 +2,9 @@
 icon: grid-2-plus
 ---
 
-# Solutions
+# DOB Solutions (V2)
 
-DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization. The DOB ecosystem serves Investors, Project Owners, Financial Agents, and Development Teams who need an integrated way to handle liquidity, validation, distribution, and compliance.
+DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization. DOB ecosystem serves Investors, Project Owners, Financial Agents, and Development Teams who need an integrated way to handle liquidity, validation, distribution, and compliance.
 
 {% tabs %}
 {% tab title="Invest with DOB" %}

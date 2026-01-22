@@ -36,6 +36,8 @@ Our solutions do not only address technical requirements. In addition to being e
 
 ## Solutions
 
+DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization.&#x20;
+
 {% tabs %}
 {% tab title="Dob Liquid DEX" %}
 **Dob Liquid DEX**
