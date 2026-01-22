@@ -506,7 +506,7 @@ We are scheduling individual demos and a live Q\&A session for stakeholders.
 **Resources**
 
 * [Deck](https://docs.google.com/presentation/d/1jKRYZnN_-2IHszJzEJ7PBatzGwNjaczp2q8qtwNM9Ho/edit?slide=id.p#slide=id.p)
-* Fernando Castillo (CTO) Research
+* [Research and Development](research-and-development-v2.md)
 * [DOB Protocol Mission, Vision & Values](https://shorturl.at/VWw7I)
 {% endcolumn %}
 {% endcolumns %}
