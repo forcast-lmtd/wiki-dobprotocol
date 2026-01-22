@@ -9,10 +9,10 @@ DOB Protocol: Your starting point for Real World Asset Tokenization.
 Real-world assets produce real value. But financing them is slow, complex, and limited.
 
 ❌ Tokenizing assets is expensive.\
-&#x20;<mark style="color:$danger;">⨉</mark> There is no liquidity for this class of Real World Assets (RWA).\
-&#x20;<mark style="color:$danger;">×</mark> Investors don't trust what they cannot verify.\
-&#x20;<mark style="color:$danger;">×</mark> Project Owners struggle to raise capital without debt or capital dilution.\
-&#x20;<mark style="color:$danger;">×</mark> There is no adequate way to diversify risks in this type of operations.
+❌ There is no liquidity for this class of Real World Assets (RWA).\
+❌ Investors don't trust what they cannot verify.\
+❌ Project Owners struggle to raise capital without debt or capital dilution.\
+❌ There is no adequate way to diversify risks in this type of operations.
 
 Thus, projects remain underfunded. And value remains locked.
 
@@ -41,8 +41,8 @@ Participate through collective investment structures, backed by real and auditab
 
 ✅ No banks.
 
-<mark style="color:$success;">**✓**</mark> No dilution.\
-<mark style="color:$success;">✓</mark>  No traditional debt.
+✅ No dilution.\
+✅ No traditional debt.
 
 DOB Protocol transforms real-world projects into verified and investable assets. Everything is traceable, compliant, and built for scale. Just projects, performance, and shared value.
 {% endhint %}
