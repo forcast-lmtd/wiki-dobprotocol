@@ -1,17 +1,113 @@
 ---
-icon: hand-wave
+icon: shield-check
 ---
 
-# Dobprotocol Wiki
+# About DOB (V2)
 
-<figure><img src=".gitbook/assets/Banner.jpg" alt=""><figcaption></figcaption></figure>
+DOB Protocol is your starting point for Real World Asset Tokenization.
 
-Here you will find all the essential information about Dobprotocol, the project that is building the infrastructure to validate real-world assets and enable the Machine Economy.
+We offer a modular, scalable, secure and compliant solution to meet the needs of:
 
-This portal brings together the main concepts, tools, and advances of the protocol in a clear and accessible way.
+**✅ Investors** who want to invest resources in this market without the risk of acquiring illiquid assets.
 
-### DOB WILL BE EVERYWHERE
+**✅ Projects** that need capital to finance their operations.
 
-[Website](https://www.dobprotocol.com/) | [X](https://x.com/dobprotocol) | [LinkedIn](https://www.linkedin.com/company/dobprotocol/) | [Instagram](https://www.instagram.com/dobprotocol/) | [Telegram](https://t.me/dobprotocol_official) | [Linktree](https://linktr.ee/dobprotocol)
+**✅ Financial Agents** and **Development Teams** who work with digital asset tokenization.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dobrotocol in simple words</strong></td><td>Because someone had to make the financial layer of the Machine Economy.</td><td><a href=".gitbook/assets/2 (1).jpg">2 (1).jpg</a></td><td></td><td><a href="dobprotocol-simple-words/">dobprotocol-simple-words</a></td></tr><tr><td><strong>Dobprotocol Platform</strong></td><td>A powerful plaform that combines blockchain, AI, and robust validation layers.</td><td><a href=".gitbook/assets/Copia de Copia de Intro to the world of Hackathons (Post de Twitter).png">Copia de Copia de Intro to the world of Hackathons (Post de Twitter).png</a></td><td></td><td><a href="dob-ecosystem/overview.md">overview.md</a></td></tr><tr><td><strong>Dob Validator</strong></td><td>Prove real revenue before unlocking decentralized funding.</td><td><a href=".gitbook/assets/3 (1).jpg">3 (1).jpg</a></td><td></td><td><a href="dob-ecosystem/overview-1/">overview-1</a></td></tr></tbody></table>
+Our solutions do not only address technical requirements. In addition to being easy to use, they are also ready to offer the legal security required in these operations.
+
+***
+
+## Solutions
+
+{% tabs %}
+{% tab title="Dob Liquid DEX" %}
+**Dob Liquid DEX**
+
+Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on real performance of tokenized Projects.
+
+<a href="https://dobprotocol.com/" class="button primary">Discover our DEX</a>
+{% endtab %}
+
+{% tab title="Dob Validator" %}
+**Dob Validator**
+
+Certify and Approve your Project with real auditable data and access investors worldwide.
+
+<a href="dob-ecosystem/overview-1/" class="button primary">Learn more</a>
+{% endtab %}
+
+{% tab title="Dob Token Studio" %}
+**Dob Token Studio**
+
+Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
+
+<a href="dob-ecosystem/overview.md" class="button primary">Explore the platform</a>
+{% endtab %}
+
+{% tab title="Dob Link" %}
+**Dob Link**
+
+Offer access to your project tokens in a simple and secure way on your own website or wherever you want. No programming required.
+
+Automatic double yield: real revenue + DeFi returns.
+
+<a href="dob-ecosystem/overview-2/" class="button primary">See how it works</a>
+{% endtab %}
+{% endtabs %}
+
+**Dob Whitelabel**
+
+Financial agents no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
+
+<a href="investor-data-room-v2.md" class="button primary">Learn More</a>
+
+***
+
+## Dob Token (DOB)
+
+The DOB Token is the gateway to our solutions. By acquiring this token you can:
+
+
+
+&#x20;**Fast-Track Onboarding:**
+
+✅ Projects using DOB have full priority in onboarding and immediate access to the platform.
+
+***
+
+**Cost Reduction:**&#x20;
+
+✅ Pay protocol fees with DOB and get exclusive discounts.
+
+***
+
+**Premium Data and Intelligence:**&#x20;
+
+✅ Access advanced dashboards and exclusive strategic insights.
+
+***
+
+**Active Governance:**&#x20;
+
+✅ Vote on critical decisions and participate directly in the protocol evolution.
+
+***
+
+**Staking:**&#x20;
+
+✅ Lock DOB and receive recurring rewards.
+
+
+
+DOB is not just a token - it is competitive advantage for those who operate in the DOB Protocol ecosystem.
+
+
+
+{% hint style="info" %}
+**Legal Notice and Risks:** DOB Protocol is subject to the laws of Bermuda and exclusive jurisdiction of the courts of Bermuda. Operations conducted through a regulated structure (Class IIGB and DABA Class M) with statutory segregated accounts that provide legal asset segregation. Investments in Real World Asset (RWA) tokens involve significant risks, including total loss of invested capital. Recourse limited exclusively to assets linked to the specific segregated account. The protocol implements multiple layers of risk mitigation, including continuous performance validation, auditable on-chain registration and programmatic liquidity. Not available to residents of prohibited jurisdictions (including USA, OFAC sanctioned countries and FATF blacklisted countries). Past performance does not guarantee future results. Investors should seek independent professional advice. [Consult complete documentation on risks and mitigations](https://dobprotocol-wiki.gitbook.io/dobprotocol-wiki/investor-data-room).
+{% endhint %}
+
+***
+
+**Last update:** January 2026

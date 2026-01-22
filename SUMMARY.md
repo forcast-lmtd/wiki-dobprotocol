@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Dobprotocol Wiki](README.md)
+* [About DOB (V2)](README.md)
 * [Dobprotocol in simple words](dobprotocol-simple-words/README.md)
   * [Value Proposition](dobprotocol-simple-words/value-proposition.md)
   * [What is the Machine Economy?](dobprotocol-simple-words/what-is-machine-economy.md)
 * [Investor Data Room (V2)](investor-data-room-v2.md)
+* [First use case: eHive](first-use-case-ehive.md)
 * [Research and Development (V2)](research-and-development-v2.md)
 * [Roadmap (V2)](roadmap-v2.md)
 * [Team (V2)](team-v2.md)
@@ -25,7 +26,6 @@
 
 ## Fundamentals
 
-* [First use case: eHive](fundamentals/first-use-case-ehive.md)
 * [Traction](fundamentals/traction.md)
 * [Technology](fundamentals/technology.md)
 * [Pitch Decks](fundamentals/pitch-decks/README.md)
@@ -42,7 +42,6 @@
   * [Terms and Conditions](fundamentals/privacy-policy/terms-and-conditions.md)
 * [Customer support](fundamentals/customer-support.md)
 * [WIKI V2 COMING SOON](fundamentals/wiki-v2-coming-soon/README.md)
-  * [About DOB](fundamentals/wiki-v2-coming-soon/about-dob.md)
   * [Investor Data Room](fundamentals/wiki-v2-coming-soon/investor-data-room.md)
   * [DOB Solutions](fundamentals/wiki-v2-coming-soon/dob-solutions/README.md)
     * [DOB Validator](fundamentals/wiki-v2-coming-soon/dob-solutions/dob-validator.md)
@@ -53,6 +52,7 @@
   * [Legal](fundamentals/wiki-v2-coming-soon/legal.md)
   * [Glossary](fundamentals/wiki-v2-coming-soon/glossary.md)
 * [WIKI V1](fundamentals/wiki-v1/README.md)
+  * [Dobprotocol Wiki (V1)](fundamentals/wiki-v1/readme.md)
   * [Investor Data Room (V1)](fundamentals/wiki-v1/investor-data-room.md)
   * [Team (V1)](fundamentals/wiki-v1/team.md)
   * [Roadmap (V1)](fundamentals/wiki-v1/roadmap.md)

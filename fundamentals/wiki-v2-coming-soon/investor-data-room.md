@@ -465,7 +465,7 @@ Our vision is simple: projects that work, earn, and share. We call it Real World
 
 Want to tokenize your productive assets? Reach out to discover how DOB Protocol can help you access capital without debt or dilution.
 
-<a class="button primary">Start Validation</a>
+<a href="https://dobprotocol.com/" class="button primary">Start Validation</a>
 {% endtab %}
 
 {% tab title="For Investors" %}
@@ -475,7 +475,7 @@ Interested in investing in tokenized Real World Assets? Explore our marketplace 
 
 Marketplace: https://dobprotocol.com
 
-<a class="button primary">Explore Marketplace</a>
+<a href="https://dobprotocol.com/" class="button primary">Explore Marketplace</a>
 {% endtab %}
 
 {% tab title="For Financial Agents" %}
@@ -485,12 +485,11 @@ Want to know more about our scalable infrastructure for the future of real-world
 
 Explore the documents. If you want a presentation or an introduction to the founders, contact:
 
-* **simon@dobprotocol.com**
-* **oscar@dobprotocol.com**
+**✅ simon@dobprotocol.com**
+
+**✅ oscar@dobprotocol.com**
 
 We are scheduling individual demos and a live Q\&A session for stakeholders.
-
-<a class="button primary">Contact Us</a>
 {% endtab %}
 {% endtabs %}
 
@@ -500,16 +499,16 @@ We are scheduling individual demos and a live Q\&A session for stakeholders.
 {% column %}
 **Company**
 
-* Company Information
-* Cap-table
-* Traction
+* [Company Information](https://shorturl.at/dksFb)
+* [Cap-table](https://docs.google.com/spreadsheets/d/18u5HXZe5cHt50vz59uaHeEjZfMJd8nCRGjFvCIx9b8c/edit?gid=196707966#gid=196707966)
+* [Traction](https://docs.google.com/document/d/1CaBVkwbT9tFt7HaLLzcbHIRy6F1t7zA9MWx41-gGD08/edit?tab=t.0#heading=h.z4955cmp761e)
 {% endcolumn %}
 
 {% column %}
 **Resources**
 
-* Deck
-* Fernando Castillo (CTO) Research
+* [Deck](https://docs.google.com/presentation/d/1jKRYZnN_-2IHszJzEJ7PBatzGwNjaczp2q8qtwNM9Ho/edit?slide=id.p#slide=id.p)
+* [Research and Development](../../research-and-development-v2.md)
 * DOB Protocol Mission, Vision & Values
 {% endcolumn %}
 {% endcolumns %}
