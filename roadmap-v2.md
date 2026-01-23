@@ -19,7 +19,7 @@ DOB Protocol has finalized integrations on the Stellar network and is advancing 
 
 **Stellar Integrations**
 
-✅ Finalized and operational.
+* Finalized and operational.
 
 ***
 
@@ -60,37 +60,26 @@ DOB Protocol is generating traction on three main fronts:
 
 ### Investors
 
-✅ 100 users currently receiving yield from electric vehicle charger deployments
-
-✅ Functional marketplace at https://dobprotocol.com
-
-✅ Minimum investment of USD 10.00 democratizes access to RWA
+* 100 users currently receiving yield from electric vehicle charger deployments
+* Functional marketplace at https://dobprotocol.com
+* Minimum investment of USD 10.00 democratizes access to RWA
 
 ### Project Owners
 
-✅ **eHive:** First operational physical RWA POC
-
-✅ Active onboarding of additional projects through Dob Tutorials
-
-✅ Pipeline with 10+ projects in validation process
-
-✅ USD 250K in tokenized assets
-
-✅ USD 10M in tokenizable future revenue identified
+* **eHive:** First operational physical RWA POC
+* Active onboarding of additional projects through Dob Tutorials
+* Pipeline with 10+ projects in validation process
+* USD 250K in tokenized assets
+* USD 10M in tokenizable future revenue identified
 
 ### Financial Agents and Development Teams
 
-✅ More than 7 RWA platforms want to be on DOB Protocol
-
-✅ Seeking access to Liquid RWA DEX for existing tokens
-
-✅ Integration with DOB Protocol ecosystem for distribution and liquidity
-
-✅ Interest in white label tokenization and distribution services
-
-✅ Seeking scalable infrastructure without internal teams of programmers and lawyers
-
-✅ Need for embedded compliance and modular legal structures
+* More than 7 RWA platforms want to be on DOB Protocol
+* Seeking access to Liquid RWA DEX for existing tokens
+* Integration with DOB Protocol ecosystem for distribution and liquidity
+* Interest in white label tokenization and distribution services
+* Seeking scalable infrastructure without internal teams of programmers and lawyers
+* Need for embedded compliance and modular legal structures
 
 ***
 
@@ -106,17 +95,15 @@ DOB Protocol is generating traction on three main fronts:
 
 **OKRs**
 
-✅ Launch Dob Validator MVP and onboard first Project Owners
+* Launch Dob Validator MVP and onboard first Project Owners
 
 ⚙️ Finalize second prototype of Dob Validator with complete cryptographic validation system
 
 ⚙️ Launch Dob Token Studio as a validation-backed issuance platform
 
-✅ Establish enforcement and insurance partnerships
-
-⚙️ Finalize first prototype of Dob Link (SDK for onboarding)
-
-✅ Enter Uniswap Hook Incubator to complete Dob Liquid DEX
+* Establish enforcement and insurance partnerships
+* Finalize first prototype of Dob Link (SDK for onboarding)
+* Enter Uniswap Hook Incubator to complete Dob Liquid DEX
 
 ***
 
