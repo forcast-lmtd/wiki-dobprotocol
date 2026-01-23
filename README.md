@@ -76,7 +76,7 @@ Automatic double yield: real revenue + DeFi returns.
 
 **Dob Whitelabel**
 
-Financial agents no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
+Financial Agents and Development Teams no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
 
 <a href="investor-data-room-v2.md" class="button primary">Learn More</a>
 

@@ -8,18 +8,17 @@ DOB Protocol: Your starting point for Real World Asset Tokenization.
 
 Real-world assets produce real value. But financing them is slow, complex, and limited.
 
-❌ Tokenizing assets is expensive.\
-❌ There is no liquidity for this class of Real World Assets (RWA).\
-❌ Investors don't trust what they cannot verify.\
-❌ Project Owners struggle to raise capital without debt or capital dilution.\
-❌ There is no adequate way to diversify risks in this type of operations.
+Tokenizing assets is expensive.\
+There is no liquidity for this class of Real World Assets (RWA).\
+Investors don't trust what they cannot verify.\
+Project Owners struggle to raise capital without debt or capital dilution.
 
 Thus, projects remain underfunded. And value remains locked.
 
-<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Copia de Copia de Deck Dobprotocol - Liquidity Problem (inicial)_20260122_175854_0000 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-DOB Protocol connects real projects with global investors through simple, transparent, and compliant WEB3 on-chain infrastructure - a complete ecosystem of solutions for Real World Asset tokenization.
+DOB Protocol connects real projects with global investors through simple, transparent, and compliant WEB3 on-chain infrastructure.
 
 ***
 
@@ -39,10 +38,11 @@ Offer tokenized products without recruiting internal teams of programmers and la
 
 Participate through collective investment structures, backed by real and auditable project performance yields.
 
-✅ No banks.
+NO banks.
 
-✅ No dilution.\
-✅ No traditional debt.
+NO dilution.
+
+NO traditional debt.
 
 DOB Protocol transforms real-world projects into verified and investable assets. Everything is traceable, compliant, and built for scale. Just projects, performance, and shared value.
 {% endhint %}
@@ -57,11 +57,11 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 
 The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
-✅ Anyone can invest, trade, and exit freely\
-✅ Minimum investment: just USD 10.00\
-✅ Programmatic liquidity based on real revenue flows from projects\
-✅ Dynamic pricing that reflects real project performance in real time\
-✅ Native DeFi: tokens compatible with AMMs, lending pools, and vaults from day one
+Anyone can invest, trade, and exit freely\
+Minimum investment: just USD 10.00\
+Programmatic liquidity based on real revenue flows from projects\
+Dynamic pricing that reflects real project performance in real time\
+Native DeFi: tokens compatible with AMMs, lending pools, and vaults from day one
 
 Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets with programmatic liquidity.
 {% endtab %}
@@ -69,14 +69,14 @@ Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets
 {% tab title="DOB Validator" %}
 #### Dob Validator
 
-Projects are verified to exist, operate, and generate real revenue. Performance and cash flow are continuously monitored and recorded on-chain, ensuring that only validated assets enter the DEX.
+Projects are verified. Performance and cash flow are continuously monitored and recorded on-chain. Only validated assets enter the DEX.
 
-✅ Cryptographic validation with verifiable proof of existence, operation, and revenue\
-✅ Auditable operation trail that eliminates information asymmetry\
-✅ Real data-based scoring: only valid projects reach the market\
-✅ Global access to investors through verifiable credibility
+Cryptographic validation with verifiable proof of existence, operation, and revenue\
+Auditable operation trail that eliminates information asymmetry\
+Real data-based scoring\
+Global access to investors through verifiable credibility
 
-Dob Validator is the official entry point for projects that want to be verified, tokenized, and financed through the protocol.
+Dob Validator is the official entry point for projects that want to be verified, tokenized, and financed through DOB Protocol.
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
@@ -84,10 +84,10 @@ Dob Validator is the official entry point for projects that want to be verified,
 
 Verified project revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure powers the DEX, creating liquid markets for real-world assets.
 
-✅ Tokenization based on future revenue as collateral, not historical\
-✅ Transparent Investment Rounds without losing equity participation\
-✅ Ready legal structure: tokenize in days, not months\
-✅ Revenue flows automatically to investors
+Tokenization based on future revenue as collateral, not historical\
+Transparent Investment Rounds without losing equity participation\
+Ready legal structure: tokenize in days, not months\
+Revenue flows automatically to investors
 
 Dob Token Studio offers access to capital without traditional intermediaries, eliminating access barriers for small and medium-sized projects.
 {% endtab %}
@@ -95,14 +95,12 @@ Dob Token Studio offers access to capital without traditional intermediaries, el
 {% tab title="DOB Link" %}
 #### Dob Link
 
-Offer access to your project's tokens simply and securely on your own website or wherever you want. No programming required. Automatic double yield: real revenue + DeFi returns.
+Offer access to your project's tokens simply and securely on your own website or wherever you want.&#x20;
 
-✅ Embeddable widget on your site without programming\
-✅ Automatic double yield: real revenue + DeFi returns\
-✅ Wallet integration: geographic distribution without barriers\
-✅ Direct sale on your own site without intermediaries
-
-Dob Link transforms your site into a point of sale, democratizing access to tokenized projects for retail investors.
+Embeddable widget on your site without programming\
+Automatic double yield: real revenue + DeFi returns\
+Wallet integration: geographic distribution without barriers\
+Direct sale on your own site without intermediaries
 {% endtab %}
 {% endtabs %}
 
@@ -110,12 +108,10 @@ Dob Link transforms your site into a point of sale, democratizing access to toke
 
 Strategic solution for Financial Agents and Development Teams who want to offer tokenized products without recruiting internal teams of programmers and lawyers. Scale with our solutions through end-to-end or modular implementation.
 
-✅ Ready APIs and reusable modular legal structures\
-✅ Operational dashboards ready for immediate use\
-✅ Compliance embedded in the product\
-✅ Fast time to market: onboard enterprise clients in days, not months
-
-DOB White Label transforms financial agents into tokenization players without the high costs of custom development.
+Ready APIs and reusable modular legal structures\
+Operational dashboards ready for immediate use\
+Compliance embedded in the product\
+Fast time to market: onboard enterprise clients in days, not months
 
 ***
 
@@ -131,26 +127,19 @@ Projects are validated and performance data recorded on-chain via DOB Validator.
 {% step %}
 #### Tokenize
 
-Verified revenue is packaged into RWA tokens via Dob Token Studio, creating transparent Investment Rounds.
+Verified revenue is packaged into RWA tokens via DOB Token Studio, creating transparent Investment Rounds.
 {% endstep %}
 
 {% step %}
 #### Invest and Trade
 
-Tokens are listed on Dob Liquid DEX for free trading, with distribution via Dob Link and programmatic liquidity.
+Tokens are listed on DOB Liquid DEX for free trading, with distribution via DOB Link and programmatic liquidity.
 {% endstep %}
 
 {% step %}
-#### Financial Agents and Development Teams
+#### **Financial Agents and Development Teams**
 
-**Financial Agents and Development Teams** can offer tokenized products to their clients without recruiting internal teams of programmers and lawyers. With DOB White Label, you access:
-
-✅ **Ready APIs** and reusable modular legal structures for rapid integration\
-✅ **Operational dashboards** ready for immediate use, without need for custom development\
-✅ **Embedded compliance** in the product, eliminating need for customized legal structures\
-✅ **Fast time to market**: onboard enterprise clients in days, not months
-
-**Development teams** can integrate DOB Protocol solutions in a modular or end-to-end manner, using documented APIs and ready legal structures. Scale tokenization operations without the high costs of custom development or need for internal legal teams.
+**Financial Agents and Development teams** can integrate DOB Protocol solutions in a modular or end-to-end manner, using documented APIs and ready legal structures.&#x20;
 {% endstep %}
 {% endstepper %}
 
@@ -182,9 +171,9 @@ Figure: eHive project card showing APY and pool balance.
 
 ### Chargers in the Marketplace
 
-✅ Charger #173: Status "Trusted", available for purchase (Price USD 8.5K, APR 15%)\
-✅ Charger #171: Status "Trusted", available for Airdrop\
-✅ Charger #172: Status "Trusted", available for Airdrop
+Charger #173: Status "Trusted", available for purchase (Price USD 8.5K, APR 15%)\
+Charger #171: Status "Trusted", available for Airdrop\
+Charger #172: Status "Trusted", available for Airdrop
 
 * USD 40K tokenized
 * Tokens available for investment (purchase or airdrop)
@@ -193,18 +182,23 @@ Figure: eHive project card showing APY and pool balance.
 
 ### Metrics
 
-* Functional marketplace: https://dobprotocol.com
-* Location: El Bosque 433, Las Condes, Santiago, Chile
-* USD 250K (value of tokenized assets)
-* 10+ projects in pipeline
-* USD 10M in tokenizable future revenue
-* More than 7 RWA platforms want to be on DOB Protocol
+Functional marketplace: https://dobprotocol.com
+
+Location: El Bosque 433, Las Condes, Santiago, Chile
+
+USD 250K (value of tokenized assets)
+
+10+ projects in pipeline
+
+USD 10M in tokenizable future revenue
+
+More than 7 RWA platforms want to be on DOB Protocol
 
 ***
 
 ### Pipeline
 
-* **Bas 3:** Tokenization in process
+**Bas 3:** Tokenization in process
 
 ***
 
@@ -214,7 +208,7 @@ DOB Protocol operates at the intersection of real-world projects, verified perfo
 
 <details>
 
-<summary>❌ <strong>Real-World Performance Risk</strong>                     ✅ DOB Mitigation</summary>
+<summary> <strong>Real-World Performance Risk</strong></summary>
 
 Physical assets may underperform, impacting yield.
 
@@ -224,7 +218,7 @@ Physical assets may underperform, impacting yield.
 
 <details>
 
-<summary>❌ <strong>Data Integrity &#x26; Trust Risk</strong>                            ✅ DOB Mitigation</summary>
+<summary><strong>Data Integrity &#x26; Trust Risk</strong> </summary>
 
 Inaccurate or manipulated data could affect investor confidence.
 
@@ -234,7 +228,7 @@ Inaccurate or manipulated data could affect investor confidence.
 
 <details>
 
-<summary>❌ <strong>Liquidity Risk</strong>                                                      ✅ DOB Mitigation</summary>
+<summary><strong>Liquidity Risk</strong></summary>
 
 RWA markets are structurally illiquid, limiting exits.
 
@@ -244,7 +238,7 @@ RWA markets are structurally illiquid, limiting exits.
 
 <details>
 
-<summary>❌ <strong>Smart Contract &#x26; Protocol Risk</strong>                   ✅ DOB Mitigation</summary>
+<summary><strong>Smart Contract &#x26; Protocol Risk</strong></summary>
 
 Smart contract vulnerabilities or integration failures may impact operations.
 
@@ -254,7 +248,7 @@ Smart contract vulnerabilities or integration failures may impact operations.
 
 <details>
 
-<summary>❌ <strong>Regulatory &#x26; Compliance Risk</strong>                     ✅ DOB Mitigation</summary>
+<summary><strong>Regulatory &#x26; Compliance Risk</strong></summary>
 
 Regulatory treatment of tokenized revenue may evolve.
 
@@ -264,7 +258,7 @@ Regulatory treatment of tokenized revenue may evolve.
 
 <details>
 
-<summary>❌ <strong>Adoption &#x26; Execution Risk (Pre-Seed)</strong>     ✅ DOB Mitigation</summary>
+<summary><strong>Adoption &#x26; Execution Risk (Pre-Seed)</strong></summary>
 
 Project Owner adoption and early execution risks remain.
 
@@ -288,13 +282,13 @@ Our business model is designed to be sustainable, scalable, and aligned with the
 
 ### Investor-Side Fees
 
-* **Investment Fee:** 1.5% fee applied to each contribution made by investors through the platform.
+**Investment Fee:** 1.5% fee applied to each contribution made by investors through the platform.
 
 ***
 
 ### Revenue-Share Fees
 
-* **Distribution Fee:** 0.5% of all revenue generated by validated projects, deducted before distribution to investors.
+**Distribution Fee:** 0.5% of all revenue generated by validated projects, deducted before distribution to investors.
 
 ***
 
@@ -329,15 +323,15 @@ Validation via DOB Validator → Tokenization via Dob Token Studio → Distribut
 
 **Use cases:**
 
-✅ SaaS platforms with monthly subscriptions\
-✅ Farms measuring and validating grain production\
-✅ Factories delivering consumer-ready products\
-✅ Vehicle fleets (land, maritime, river, and air)\
-✅ Mining fleets: GPUs and AI clusters\
-✅ Solar and renewable energy\
-✅ Electric vehicle charging networks\
-✅ Industrial robots\
-✅ Data and IoT infrastructure
+SaaS platforms with monthly subscriptions\
+Farms measuring and validating grain production\
+Factories delivering consumer-ready products\
+Vehicle fleets (land, maritime, river, and air)\
+Mining fleets: GPUs and AI clusters\
+Solar and renewable energy\
+Electric vehicle charging networks\
+Industrial robots\
+Data and IoT infrastructure
 
 {% hint style="info" %}
 **Any Productive System can be addressed by DOB Protocol**
@@ -484,9 +478,9 @@ Want to know more about our scalable infrastructure for the future of real-world
 
 Explore the documents. If you want a presentation or an introduction to the founders, contact:
 
-**✅ simon@dobprotocol.com**
+**simon@dobprotocol.com**
 
-**✅ oscar@dobprotocol.com**
+**oscar@dobprotocol.com**
 
 We are scheduling individual demos and a live Q\&A session for stakeholders.
 {% endtab %}
