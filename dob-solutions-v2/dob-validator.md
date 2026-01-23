@@ -133,15 +133,15 @@ Access ready-made dashboards to monitor validations and approved projects.
 {% hint style="info" %}
 
 
-✅ Modular plug and play infrastructure
+Modular plug and play infrastructure
 
-✅ Stable validation APIs
+Stable validation APIs
 
-✅ Compliance built into the product
+Compliance built into the product
 
-✅ Scalability without additional internal teams
+Scalability without additional internal teams
 
-✅ Reduced operational costs
+Reduced operational costs
 
 
 
