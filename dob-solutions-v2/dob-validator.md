@@ -11,15 +11,11 @@ DOB Validator solves the critical trust problem in the blockchain universe (DePI
 
 
 
-Requires verifiable proof of existence, operation, and revenue generation before accessing capital.
-
-Combines structured forms, document upload, scoring, and metadata anchoring on blockchain.
-
-Ensures that only valid and bankable projects reach the market via DOB.
-
-Creates an auditable cryptographic trail for each project.
-
-Eliminates information asymmetry between Project Owner and investor.
+* Requires verifiable proof of existence, operation, and revenue generation before accessing capital.
+* Combines structured forms, document upload, scoring, and metadata anchoring on blockchain.
+* Ensures that only valid and bankable projects reach the market via DOB.
+* Creates an auditable cryptographic trail for each project.
+* Eliminates information asymmetry between Project Owner and investor.
 
 
 {% endhint %}
@@ -73,13 +69,10 @@ Once validated, your project becomes available to global investors, eliminating 
 {% hint style="info" %}
 
 
-Cryptographic credibility verifiable on blockchain
-
-Access to investors in any jurisdiction
-
-Elimination of information asymmetry
-
-Transparent and auditable process
+* Cryptographic credibility verifiable on blockchain
+* Access to investors in any jurisdiction
+* Elimination of information asymmetry
+* Transparent and auditable process
 
 
 
@@ -133,15 +126,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 {% hint style="info" %}
 
 
-Modular plug and play infrastructure
-
-Stable validation APIs
-
-Compliance built into the product
-
-Scalability without additional internal teams
-
-Reduced operational costs
+* Modular plug and play infrastructure
+* Stable validation APIs
+* Compliance built into the product
+* Scalability without additional internal teams
+* Reduced operational costs
 
 
 
@@ -159,13 +148,9 @@ Reduced operational costs
 
 **Structured Forms System**
 
-
-
-Dynamic forms adapted to the project type
-
-Real-time validation of mandatory fields
-
-Support for multiple document types and formats
+* Dynamic forms adapted to the project type
+* Real-time validation of mandatory fields
+* Support for multiple document types and formats
 
 
 
@@ -175,13 +160,9 @@ Support for multiple document types and formats
 
 **Document Upload and Processing**
 
-
-
-Secure document storage system
-
-Authenticity and integrity verification
-
-Automated processing of structured documents
+* Secure document storage system
+* Authenticity and integrity verification
+* Automated processing of structured documents
 
 
 
@@ -191,13 +172,9 @@ Automated processing of structured documents
 
 **Scoring System**
 
-
-
-Algorithms based on real and auditable data
-
-Multiple evaluation dimensions: Verifiable existence of the project, Proven operational functioning, Validated revenue generation, and Operational history
-
-Final score determines eligibility for capital access
+* Algorithms based on real and auditable data
+* Multiple evaluation dimensions: Verifiable existence of the project, Proven operational functioning, Validated revenue generation, and Operational history
+* Final score determines eligibility for capital access
 
 
 
@@ -207,13 +184,9 @@ Final score determines eligibility for capital access
 
 **Blockchain Anchoring**
 
-
-
-Validation metadata anchored on Stellar blockchain using Soroban smart contracts
-
-Immutable and auditable cryptographic trail
-
-Elimination of the need for off-chain trust
+* Validation metadata anchored on Stellar blockchain using Soroban smart contracts
+* Immutable and auditable cryptographic trail
+* Elimination of the need for off-chain trust
 
 
 
@@ -225,11 +198,9 @@ Elimination of the need for off-chain trust
 
 
 
-Mandatory prior validation for tokenization via DOB Token Studio
-
-Integration with DOB Liquid DEX for validated projects
-
-Compatibility with DOB Whitelabel for financial agents
+* Mandatory prior validation for tokenization via DOB Token Studio
+* Integration with DOB Liquid DEX for validated projects
+* Compatibility with DOB Whitelabel for financial agents
 
 
 
@@ -319,15 +290,11 @@ DOB Validator is not just a Solution in code, it is the practical application of
 
 
 
-**Concept:**&#x20;
-
-Registration systems based on cryptographic credentials for authentication of devices and physical entities.
+**Concept:** Registration systems based on cryptographic credentials for authentication of devices and physical entities.
 
 
 
-**Application:**
-
-We use verifiable credentials to authenticate Project Owners and physical assets, eliminating dependence on off-chain trusted intermediaries.
+**Application:** We use verifiable credentials to authenticate Project Owners and physical assets, eliminating dependence on off-chain trusted intermediaries.
 
 
 
@@ -339,15 +306,11 @@ We use verifiable credentials to authenticate Project Owners and physical assets
 
 
 
-**Concept:**&#x20;
-
-Chaining of computations where the output of one step serves as cryptographic proof for the next.
+**Concept:** Chaining of computations where the output of one step serves as cryptographic proof for the next.
 
 
 
-**Application:**&#x20;
-
-The validation dimensions form a chain of trust (Existence → Operation → Revenue → Scoring). Each step generates an immutable proof anchored via Soroban smart contracts on Stellar.
+**Application:** The validation dimensions form a chain of trust (Existence → Operation → Revenue → Scoring). Each step generates an immutable proof anchored via Soroban smart contracts on Stellar.
 
 
 

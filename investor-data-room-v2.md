@@ -8,10 +8,10 @@ DOB Protocol: Your starting point for Real World Asset Tokenization.
 
 Real-world assets produce real value. But financing them is slow, complex, and limited.
 
-Tokenizing assets is expensive.\
-There is no liquidity for this class of Real World Assets (RWA).\
-Investors don't trust what they cannot verify.\
-Project Owners struggle to raise capital without debt or capital dilution.
+* Tokenizing assets is expensive.
+* There is no liquidity for this class of Real World Assets (RWA).
+* Investors don't trust what they cannot verify.
+*  Project Owners struggle to raise capital without debt or capital dilution.
 
 Thus, projects remain underfunded. And value remains locked.
 
@@ -38,11 +38,9 @@ Offer tokenized products without recruiting internal teams of programmers and la
 
 Participate through collective investment structures, backed by real and auditable project performance yields.
 
-NO banks.
-
-NO dilution.
-
-NO traditional debt.
+* NO banks.
+* NO dilution.
+* NO traditional debt.
 
 DOB Protocol transforms real-world projects into verified and investable assets. Everything is traceable, compliant, and built for scale. Just projects, performance, and shared value.
 {% endhint %}
@@ -57,11 +55,11 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 
 The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
-Anyone can invest, trade, and exit freely\
-Minimum investment: just USD 10.00\
-Programmatic liquidity based on real revenue flows from projects\
-Dynamic pricing that reflects real project performance in real time\
-Native DeFi: tokens compatible with AMMs, lending pools, and vaults from day one
+* Programmatic liquidity based on real revenue flows from projects
+* Anyone can invest, trade, and exit freely
+* Minimum investment: just USD 10.00
+* Dynamic pricing that reflects real project performance in real time
+* Native DeFi: tokens compatible with AMMs, lending pools, and vaults from day one
 
 Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets with programmatic liquidity.
 {% endtab %}
@@ -71,10 +69,10 @@ Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets
 
 Projects are verified. Performance and cash flow are continuously monitored and recorded on-chain. Only validated assets enter the DEX.
 
-Cryptographic validation with verifiable proof of existence, operation, and revenue\
-Auditable operation trail that eliminates information asymmetry\
-Real data-based scoring\
-Global access to investors through verifiable credibility
+* Cryptographic validation with verifiable proof of existence, operation, and revenue
+* Auditable operation trail that eliminates information asymmetry
+* Real data-based scoring
+* Global access to investors through verifiable credibility
 
 Dob Validator is the official entry point for projects that want to be verified, tokenized, and financed through DOB Protocol.
 {% endtab %}
@@ -84,10 +82,10 @@ Dob Validator is the official entry point for projects that want to be verified,
 
 Verified project revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure powers the DEX, creating liquid markets for real-world assets.
 
-Tokenization based on future revenue as collateral, not historical\
-Transparent Investment Rounds without losing equity participation\
-Ready legal structure: tokenize in days, not months\
-Revenue flows automatically to investors
+* Tokenization based on future revenue as collateral, not historical
+* Transparent Investment Rounds without losing equity participation
+* Ready legal structure: tokenize in days, not months
+* Revenue flows automatically to investors
 
 Dob Token Studio offers access to capital without traditional intermediaries, eliminating access barriers for small and medium-sized projects.
 {% endtab %}
@@ -97,10 +95,10 @@ Dob Token Studio offers access to capital without traditional intermediaries, el
 
 Offer access to your project's tokens simply and securely on your own website or wherever you want.&#x20;
 
-Embeddable widget on your site without programming\
-Automatic double yield: real revenue + DeFi returns\
-Wallet integration: geographic distribution without barriers\
-Direct sale on your own site without intermediaries
+* Embeddable widget on your site without programming
+* Automatic double yield: real revenue + DeFi returns
+* Wallet integration: geographic distribution without barriers
+* Direct sale on your own site without intermediaries
 {% endtab %}
 {% endtabs %}
 
@@ -323,15 +321,14 @@ Validation via DOB Validator → Tokenization via Dob Token Studio → Distribut
 
 **Use cases:**
 
-SaaS platforms with monthly subscriptions\
-Farms measuring and validating grain production\
-Factories delivering consumer-ready products\
-Vehicle fleets (land, maritime, river, and air)\
-Mining fleets: GPUs and AI clusters\
-Solar and renewable energy\
-Electric vehicle charging networks\
-Industrial robots\
-Data and IoT infrastructure
+* SaaS platforms with monthly subscriptions
+* Farms measuring and validating grain production
+* Factories delivering consumer-ready products
+* Mining fleets: GPUs and AI clusters
+* Solar and renewable energy
+* Electric vehicle charging networks
+* Industrial robots
+* Data and IoT infrastructure
 
 {% hint style="info" %}
 **Any Productive System can be addressed by DOB Protocol**
@@ -478,9 +475,8 @@ Want to know more about our scalable infrastructure for the future of real-world
 
 Explore the documents. If you want a presentation or an introduction to the founders, contact:
 
-**simon@dobprotocol.com**
-
-**oscar@dobprotocol.com**
+* **simon@dobprotocol.com**
+* **oscar@dobprotocol.com**
 
 We are scheduling individual demos and a live Q\&A session for stakeholders.
 {% endtab %}
