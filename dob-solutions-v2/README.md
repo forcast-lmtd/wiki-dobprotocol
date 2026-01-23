@@ -12,13 +12,13 @@ DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Ass
 
 DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Uses Uniswap v4 Hooks backed by revenue streams to provide integrated liquidity for all listed RWA tokens.
 
-✅ Access assets starting from USD 10.00.
+Access assets starting from USD 10.00.
 
-✅ Partial exit mechanisms at any time: Liquidity based on real project revenue streams. No dependence on manual market makers or OTC.
+Partial exit mechanisms at any time: Liquidity based on real project revenue streams. No dependence on manual market makers or OTC.
 
-✅ Real-time dynamic pricing: Algorithms incorporate auditable on-chain data. Transparent risk and return through pricing that reflects real performance.
+Real-time dynamic pricing: Algorithms incorporate auditable on-chain data. Transparent risk and return through pricing that reflects real performance.
 
-✅ Compound capital in multiple DeFi strategies: Your capital works simultaneously on several fronts without intervention.
+Compound capital in multiple DeFi strategies: Your capital works simultaneously on several fronts without intervention.
 
 <a class="button primary">Learn More</a>
 {% endtab %}
@@ -26,7 +26,7 @@ DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Us
 {% tab title="Tokenize and Distribute" %}
 #### DOB Validator
 
-✅ Finance your Project with real auditable data. The solution combines structured forms, documentation, scoring, and on-chain anchoring.
+Finance your Project with real auditable data. The solution combines structured forms, documentation, scoring, and on-chain anchoring.
 
 <a href="dob-validator.md" class="button primary">Learn More</a>
 
@@ -34,7 +34,7 @@ DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Us
 
 #### DOB Token Studio
 
-✅ Tokenize your operation and access resources worldwide without banks, high interest rates, loss of control, or capital dilution.
+Tokenize your operation and access resources worldwide without banks, high interest rates, loss of control, or capital dilution.
 
 <a class="button primary">Learn More</a>
 
@@ -42,7 +42,7 @@ DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Us
 
 #### DOB Link
 
-✅ Offer access to your project tokens simply and securely on your own website or wherever you choose. Automatic double yield: real revenue + DeFi returns.
+Offer access to your project tokens simply and securely on your own website or wherever you choose. Automatic double yield: real revenue + DeFi returns.
 
 <a class="button primary">Learn More</a>
 {% endtab %}
@@ -52,13 +52,10 @@ DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Us
 
 Modular plug-and-play tokenization solution. Resolves technical and operational challenges for Financial Agents and Development Teams.
 
-✅ Can be applied with your brand as an end-to-end solution or to meet specific needs.
-
-✅ Eliminates high development costs: Modular solution with ready-to-use stable tokenization APIs.
-
-✅ Onboard enterprise clients in days: Ready-to-use operational dashboards and reusable legal structures accelerate time to market. From months to days without building from scratch.
-
-✅ Built-in compliance reduces dependence on internal legal teams and allows operations to scale while maintaining cost control and regulatory standardization across different jurisdictions.
+* Can be applied with your brand as an end-to-end solution or to meet specific needs.
+* Eliminates high development costs: Modular solution with ready-to-use stable tokenization APIs.
+* Onboard enterprise clients in days: Ready-to-use operational dashboards and reusable legal structures accelerate time to market. From months to days without building from scratch.
+* Built-in compliance reduces dependence on internal legal teams and allows operations to scale while maintaining cost control and regulatory standardization across different jurisdictions.
 
 <a class="button primary">Learn More</a>
 {% endtab %}

@@ -11,15 +11,15 @@ DOB Validator solves the critical trust problem in the blockchain universe (DePI
 
 
 
-✅ Requires verifiable proof of existence, operation, and revenue generation before accessing capital.
+Requires verifiable proof of existence, operation, and revenue generation before accessing capital.
 
-✅ Combines structured forms, document upload, scoring, and metadata anchoring on blockchain.
+Combines structured forms, document upload, scoring, and metadata anchoring on blockchain.
 
-✅ Ensures that only valid and bankable projects reach the market via DOB.
+Ensures that only valid and bankable projects reach the market via DOB.
 
-✅ Creates an auditable cryptographic trail for each project.
+Creates an auditable cryptographic trail for each project.
 
-✅ Eliminates information asymmetry between Project Owner and investor.
+Eliminates information asymmetry between Project Owner and investor.
 
 
 {% endhint %}
@@ -73,13 +73,13 @@ Once validated, your project becomes available to global investors, eliminating 
 {% hint style="info" %}
 
 
-✅ Cryptographic credibility verifiable on blockchain
+Cryptographic credibility verifiable on blockchain
 
-✅ Access to investors in any jurisdiction
+Access to investors in any jurisdiction
 
-✅ Elimination of information asymmetry
+Elimination of information asymmetry
 
-✅ Transparent and auditable process
+Transparent and auditable process
 
 
 
@@ -161,11 +161,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-✅ Dynamic forms adapted to the project type
+Dynamic forms adapted to the project type
 
-✅ Real-time validation of mandatory fields
+Real-time validation of mandatory fields
 
-✅ Support for multiple document types and formats
+Support for multiple document types and formats
 
 
 
@@ -177,11 +177,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-✅ Secure document storage system
+Secure document storage system
 
-✅ Authenticity and integrity verification
+Authenticity and integrity verification
 
-✅ Automated processing of structured documents
+Automated processing of structured documents
 
 
 
@@ -193,11 +193,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-✅ Algorithms based on real and auditable data
+Algorithms based on real and auditable data
 
-✅ Multiple evaluation dimensions: Verifiable existence of the project, Proven operational functioning, Validated revenue generation, and Operational history
+Multiple evaluation dimensions: Verifiable existence of the project, Proven operational functioning, Validated revenue generation, and Operational history
 
-✅ Final score determines eligibility for capital access
+Final score determines eligibility for capital access
 
 
 
@@ -209,11 +209,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-✅ Validation metadata anchored on Stellar blockchain using Soroban smart contracts
+Validation metadata anchored on Stellar blockchain using Soroban smart contracts
 
-✅ Immutable and auditable cryptographic trail
+Immutable and auditable cryptographic trail
 
-✅ Elimination of the need for off-chain trust
+Elimination of the need for off-chain trust
 
 
 
@@ -225,11 +225,11 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-✅ Mandatory prior validation for tokenization via DOB Token Studio
+Mandatory prior validation for tokenization via DOB Token Studio
 
-✅ Integration with DOB Liquid DEX for validated projects
+Integration with DOB Liquid DEX for validated projects
 
-✅ Compatibility with DOB Whitelabel for financial agents
+Compatibility with DOB Whitelabel for financial agents
 
 
 
@@ -243,25 +243,25 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 **Blockchain:**
 
-✅ Stellar Network with Soroban smart contracts
+Stellar Network with Soroban smart contracts
 
 
 
 **Storage:**&#x20;
 
-✅ Distributed system for documents and metadata
+Distributed system for documents and metadata
 
 
 
 **APIs:**
 
-✅ RESTful APIs for integration with external systems
+RESTful APIs for integration with external systems
 
 
 
 **Security:**&#x20;
 
-✅ End-to-end encryption and cryptographic validation
+End-to-end encryption and cryptographic validation
 
 
 {% endhint %}
@@ -279,11 +279,11 @@ The technical robustness of our architecture is not an end in itself; it serves 
 
 
 
-✅ Operation under Class IIGB and DABA Class M license
+Operation under Class IIGB and DABA Class M license
 
-✅ Exclusive jurisdiction of Bermuda courts, globally recognized for legal certainty in digital assets.
+Exclusive jurisdiction of Bermuda courts, globally recognized for legal certainty in digital assets.
 
-✅ Regulatory compliance built into the validation stage, eliminating subsequent legal friction.
+Regulatory compliance built into the validation stage, eliminating subsequent legal friction.
 
 
 
@@ -297,13 +297,13 @@ The technical robustness of our architecture is not an end in itself; it serves 
 
 **Statutory Segregated Accounts:**
 
-✅ Each validated and tokenized project operates in a shielded legal silo.
+Each validated and tokenized project operates in a shielded legal silo.
 
 
 
 **Asset Protection:**&#x20;
 
-✅ Token holders' recourse is limited exclusively to the assets linked to that specific account, without contamination by the operator's corporate risk.
+Token holders' recourse is limited exclusively to the assets linked to that specific account, without contamination by the operator's corporate risk.
 
 
 {% endhint %}
@@ -321,13 +321,13 @@ DOB Validator is not just a Solution in code, it is the practical application of
 
 **Concept:**&#x20;
 
-✅ Registration systems based on cryptographic credentials for authentication of devices and physical entities.
+Registration systems based on cryptographic credentials for authentication of devices and physical entities.
 
 
 
 **Application:**
 
-✅ We use verifiable credentials to authenticate Project Owners and physical assets, eliminating dependence on off-chain trusted intermediaries.
+We use verifiable credentials to authenticate Project Owners and physical assets, eliminating dependence on off-chain trusted intermediaries.
 
 
 
@@ -341,13 +341,13 @@ DOB Validator is not just a Solution in code, it is the practical application of
 
 **Concept:**&#x20;
 
-✅ Chaining of computations where the output of one step serves as cryptographic proof for the next.
+Chaining of computations where the output of one step serves as cryptographic proof for the next.
 
 
 
 **Application:**&#x20;
 
-✅ The validation dimensions form a chain of trust (Existence → Operation → Revenue → Scoring). Each step generates an immutable proof anchored via Soroban smart contracts on Stellar.
+The validation dimensions form a chain of trust (Existence → Operation → Revenue → Scoring). Each step generates an immutable proof anchored via Soroban smart contracts on Stellar.
 
 
 
@@ -359,15 +359,11 @@ DOB Validator is not just a Solution in code, it is the practical application of
 
 
 
-**Concept:**&#x20;
-
-✅ Operations based on trustworthy evidence (_Trustworthy Evidence_) and auditable development.
+**Concept:** Operations based on trustworthy evidence (_Trustworthy Evidence_) and auditable development.
 
 
 
-**Application:**&#x20;
-
-✅ More than 320 commits documented following rigorous transparency standards. The system doesn't just say it validated; it provides the cryptographic evidence of the validation, eliminating information asymmetry.
+**Application:** More than 320 commits documented following rigorous transparency standards. The system doesn't just say it validated; it provides the cryptographic evidence of the validation, eliminating information asymmetry.
 
 
 {% endhint %}
@@ -376,15 +372,15 @@ DOB Validator is not just a Solution in code, it is the practical application of
 
 DOB Validator resolves the following critical pain points in the RWA market:
 
-| Pain Point                                                                                                                                                                                                                                                       | How DOB Validator Solves It                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><strong>Lack of reliable validation standard</strong> </p><p></p><p>❌ There is no reliable standard for project validation. Reported performance, not verified. Declared revenue, not proved.</p>                                                             | <p>✅ Cryptographic validation system with verifiable proof of existence, operation, and revenue anchored on blockchain. </p><p></p><p>✅ Standardized and transparent process ensuring consistency in all validations.</p> |
-| <p><strong>Lack of cryptographic proofs of real operation</strong> </p><p></p><p>❌ Projects may declare operation without verifiable proofs. Lack of mechanisms to prove real existence and operation.</p>                                                       | <p>✅ Validation metadata anchored on Stellar blockchain using Soroban smart contracts. </p><p></p><p>✅ Immutable and auditable cryptographic trail proving the project's real operation.</p>                              |
-| <p><strong>Total information asymmetry between Project Owner and investor</strong> </p><p></p><p>❌ Investors lack access to verifiable information about projects. Dependence on information provided by the Project Owner without independent verification.</p> | <p>✅ Complete operation trail on blockchain eliminates information asymmetry. </p><p></p><p>✅ Scoring system based on real and auditable data available to investors.</p>                                                 |
-| <p><strong>Off-chain trust that does not scale on-chain</strong> </p><p></p><p>❌ Dependence on manual trust and reputation that doesn't scale for on-chain tokenization. Lack of automated verification mechanisms.</p>                                          | <p>✅ Automated cryptographic validation eliminates the need for off-chain trust. </p><p></p><p>✅ Scalable system that processes multiple validations simultaneously.</p>                                                  |
-| <p><strong>Fragmented or manipulable operative data</strong> </p><p></p><p>❌ Information about projects may be fragmented or manipulated. Lack of a single verifiable source of truth.</p>                                                                       | <p>✅ Centralized validation system with data anchored on blockchain. </p><p></p><p>✅ Single source of verifiable and immutable truth for project information.</p>                                                         |
-| <p><strong>Dependence on operator reputation</strong> </p><p></p><p>❌ Investors depend on the Project Owner's reputation instead of verifiable proofs. Entry barriers for new projects without history.</p>                                                      | <p>✅ Scoring system based on real data, not reputation. </p><p></p><p>✅ New projects can be validated through verifiable proofs, eliminating dependence on history.</p>                                                   |
-| <p><strong>Geographical and trust barriers</strong> </p><p></p><p>❌ Projects in some jurisdictions struggle to access global investors. Lack of international trust mechanisms.</p>                                                                              | <p></p><p>✅ Internationally recognized validation allows access to investors in any jurisdiction. </p><p></p><p>✅ Elimination of geographical barriers through globally verifiable cryptographic validation.</p>          |
+| Pain Point                                                                                                                                                                                                                                                     | How DOB Validator Solves It                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Lack of reliable validation standard</strong> </p><p></p><p>There is no reliable standard for project validation. Reported performance, not verified. Declared revenue, not proved.</p>                                                             | <p>Cryptographic validation system with verifiable proof of existence, operation, and revenue anchored on blockchain.</p><p></p><p>Standardized and transparent process ensuring consistency in all validations.</p> |
+| <p><strong>Lack of cryptographic proofs of real operation</strong> </p><p></p><p> Projects may declare operation without verifiable proofs. Lack of mechanisms to prove real existence and operation.</p>                                                      | <p>Validation metadata anchored on Stellar blockchain using Soroban smart contracts. </p><p></p><p>Immutable and auditable cryptographic trail proving the project's real operation.</p>                             |
+| <p><strong>Total information asymmetry between Project Owner and investor</strong> </p><p></p><p>Investors lack access to verifiable information about projects. Dependence on information provided by the Project Owner without independent verification.</p> | <p>Complete operation trail on blockchain eliminates information asymmetry. </p><p></p><p>Scoring system based on real and auditable data available to investors.</p>                                                |
+| <p><strong>Off-chain trust that does not scale on-chain</strong> </p><p></p><p>Dependence on manual trust and reputation that doesn't scale for on-chain tokenization. Lack of automated verification mechanisms.</p>                                          | <p>Automated cryptographic validation eliminates the need for off-chain trust. </p><p></p><p>Scalable system that processes multiple validations simultaneously.</p>                                                 |
+| <p><strong>Fragmented or manipulable operative data</strong> </p><p></p><p>Information about projects may be fragmented or manipulated. Lack of a single verifiable source of truth.</p>                                                                       | <p>Centralized validation system with data anchored on blockchain. </p><p></p><p>Single source of verifiable and immutable truth for project information.</p>                                                        |
+| <p><strong>Dependence on operator reputation</strong> </p><p></p><p>Investors depend on the Project Owner's reputation instead of verifiable proofs. Entry barriers for new projects without history.</p>                                                      | <p>Scoring system based on real data, not reputation. </p><p></p><p>New projects can be validated through verifiable proofs, eliminating dependence on history.</p>                                                  |
+| <p><strong>Geographical and trust barriers</strong> </p><p></p><p>Projects in some jurisdictions struggle to access global investors. Lack of international trust mechanisms.</p>                                                                              | <p></p><p>Internationally recognized validation allows access to investors in any jurisdiction. </p><p></p><p>Elimination of geographical barriers through globally verifiable cryptographic validation.</p>         |
 
 ## Shall We Begin?
 
