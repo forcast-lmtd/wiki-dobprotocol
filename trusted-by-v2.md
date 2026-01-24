@@ -2,9 +2,11 @@
 icon: screen-users
 ---
 
-# Trusted by
+# Trusted by (V2)
 
 Since its founding, DOB Protocol has worked intensively to establish relevant partners in the market who act as catalysts for innovation initiatives across different segments that extend far beyond the Web3 universe.
+
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

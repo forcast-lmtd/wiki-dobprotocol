@@ -4,6 +4,8 @@ icon: plug-circle-bolt
 
 # First use case: eHive (V2)
 
+<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
 [eHive](https://ehive.cc/) is the first infrastructure operator to go live on Dobprotocol. Founded by [Juan Oyanedel](https://www.linkedin.com/in/juan-oyanedel-858537b7/), eHive installs and manages smart electric vehicle chargers across Chile and Perú.
 
 Through eHive, you invest in accessible, efficient, and sustainable charging solutions that accelerate electric mobility adoption, driving us toward a greener future.

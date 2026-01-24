@@ -18,7 +18,7 @@ layout:
 
 # About DOB (V2)
 
-<figure><img src=".gitbook/assets/Portada Wiki.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 DOB Protocol is your starting point for Real World Asset Tokenization.
 
