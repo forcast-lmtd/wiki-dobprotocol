@@ -6,6 +6,8 @@ icon: gavel
 
 Learn how DOB Protocol's legal framework works and what legal protections we provide for everyone who interacts with our Real World Assets (RWA) Tokenization Solutions.
 
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## The Foundation: Ensuro Re Limited

@@ -4,6 +4,8 @@ icon: arrow-up-right-dots
 
 # Roadmap (V2)
 
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+
 Follow here the evolution of the DOB Protocol ecosystem and always be the first to know about our news and advances.
 
 ### Our traction comes from three main fronts:

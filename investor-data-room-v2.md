@@ -4,6 +4,8 @@ icon: display-chart-up
 
 # Investor Data Room (V2)
 
+<figure><img src=".gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+
 DOB Protocol: Your starting point for Real World Asset Tokenization.
 
 Real-world assets produce real value. But financing them is slow, complex, and limited.

@@ -4,6 +4,8 @@ icon: chalkboard
 
 # Research and Development (V2)
 
+<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+
 Tokenizing real-world assets requires more than functional code. It requires solid foundations. DOB Protocol differentiates itself by transforming cutting-edge academic research into practical solutions. Methodologies like TrustOps and concepts like TDAM were developed by the co-founders and published at international conferences such as IEEE and EDOC.
 
 ***

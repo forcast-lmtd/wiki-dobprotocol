@@ -4,6 +4,8 @@ icon: arrow-up-a-z
 
 # Glossary (V2)
 
+<figure><img src=".gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
+
 This document presents the main terms used in DOB Protocol documentation, including technical, legal, product, and academic concepts, organized alphabetically for quick reference.
 
 ***
