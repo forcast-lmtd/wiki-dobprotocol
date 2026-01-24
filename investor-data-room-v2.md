@@ -153,7 +153,7 @@ DOB Protocol is not just a concept, but an operational platform generating real 
 
 ## TRACTION: OPERATIONAL PROOF POINTS
 
-<figure><img src=".gitbook/assets/photo_2025-07-02_17-35-19.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/First use case eHive (V2).jpg" alt=""><figcaption></figcaption></figure>
 
 ### eHive: Operational Use Case
 
@@ -389,6 +389,8 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 ***
 
 ## BUILDING MOMENTUM: OUR FIRST YEAR (2025)
+
+<figure><img src=".gitbook/assets/timeline DOB Protocol.png" alt=""><figcaption></figcaption></figure>
 
 ### Q1: Early Traction
 

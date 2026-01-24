@@ -82,6 +82,8 @@ Financial Agents and Development Teams no longer need to recruit internal teams 
 
 ## Dob Token (DOB)
 
+<figure><img src=".gitbook/assets/DOB TOKEN PNG.jpg" alt=""><figcaption></figcaption></figure>
+
 The DOB Token is the gateway to our solutions. By acquiring this token you can:
 
 * &#x20;**Fast-Track Onboarding:** Projects using DOB have full priority in onboarding and immediate access to the platform.
