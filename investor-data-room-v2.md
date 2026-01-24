@@ -349,10 +349,10 @@ End-to-end or modular implementation via DOB White Label → Onboard enterprise 
 
 **Benefits:**
 
-✅ Scale without internal teams of programmers or lawyers\
-✅ Fast time to market: onboard enterprise clients in days, not months\
-✅ Controlled costs: without expensive custom development\
-✅ Total flexibility: modular implementation as needed
+* Scale without internal teams of programmers or lawyers
+* Fast time to market: onboard enterprise clients in days, not months
+* Controlled costs: without expensive custom development
+* Total flexibility: modular implementation as needed
 {% endtab %}
 
 {% tab title="Investors" %}
@@ -365,10 +365,10 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 
 **Benefits:**
 
-✅ Minimum investment of USD 10.00 eliminates entry barriers\
-✅ Programmatic liquidity: exit when you want, without being locked until maturity\
-✅ Fair pricing based on real project performance\
-✅ Native DeFi integration: capital works on multiple fronts simultaneously
+* Minimum investment of USD 10.00 eliminates entry barriers
+* Programmatic liquidity: exit when you want, without being locked until maturity
+* Fair pricing based on real project performance
+* Native DeFi integration: capital works on multiple fronts simultaneously
 {% endtab %}
 {% endtabs %}
 
