@@ -276,7 +276,7 @@ DOB Protocol does not remove risk. It makes risk visible, measurable, and liquid
 
 Our business model is designed to be sustainable, scalable, and aligned with the interests of Project Owners and capital providers. DOB Protocol earns fees at the protocol level through token flows, while creating new opportunities for token holders to participate in platform growth.
 
-<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/WE TRUST VERIFIED.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Investor-Side Fees
 
@@ -374,11 +374,11 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 
 ## PRE-SEED Round Resume
 
-<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/FUNDING.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Projections
 
-<figure><img src=".gitbook/assets/Deck Dobprotocol - Liquidity Problem.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/TAM SAM SOM.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -12,6 +12,8 @@ Follow here the evolution of the DOB Protocol ecosystem and always be the first 
 * **Projects** that need capital to finance their operations without capital dilution or loss of control.
 * **Financial Agents and Development Teams** who want to offer RWA Solutions to their clients.
 
+<figure><img src=".gitbook/assets/timeline DOB Protocol.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 ### Status January 2026
 

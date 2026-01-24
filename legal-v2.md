@@ -12,6 +12,8 @@ Learn how DOB Protocol's legal framework works and what legal protections we pro
 
 DOB Protocol operates through a robust and regulated legal framework in Bermuda, implemented by **Ensuro Re Limited**, our licensed and regulated company.
 
+<figure><img src=".gitbook/assets/Institutional-Grade Tokenization Infrastructure in Bermuda (2).png" alt=""><figcaption></figcaption></figure>
+
 With this structure, the solution addresses the main market difficulties:
 
 | Category                                                          | Pain Point                                  | How the Legal Structure Resolves                                                                                |
