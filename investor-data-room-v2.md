@@ -392,7 +392,7 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 
 ## BUILDING MOMENTUM: OUR FIRST YEAR (2025)
 
-<figure><img src=".gitbook/assets/timeline DOB Protocol.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
 
 ### Q1: Early Traction
 
