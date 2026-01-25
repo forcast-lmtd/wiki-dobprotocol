@@ -10,7 +10,7 @@ DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Ass
 
 {% tabs %}
 {% tab title="Invest with DOB" %}
-#### DOB LIQUID DEX
+#### DOB Liquid DEX
 
 DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Uses Uniswap v4 Hooks backed by revenue streams to provide integrated liquidity for all listed RWA tokens.
 
@@ -50,7 +50,7 @@ Offer access to your project tokens simply and securely on your own website or w
 {% endtab %}
 
 {% tab title="Use our Solutions | WhiteLabel" %}
-#### DOB WHITELABEL
+#### DOB WhiteLabel
 
 Modular plug-and-play tokenization solution. Resolves technical and operational challenges for Financial Agents and Development Teams.
 

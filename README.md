@@ -18,6 +18,8 @@ layout:
 
 # About DOB (V2)
 
+<table data-view="cards"><thead><tr><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href=".gitbook/assets/1 (1).png">1 (1).png</a></td></tr></tbody></table>
+
 <figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 DOB Protocol is your starting point for Real World Asset Tokenization.
