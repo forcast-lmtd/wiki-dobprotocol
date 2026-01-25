@@ -1,16 +1,16 @@
 ---
 icon: grid-2-plus
+cover: ../.gitbook/assets/Cópia.png
+coverY: 0
 ---
 
 # DOB Solutions (V2)
-
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization. DOB ecosystem serves Investors, Project Owners, Financial Agents, and Development Teams who need an integrated way to handle liquidity, validation, distribution, and compliance.
 
 {% tabs %}
 {% tab title="Invest with DOB" %}
-#### DOB Liquid DEX
+<figure><img src="../.gitbook/assets/14.png" alt="DOB Liquid DEX"><figcaption></figcaption></figure>
 
 DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Uses Uniswap v4 Hooks backed by revenue streams to provide integrated liquidity for all listed RWA tokens.
 
@@ -26,7 +26,7 @@ Compound capital in multiple DeFi strategies: Your capital works simultaneously 
 {% endtab %}
 
 {% tab title="Tokenize and Distribute" %}
-#### DOB Validator
+<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
 Finance your Project with real auditable data. The solution combines structured forms, documentation, scoring, and on-chain anchoring.
 
@@ -34,7 +34,7 @@ Finance your Project with real auditable data. The solution combines structured 
 
 ***
 
-#### DOB Token Studio
+<figure><img src="../.gitbook/assets/15.png" alt="DOB Token Studio"><figcaption></figcaption></figure>
 
 Tokenize your operation and access resources worldwide without banks, high interest rates, loss of control, or capital dilution.
 
@@ -42,7 +42,7 @@ Tokenize your operation and access resources worldwide without banks, high inter
 
 ***
 
-#### DOB Link
+<figure><img src="../.gitbook/assets/16.png" alt="DOB Link"><figcaption></figcaption></figure>
 
 Offer access to your project tokens simply and securely on your own website or wherever you choose. Automatic double yield: real revenue + DeFi returns.
 
@@ -50,7 +50,7 @@ Offer access to your project tokens simply and securely on your own website or w
 {% endtab %}
 
 {% tab title="Use our Solutions | WhiteLabel" %}
-#### DOB WhiteLabel
+<figure><img src="../.gitbook/assets/17.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
 
 Modular plug-and-play tokenization solution. Resolves technical and operational challenges for Financial Agents and Development Teams.
 

@@ -53,7 +53,7 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 
 {% tabs %}
 {% tab title="DOB Liquid DEX" %}
-#### Dob Liquid DEX
+<figure><img src=".gitbook/assets/14.png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
 
 The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
@@ -67,7 +67,7 @@ Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-#### Dob Validator
+<figure><img src=".gitbook/assets/13.png" alt="DOB Validator"><figcaption></figcaption></figure>
 
 Projects are verified. Performance and cash flow are continuously monitored and recorded on-chain. Only validated assets enter the DEX.
 
@@ -80,7 +80,7 @@ Dob Validator is the official entry point for projects that want to be verified,
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
-#### Dob Token Studio
+<figure><img src=".gitbook/assets/15.png" alt="Dob Token Studio"><figcaption></figcaption></figure>
 
 Verified project revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure powers the DEX, creating liquid markets for real-world assets.
 
@@ -93,7 +93,7 @@ Dob Token Studio offers access to capital without traditional intermediaries, el
 {% endtab %}
 
 {% tab title="DOB Link" %}
-#### Dob Link
+<figure><img src=".gitbook/assets/16.png" alt="Dob Link"><figcaption></figcaption></figure>
 
 Offer access to your project's tokens simply and securely on your own website or wherever you want.&#x20;
 
@@ -104,7 +104,7 @@ Offer access to your project's tokens simply and securely on your own website or
 {% endtab %}
 {% endtabs %}
 
-### DOB WhiteLabel
+<figure><img src=".gitbook/assets/17.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
 
 Strategic solution for Financial Agents and Development Teams who want to offer tokenized products without recruiting internal teams of programmers and lawyers. Scale with our solutions through end-to-end or modular implementation.
 

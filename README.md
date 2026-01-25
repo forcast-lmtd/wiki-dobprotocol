@@ -18,9 +18,7 @@ layout:
 
 # About DOB (V2)
 
-<table data-view="cards"><thead><tr><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href=".gitbook/assets/1 (1).png">1 (1).png</a></td></tr></tbody></table>
-
-<figure><img src=".gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).png" alt="DOB Protocol WIKI"><figcaption></figcaption></figure>
 
 DOB Protocol is your starting point for Real World Asset Tokenization.
 
@@ -39,32 +37,32 @@ Our solutions do not only address technical requirements. In addition to being e
 DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization.&#x20;
 
 {% tabs %}
-{% tab title="Dob Liquid DEX" %}
-**Dob Liquid DEX**
+{% tab title="DOB Liquid DEX" %}
+<figure><img src=".gitbook/assets/14.png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
 
 Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on real performance of tokenized Projects.
 
 <a href="https://dobprotocol.com/" class="button primary">Discover our DEX</a>
 {% endtab %}
 
-{% tab title="Dob Validator" %}
-**Dob Validator**
+{% tab title="DOB Validator" %}
+<figure><img src=".gitbook/assets/13.png" alt="Dob Validator"><figcaption></figcaption></figure>
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
 <a href="dob-ecosystem-v1/overview-1/" class="button primary">Learn more</a>
 {% endtab %}
 
-{% tab title="Dob Token Studio" %}
-**Dob Token Studio**
+{% tab title="DOB Token Studio" %}
+<figure><img src=".gitbook/assets/15.png" alt="Dob Token Studio"><figcaption></figcaption></figure>
 
 Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
 
 <a href="dob-ecosystem-v1/overview.md" class="button primary">Explore the platform</a>
 {% endtab %}
 
-{% tab title="Dob Link" %}
-**Dob Link**
+{% tab title="DOB Link" %}
+<figure><img src=".gitbook/assets/16.png" alt="Dob Link"><figcaption></figcaption></figure>
 
 Offer access to your project tokens in a simple and secure way on your own website or wherever you want. No programming required.
 
@@ -74,7 +72,7 @@ Automatic double yield: real revenue + DeFi returns.
 {% endtab %}
 {% endtabs %}
 
-**Dob Whitelabel**
+<figure><img src=".gitbook/assets/17.png" alt="Dob Whitelabel"><figcaption></figcaption></figure>
 
 Financial Agents and Development Teams no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
 
