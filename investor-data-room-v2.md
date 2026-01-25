@@ -49,6 +49,8 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 
 ## THE SOLUTION: DOB PROTOCOL
 
+<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2).png" alt=""><figcaption></figcaption></figure>
+
 **DOB Protocol** offers a complete ecosystem of modular, scalable, secure, and compliant solutions for Real World Asset (RWA) tokenization. Our 5 solutions work together to solve the main challenges of the real-world asset tokenization market.
 
 {% tabs %}

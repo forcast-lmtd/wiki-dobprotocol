@@ -36,6 +36,8 @@ Our solutions do not only address technical requirements. In addition to being e
 
 DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization.&#x20;
 
+<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2).png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="DOB Liquid DEX" %}
 <figure><img src=".gitbook/assets/14.png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
