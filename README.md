@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# About DOB (V2)
+# About DOB
 
 <figure><img src=".gitbook/assets/1 (1).png" alt="DOB Protocol WIKI"><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
-<a href="dob-ecosystem-v1/overview-1/" class="button primary">Learn more</a>
+<a href="/broken/pages/7RkXJBYimvMireP8zJMm" class="button primary">Learn more</a>
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
@@ -60,7 +60,7 @@ Certify and Approve your Project with real auditable data and access investors w
 
 Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
 
-<a href="dob-ecosystem-v1/overview.md" class="button primary">Explore the platform</a>
+<a href="/broken/pages/iMViVCCuIXPm0kT18pDK" class="button primary">Explore the platform</a>
 {% endtab %}
 
 {% tab title="DOB Link" %}
@@ -70,7 +70,7 @@ Offer access to your project tokens in a simple and secure way on your own websi
 
 Automatic double yield: real revenue + DeFi returns.
 
-<a href="dob-ecosystem-v1/overview-2/" class="button primary">See how it works</a>
+<a href="/broken/pages/61BuFHwxQqNoebLwPC5h" class="button primary">See how it works</a>
 {% endtab %}
 {% endtabs %}
 
@@ -78,7 +78,7 @@ Automatic double yield: real revenue + DeFi returns.
 
 Financial Agents and Development Teams no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
 
-<a href="investor-data-room-v2.md" class="button primary">Learn More</a>
+<a href="investor-data-room.md" class="button primary">Learn More</a>
 
 ***
 
