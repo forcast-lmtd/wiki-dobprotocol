@@ -40,7 +40,7 @@ Compound capital in multiple DeFi strategies: Your capital works simultaneously 
 {% endtab %}
 
 {% tab title="Tokenize and Distribute" %}
-<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption></figcaption></figure>
 
 Finance your Project with real auditable data. The solution combines structured forms, documentation, scoring, and on-chain anchoring.
 

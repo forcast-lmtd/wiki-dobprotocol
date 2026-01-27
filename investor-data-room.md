@@ -69,7 +69,7 @@ Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-<figure><img src=".gitbook/assets/13.png" alt="DOB Validator"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1).png" alt="DOB Validator"><figcaption></figcaption></figure>
 
 Projects are verified. Performance and cash flow are continuously monitored and recorded on-chain. Only validated assets enter the DEX.
 

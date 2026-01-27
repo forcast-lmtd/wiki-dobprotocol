@@ -48,7 +48,7 @@ Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-<figure><img src=".gitbook/assets/13.png" alt="Dob Validator"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1).png" alt="Dob Validator"><figcaption></figcaption></figure>
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
