@@ -1,5 +1,5 @@
 ---
-icon: grid-2-plus
+icon: grid-2
 layout:
   width: default
   title:

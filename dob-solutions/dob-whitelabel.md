@@ -1,3 +1,7 @@
+---
+icon: grid-2-plus
+---
+
 # DOB WhiteLabel
 
 <figure><img src="../.gitbook/assets/17.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
