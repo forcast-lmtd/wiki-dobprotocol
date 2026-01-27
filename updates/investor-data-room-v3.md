@@ -1,3 +1,7 @@
+---
+icon: display-chart-up
+---
+
 # Investor Data Room (V3)
 
 ![](<../.gitbook/assets/2 (6).png>)
