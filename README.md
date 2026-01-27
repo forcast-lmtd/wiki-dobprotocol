@@ -96,6 +96,8 @@ The DOB Token is the gateway to our solutions. By acquiring this token you can:
 
 DOB is not just a token - it is competitive advantage for those who operate in the DOB Protocol ecosystem.
 
+<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Legal Notice and Risks:** DOB Protocol is subject to the laws of Bermuda and exclusive jurisdiction of the courts of Bermuda. Operations conducted through a regulated structure (Class IIGB and DABA Class M) with statutory segregated accounts that provide legal asset segregation. Investments in Real World Asset (RWA) tokens involve significant risks, including total loss of invested capital. Recourse limited exclusively to assets linked to the specific segregated account. The protocol implements multiple layers of risk mitigation, including continuous performance validation, auditable on-chain registration and programmatic liquidity. Not available to residents of prohibited jurisdictions (including USA, OFAC sanctioned countries and FATF blacklisted countries). Past performance does not guarantee future results. Investors should seek independent professional advice. [Consult complete documentation on risks and mitigations](https://dobprotocol-wiki.gitbook.io/dobprotocol-wiki/investor-data-room).
 {% endhint %}
