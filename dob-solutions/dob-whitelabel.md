@@ -1,10 +1,8 @@
-# DOB WHITELABEL.gitbook
+# DOB WhiteLabel
 
-<figure><img src="../.gitbook/assets/13.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/17.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
 
 DOB WhiteLabel solves the critical problem of technical complexity and prohibitive costs for financial agents and development teams working with RWA tokenization - replaces the need for specialized internal teams with ready-to-use modular infrastructure. Instead of spending months developing from scratch, you access a complete, scalable, and compliance-ready solution.
-
-<figure><img src="../.gitbook/assets/Institutional Grade Tokenization Infrastructure in Bermuda (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Main Features**

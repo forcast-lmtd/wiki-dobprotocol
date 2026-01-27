@@ -36,7 +36,7 @@ Real-time dynamic pricing: Algorithms incorporate auditable on-chain data. Trans
 
 Compound capital in multiple DeFi strategies: Your capital works simultaneously on several fronts without intervention.
 
-<a class="button primary">Learn More</a>
+<a href="dob-liquid-dex.md" class="button primary">Learn More</a>
 {% endtab %}
 
 {% tab title="Tokenize and Distribute" %}
@@ -52,7 +52,7 @@ Finance your Project with real auditable data. The solution combines structured 
 
 Tokenize your operation and access resources worldwide without banks, high interest rates, loss of control, or capital dilution.
 
-<a class="button primary">Learn More</a>
+<a href="dob-token-studio.md" class="button primary">Learn More</a>
 
 ***
 
@@ -60,7 +60,7 @@ Tokenize your operation and access resources worldwide without banks, high inter
 
 Offer access to your project tokens simply and securely on your own website or wherever you choose. Automatic double yield: real revenue + DeFi returns.
 
-<a class="button primary">Learn More</a>
+<a href="dob-link.md" class="button primary">Learn More</a>
 {% endtab %}
 
 {% tab title="Use our Solutions | WhiteLabel" %}

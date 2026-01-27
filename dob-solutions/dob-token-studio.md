@@ -1,10 +1,12 @@
-# DOB TOKEN STUDIO.gitbook
+---
+icon: layer-plus
+---
 
-<figure><img src="../.gitbook/assets/13.png" alt="DOB Token Studio"><figcaption></figcaption></figure>
+# DOB Token Studio
+
+<figure><img src="../.gitbook/assets/15.png" alt="DOB Token Studio"><figcaption></figcaption></figure>
 
 DOB Token Studio solves the critical financing barrier for Real World Asset projects. A decentralized platform that allows Project Owners to tokenize their operations and access global investors without banks, high interest rates, loss of control, or capital dilution, while investors gain access to verified, revenue-generating RWA investments.
-
-<figure><img src="../.gitbook/assets/Institutional Grade Tokenization Infrastructure in Bermuda (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Main Features**

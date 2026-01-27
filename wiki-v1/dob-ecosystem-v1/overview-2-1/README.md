@@ -20,7 +20,7 @@ Available both in individual operator widgets and Dob Token Studio, this automat
 
 Website Demo: [https://dob-link-landing.vercel.app/](https://dob-link-landing.vercel.app/)
 
-{% file src="../../.gitbook/assets/Dob Index Pitch Deck.pdf" %}
+{% file src="../../../.gitbook/assets/Dob Index Pitch Deck.pdf" %}
 
 ### Core Purpose
 
@@ -32,7 +32,7 @@ This ensures:
 
 ### How it Works
 
-<figure><img src="../../.gitbook/assets/Diseño sin título.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Diseño sin título.jpg" alt=""><figcaption></figcaption></figure>
 
 DobLink functions as an embeddable widget with automatic reinvestment:
 
