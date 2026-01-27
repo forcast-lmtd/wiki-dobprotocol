@@ -96,6 +96,8 @@ The DOB Token is the gateway to our solutions. By acquiring this token you can:
 
 DOB is not just a token - it is competitive advantage for those who operate in the DOB Protocol ecosystem.
 
+***
+
 <figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
