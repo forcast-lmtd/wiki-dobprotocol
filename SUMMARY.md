@@ -15,6 +15,8 @@
 * [Research and Development](research-and-development.md)
 * [Legal](legal.md)
 * [Glossary](glossary.md)
+* [UPDATES](updates/README.md)
+  * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
 * [WIKI V1](wiki-v1/README.md)
   * [Dobprotocol in simple words (V1)](wiki-v1/dobprotocol-simple-words/README.md)
     * [Value Proposition (V1)](wiki-v1/dobprotocol-simple-words/value-proposition.md)
