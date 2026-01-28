@@ -2,21 +2,21 @@
 icon: display-chart-up
 ---
 
-# Capture Plan
+# Capture Plan (V1)
 
 We apply higher capture rate to fast-closing categories and lower to slow ones.
 
-<div data-full-width="false"><figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
 ### By year
 
 #### Year-1 routed by category ($1.369B total)
 
-<figure><img src="../../../../.gitbook/assets/Captura de pantalla 2025-09-10 135748.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de pantalla 2025-09-10 135748.png" alt=""><figcaption></figcaption></figure>
 
 #### Year-3 routed by category ($2.738B total)
 
-<figure><img src="../../../../.gitbook/assets/Captura de pantalla 2025-09-10 135821.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de pantalla 2025-09-10 135821.png" alt=""><figcaption></figcaption></figure>
 
 ### Assumptions
 

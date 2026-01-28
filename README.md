@@ -44,7 +44,7 @@ DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Ass
 
 Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on real performance of tokenized Projects.
 
-<a href="https://dobprotocol.com/" class="button primary">Discover our DEX</a>
+<a href="https://dobprotocol.com/" class="button primary">Comming Soon</a>
 {% endtab %}
 
 {% tab title="DOB Validator" %}
@@ -52,7 +52,7 @@ Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
-<a href="/broken/pages/7RkXJBYimvMireP8zJMm" class="button primary">Learn more</a>
+<a href="dob-solutions/dob-validator.md" class="button primary">Learn more</a>
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
@@ -74,7 +74,7 @@ Automatic double yield: real revenue + DeFi returns.
 {% endtab %}
 {% endtabs %}
 
-<figure><img src=".gitbook/assets/17.png" alt="Dob Whitelabel"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Cópia.png" alt="Dob Whitelabel"><figcaption></figcaption></figure>
 
 Financial Agents and Development Teams no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
 

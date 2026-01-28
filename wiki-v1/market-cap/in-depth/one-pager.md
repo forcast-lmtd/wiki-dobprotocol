@@ -2,6 +2,6 @@
 icon: file-chart-column
 ---
 
-# One Pager
+# One Pager (V1)
 
-<figure><img src="../../../../.gitbook/assets/Market Cap Dob (TAM - SAM - SOM)_page-0001.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Market Cap Dob (TAM - SAM - SOM)_page-0001.jpg" alt=""><figcaption></figcaption></figure>

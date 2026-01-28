@@ -18,7 +18,7 @@ layout:
 
 # Roadmap (V1)
 
-<figure><img src="../../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Phase 1 (0–12 months): Foundation
 

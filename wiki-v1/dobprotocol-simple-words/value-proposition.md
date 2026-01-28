@@ -4,7 +4,7 @@ icon: octagon-check
 
 # Value Proposition (V1)
 
-<figure><img src="../../../.gitbook/assets/Feacture  Capability.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Feacture  Capability.jpg" alt=""><figcaption></figcaption></figure>
 
 ### How we transform physical infrastructure into verifiable financial products
 

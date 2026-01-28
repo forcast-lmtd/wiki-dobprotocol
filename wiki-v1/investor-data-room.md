@@ -3,9 +3,9 @@ description: 'DOB Liquid RWA DEX: The First Liquid RWA DEX powered by Uniswap v4
 icon: money-check-pen
 ---
 
-# Investor Data Room
+# Investor Data Room (V1)
 
-<figure><img src="../../.gitbook/assets/1_20251217_142346_0000.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1_20251217_142346_0000.jpg" alt=""><figcaption></figcaption></figure>
 
 Real machines produce real value. But funding them is slow, complex, and limited.
 
@@ -31,7 +31,7 @@ Investors participate through collective investment structures, backed by real, 
 
 Dobprotocol transforms real-world machines into verified, investable assets. Everything is traceable, compliant, and built for scale. Just machines, performance, and shared value.
 
-<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -79,7 +79,7 @@ DOB Protocol is not just a concept, but an operational platform generating real 
 
 ## TRACTION: LIVE PROOF POINTS
 
-<figure><img src="../../.gitbook/assets/photo_2025-07-02_17-35-19.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2025-07-02_17-35-19.jpg" alt=""><figcaption></figcaption></figure>
 
 **Status**: LIVE and OPERATIONAL: First functional use case of DOB Protocol
 
@@ -189,7 +189,7 @@ Mitigation: Clear operator incentives (capital without debt or dilution), live p
 
 ## BUSINESS MODEL
 
-<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (4).png" alt=""><figcaption></figcaption></figure>
 
 Our business model is designed to be sustainable, scalable, and aligned with the interests of both infrastructure operators and capital providers.
 
@@ -245,17 +245,17 @@ A scalable infrastructure for the future of real-world finance. Integrate tokeni
 
 ### PRE-SEED ROUND RESUME
 
-<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Deck Dobprotocol - Liquidity Problem (2).png" alt=""><figcaption></figcaption></figure>
 
 ### PROJECTIONS
 
-<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Liquidity Problem.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Deck Dobprotocol - Liquidity Problem.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### TEAM
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Óscar Castillo</strong></td><td><em>Co-founder &#x26; CEO</em></td><td>With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects</td><td><a href="../../.gitbook/assets/1720463970913.png">1720463970913.png</a></td><td><a href="https://www.linkedin.com/in/oscar-castillo-arce/">https://www.linkedin.com/in/oscar-castillo-arce/</a></td></tr><tr><td><strong>Fernando Castillo</strong></td><td><em>Co-founder &#x26; CTO</em></td><td>Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td><a href="../../.gitbook/assets/1574436488062.png">1574436488062.png</a></td><td><a href="https://www.linkedin.com/in/fernando-castillo-97b390120/">https://www.linkedin.com/in/fernando-castillo-97b390120/</a></td></tr><tr><td>Simón Espínola</td><td><em>Co-founder &#x26; COO</em></td><td>Simón leads operations and business execution at Dobprotocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td><a href="../../.gitbook/assets/1752805246370.png">1752805246370.png</a></td><td><a href="https://www.linkedin.com/in/simon-espinola-marin-06a78b86/">https://www.linkedin.com/in/simon-espinola-marin-06a78b86/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Óscar Castillo</strong></td><td><em>Co-founder &#x26; CEO</em></td><td>With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects</td><td><a href="../.gitbook/assets/1720463970913.png">1720463970913.png</a></td><td><a href="https://www.linkedin.com/in/oscar-castillo-arce/">https://www.linkedin.com/in/oscar-castillo-arce/</a></td></tr><tr><td><strong>Fernando Castillo</strong></td><td><em>Co-founder &#x26; CTO</em></td><td>Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td><a href="../.gitbook/assets/1574436488062.png">1574436488062.png</a></td><td><a href="https://www.linkedin.com/in/fernando-castillo-97b390120/">https://www.linkedin.com/in/fernando-castillo-97b390120/</a></td></tr><tr><td>Simón Espínola</td><td><em>Co-founder &#x26; COO</em></td><td>Simón leads operations and business execution at Dobprotocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td><a href="../.gitbook/assets/1752805246370.png">1752805246370.png</a></td><td><a href="https://www.linkedin.com/in/simon-espinola-marin-06a78b86/">https://www.linkedin.com/in/simon-espinola-marin-06a78b86/</a></td></tr></tbody></table>
 
 ## BUILDING MOMENTUM: OUR FIRST YEAR (2025)
 

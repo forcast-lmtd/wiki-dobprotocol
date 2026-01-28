@@ -57,7 +57,7 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 {% tab title="DOB Liquid DEX" %}
 <figure><img src=".gitbook/assets/14.png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
 
-The First Liquid RWA DEX powered by Uniswap v4 Hooks.
+Comming Soon: The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
 * Programmatic liquidity based on real revenue flows from projects
 * Anyone can invest, trade, and exit freely
@@ -106,7 +106,7 @@ Offer access to your project's tokens simply and securely on your own website or
 {% endtab %}
 {% endtabs %}
 
-<figure><img src=".gitbook/assets/17.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Cópia.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
 
 Strategic solution for Financial Agents and Development Teams who want to offer tokenized products without recruiting internal teams of programmers and lawyers. Scale with our solutions through end-to-end or modular implementation.
 

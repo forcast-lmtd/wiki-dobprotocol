@@ -2,7 +2,7 @@
 icon: chart-mixed
 ---
 
-# Market Cap
+# Market Cap (V1)
 
 Dobprotocol operates in infrastructure finance — a massive market that's historically inaccessible to most capital providers. We use the TAM / SAM / SOM framework to show realistic growth potential, not wishful projections.
 
@@ -16,7 +16,7 @@ This keeps our projections grounded in what we can actually intermediate and ear
 
 ### Year 1: Proving the Model
 
-<figure><img src="../../../.gitbook/assets/Deck Dobprotocol - Data Center .pptx (Post para Twitter)_20251111_104413_0000.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Deck Dobprotocol - Data Center .pptx (Post para Twitter)_20251111_104413_0000.png" alt=""><figcaption></figcaption></figure>
 
 #### The Opportunity
 
@@ -32,7 +32,7 @@ Year 1 is about **validation, not scale**. We focus on Chile and Perú — marke
 
 ### Year 2-3: Scaling Across LATAM
 
-<figure><img src="../../../.gitbook/assets/Opportunity Market 2 (x).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Opportunity Market 2 (x).jpg" alt=""><figcaption></figcaption></figure>
 
 #### The Expansion
 

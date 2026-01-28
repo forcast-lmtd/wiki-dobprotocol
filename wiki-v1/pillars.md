@@ -18,7 +18,7 @@ layout:
 
 # Pillars (V1)
 
-<figure><img src="../../.gitbook/assets/Dobprotocol Pillars (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dobprotocol Pillars (1).jpg" alt=""><figcaption></figcaption></figure>
 
 At Dobprotocol we have 4 mains pillars being developed in synchronicity.
 
