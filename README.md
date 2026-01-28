@@ -78,7 +78,7 @@ Automatic double yield: real revenue + DeFi returns.
 
 Financial Agents and Development Teams no longer need to recruit internal teams of programmers and lawyers to offer Tokenized products. Scale with our solutions. End-to-end or modular implementation.
 
-<a href="investor-data-room.md" class="button primary">Learn More</a>
+<a href="dob-solutions/dob-whitelabel.md" class="button primary">Learn More</a>
 
 ***
 
