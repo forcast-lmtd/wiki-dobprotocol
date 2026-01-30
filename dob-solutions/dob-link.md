@@ -26,7 +26,7 @@ DOB Link solves the critical capital accessibility problem for tokenized project
 
 Validated projects need accessible and frictionless capital flows. DOB Link allows embedding investment widgets directly into their websites, eliminating barriers between their project and global investors. Every investment flows through DOB Protocol's regulated structure, ensuring compliance and legal protection.
 
-<a class="button primary">Generate your Widget</a><a class="button primary">Access Capital</a>
+<a href="https://www.dobprotocol.com/doblink/" class="button primary">Generate your Widget (Coming Soon)</a>
 
 **Onboard: Set up your Widget in 4 steps**
 
@@ -66,7 +66,7 @@ Once embedded, your widget creates a direct capital flow, connecting website vis
 * Built-in regulatory compliance
 * Frictionless capital flow
 
-<a class="button primary">Set Up Now</a><a class="button primary">Technical Documentation</a>
+<a href="https://www.dobprotocol.com/doblink/" class="button primary">Set Up Now (Coming Soon)</a><a class="button primary">Technical Documentation</a>
 {% endhint %}
 {% endtab %}
 
@@ -75,7 +75,7 @@ Once embedded, your widget creates a direct capital flow, connecting website vis
 
 Financial Agents and Development Teams integrate DOB Link through DOB WhiteLabel to offer capital accessibility solutions to their clients. Ready-to-use APIs and embeddable widgets accelerate time-to-market, eliminating need to build tokenization infrastructure from scratch.
 
-<a class="button primary">Contact Us</a><a class="button primary">Schedule Meeting</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Contact Us</a>
 
 ***
 
@@ -124,7 +124,7 @@ DOB WhiteLabel allows Financial Agents and Development Teams to offer complete c
 * Unified dashboard for multiple clients
 * Scalable infrastructure with cost control
 
-<a class="button primary">Request Demo</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Request Demo</a>
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -410,7 +410,7 @@ Ready to access global capital without intermediaries? DOB Link allows you to em
 * Built-in regulatory compliance
 * Automatic double yield for your investors
 
-<a class="button primary">Generate your Widget</a><a class="button primary">Access Capital</a>
+<a href="https://www.dobprotocol.com/doblink/" class="button primary">Generate your Widget (Coming Soon)</a>
 {% endtab %}
 
 {% tab title="Financial Agents & Dev Teams" %}
@@ -421,7 +421,7 @@ Integrate DOB Link into your platform through DOB WhiteLabel. Offer capital acce
 * Unified multi-client dashboard
 * Scalable infrastructure
 
-<a class="button primary">Contact Us</a><a class="button primary">Schedule Meeting</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule Meeting</a>
 {% endtab %}
 {% endtabs %}
 

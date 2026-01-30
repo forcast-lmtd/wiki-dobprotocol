@@ -75,7 +75,7 @@ DOB Liquid DEX transforms RWAs from illiquid instruments into truly DeFi-native 
 
 Institutions and Software Houses need liquid RWA infrastructure they can integrate into their platforms. DOB Liquid DEX offers stable APIs, ready operational dashboards, and built-in compliance, allowing you to offer liquid RWA products under your brand without building from scratch.
 
-<a class="button primary">Contact Us</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Contact Us</a>
 
 ***
 

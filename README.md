@@ -52,7 +52,7 @@ Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
-<a href="dob-solutions/dob-validator.md" class="button primary">Learn more</a>
+<a href="https://validator.dobprotocol.com/" class="button primary">Learn more</a>
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
@@ -60,7 +60,7 @@ Certify and Approve your Project with real auditable data and access investors w
 
 Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
 
-<a href="/broken/pages/iMViVCCuIXPm0kT18pDK" class="button primary">Explore the platform</a>
+<a href="https://home.dobprotocol.com/explore" class="button primary">Explore the platform</a>
 {% endtab %}
 
 {% tab title="DOB Link" %}
@@ -70,7 +70,7 @@ Offer access to your project tokens in a simple and secure way on your own websi
 
 Automatic double yield: real revenue + DeFi returns.
 
-<a href="/broken/pages/61BuFHwxQqNoebLwPC5h" class="button primary">See how it works</a>
+<a href="https://www.dobprotocol.com/doblink/" class="button primary">See how it works</a>
 {% endtab %}
 {% endtabs %}
 

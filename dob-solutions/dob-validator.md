@@ -82,7 +82,7 @@ Once validated, your project becomes available to global investors, eliminating 
 
 
 
-&#x20;<a class="button primary">Simulate</a><a class="button primary">Raise Funds</a>
+&#x20;<a href="https://validator.dobprotocol.com/simulates/credits" class="button primary">Simulate</a><a href="https://validator.dobprotocol.com/" class="button primary">Raise Funds</a>
 {% endhint %}
 {% endtab %}
 
@@ -91,7 +91,7 @@ Once validated, your project becomes available to global investors, eliminating 
 
 Financial Institutions and Software Houses need a reliable, compliant, structured, easy-to-operate, quick-setup, and scalable tokenization system to validate projects before offering RWA products in the market under their brands.
 
-<a class="button primary">Contact Us</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Contact Us</a>
 
 ***
 
@@ -140,7 +140,7 @@ Access ready-made dashboards to monitor validations and approved projects.
 
 
 
-<a class="button primary">Schedule a Meeting with our Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting with our Team</a>
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -357,13 +357,13 @@ DOB Validator resolves the following critical pain points in the RWA market:
 {% tab title="Project Owners" %}
 Stop leaving money on the table. Transform your operation into an investable RWA asset now. Start our 4-step Validation process now and gain confidence in the market.
 
-<a class="button primary">Simulate</a><a class="button primary">Raise Funds</a>
+<a href="https://validator.dobprotocol.com/simulates/credits" class="button primary">Simulate</a><a href="https://validator.dobprotocol.com/" class="button primary">Raise Funds</a>
 {% endtab %}
 
 {% tab title="Financial Agents & Dev Teams" %}
 Do not waste months and resources developing from scratch. Launch your RWA products today with DOB WhiteLabel.
 
-&#x20;<a class="button primary">Schedule a Meeting with our Team</a>
+&#x20;<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting with our Team</a>
 {% endtab %}
 {% endtabs %}
 

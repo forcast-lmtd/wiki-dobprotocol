@@ -125,7 +125,7 @@ Access ready-made dashboards to monitor tokenizations and active Investment Roun
 * Scalability without additional internal teams
 * Reduced operational costs
 
-<a class="button primary">Schedule a Meeting with our Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting with our Team</a>
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -309,7 +309,7 @@ Stop leaving money on the table with predatory bank rates. Transform your valida
 {% tab title="Financial Agents & Dev Teams" %}
 Do not waste months and resources developing tokenization from scratch. Launch your RWA products today with DOB Token Studio APIs and built-in compliance.
 
-<a class="button primary">Schedule a Meeting with our Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting with our Team</a>
 {% endtab %}
 {% endtabs %}
 

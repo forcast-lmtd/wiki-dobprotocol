@@ -463,7 +463,7 @@ Our vision is simple: projects that work, earn, and share. We call it Real World
 
 Want to tokenize your productive assets? Reach out to discover how DOB Protocol can help you access capital without debt or dilution.
 
-<a href="https://dobprotocol.com/" class="button primary">Start Validation</a>
+<a href="dob-solutions/" class="button primary">Learn More</a>
 {% endtab %}
 
 {% tab title="For Investors" %}
@@ -471,7 +471,7 @@ Want to tokenize your productive assets? Reach out to discover how DOB Protocol 
 
 Interested in investing in tokenized Real World Assets? Explore our marketplace and start with just USD 10.00.
 
-<a href="https://dobprotocol.com/" class="button primary">Explore Marketplace</a>
+<a href="https://home.dobprotocol.com/explore" class="button primary">Explore Marketplace</a>
 {% endtab %}
 
 {% tab title="For Financial Agents" %}

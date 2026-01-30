@@ -87,7 +87,7 @@ Documented endpoints, SDKs in multiple languages, and webhooks for simplified in
 * Focus on core business while technology is resolved
 * Drastically reduced time-to-market
 
-<a class="button primary">Simulate Your Case</a><a class="button primary">Talk to Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Talk to Team</a>
 {% endhint %}
 {% endtab %}
 {% endtabs %}
