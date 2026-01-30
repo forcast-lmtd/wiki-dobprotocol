@@ -61,7 +61,7 @@ DOB Protocol transforms projects into verified, investable assets. Traceable. Co
 
 **Our Solution:** First Liquid RWA DEX. Powered by Uniswap v4 Hooks.
 
-* Programmatic liquidity backed by real project revenue—not artificial market makers
+* Programmatic liquidity backed by real project revenue, not artificial market makers
 * Partial exit at any time without waiting for maturity or OTC counterparts
 * Minimum: USD 10.00
 * Dynamic pricing based on real-time, auditable on-chain performance
@@ -442,7 +442,7 @@ Projects that work, earn, and share. Real World Asset Tokenization. Wired for th
 
 Want to tokenize your productive assets? Discover how DOB Protocol delivers capital without debt or dilution.
 
-<a href="https://dobprotocol.com/" class="button primary">Start Validation</a>
+<a href="../dob-solutions/dob-validator.md" class="button primary">Learn More</a>
 {% endtab %}
 
 {% tab title="For Investors" %}
@@ -450,7 +450,7 @@ Want to tokenize your productive assets? Discover how DOB Protocol delivers capi
 
 Invest in tokenized Real World Assets. Start with USD 10.00.
 
-<a href="https://dobprotocol.com/" class="button primary">Explore Marketplace</a>
+<a href="https://home.dobprotocol.com/explore" class="button primary">Explore Marketplace</a>
 {% endtab %}
 
 {% tab title="For Financial Agents" %}
