@@ -117,6 +117,10 @@ Fast time to market: onboard enterprise clients in days, not months
 
 ***
 
+
+
+{% embed url="https://www.youtube.com/watch?v=YZmr3KqsBSs" fullWidth="false" %}
+
 ## How it Works
 
 {% stepper %}
@@ -403,6 +407,8 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 * **March:** Top50 startup LatAm by Rayuela (Lisk) | Selected for OdiseaLabs 2025 accelerator
 
 ***
+
+###
 
 ### Q2-Q4: Recognition and Acceleration
 

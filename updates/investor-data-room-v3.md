@@ -117,6 +117,8 @@ For Financial Agents and Development Teams. Offer tokenized products without int
 
 ***
 
+{% embed url="https://youtu.be/YZmr3KqsBSs" %}
+
 ## How it Works
 
 {% stepper %}
