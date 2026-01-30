@@ -299,7 +299,7 @@ DOB Liquid DEX resolves critical liquidity pain points in the RWA market:
 {% tab title="Investors" %}
 Stop watching your RWA investments sit illiquid. Access real liquidity backed by validated revenue streams. Start investing in liquid RWAs with as little as $10 USD.
 
-<a class="button primary">Invest Now</a><a class="button primary">Explore Projects</a>
+<a href="https://www.dobprotocol.com/waitlist/" class="button primary">Coming Soon (wailist)</a>
 {% endtab %}
 
 {% tab title="Financial Agents & Dev Teams" %}
