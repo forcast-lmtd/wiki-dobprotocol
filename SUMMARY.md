@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About DOB](README.md)
-* [Investor Data Room](investor-data-room.md)
 * [DOB Solutions](dob-solutions/README.md)
   * [DOB WhiteLabel](dob-solutions/dob-whitelabel.md)
   * [DOB Liquid DEX](dob-solutions/dob-liquid-dex.md)
@@ -15,6 +14,7 @@
 * [Research and Development](research-and-development.md)
 * [Legal](legal.md)
 * [Glossary](glossary.md)
+* [Investor Data Room](investor-data-room.md)
 * [UPDATES](updates/README.md)
   * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
 * [WIKI V1](wiki-v1/README.md)
