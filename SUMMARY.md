@@ -8,7 +8,7 @@
   * [DOB Token Studio](dob-solutions/dob-token-studio.md)
   * [DOB Link](dob-solutions/dob-link.md)
 * [First use case: eHive](first-use-case-ehive.md)
-* [Trusted by](trusted-by.md)
+* [Why Trust DOB Protocol?](why-trust-dob-protocol.md)
 * [Team](team.md)
 * [Roadmap](roadmap.md)
 * [Research and Development](research-and-development.md)
@@ -17,6 +17,13 @@
 * [Investor Data Room](investor-data-room.md)
 * [UPDATES](updates/README.md)
   * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
+
+## WIKI V2
+
+* [Trusted by](wiki-v2/trusted-by.md)
+
+***
+
 * [WIKI V1](wiki-v1/README.md)
   * [Dobprotocol in simple words (V1)](wiki-v1/dobprotocol-simple-words/README.md)
     * [Value Proposition (V1)](wiki-v1/dobprotocol-simple-words/value-proposition.md)
