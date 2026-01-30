@@ -68,7 +68,7 @@ DOB Liquid DEX transforms RWAs from illiquid instruments into truly DeFi-native 
 * Liquidity backed by revenue streams
 * Full DeFi composability
 
-<a class="button primary">Start Investing</a><a class="button primary">View Projects</a>
+<a href="https://www.dobprotocol.com/waitlist/" class="button primary">Waitlist</a>
 {% endhint %}
 {% endtab %}
 

@@ -44,7 +44,7 @@ DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Ass
 
 Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on real performance of tokenized Projects.
 
-<a href="https://dobprotocol.com/" class="button primary">Comming Soon</a>
+<a href="https://www.dobprotocol.com/waitlist/" class="button primary">Comming Soon</a>
 {% endtab %}
 
 {% tab title="DOB Validator" %}
