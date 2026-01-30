@@ -42,7 +42,7 @@ Presented at Tellus' Ideaton for Stellar, Content Bounty.
 
 <summary>Chapter 4: The lighthouse</summary>
 
-<div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 

@@ -4,7 +4,7 @@ icon: grid-2-plus
 
 # DOB WhiteLabel
 
-<figure><img src="../.gitbook/assets/17.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (1).png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
 
 DOB WhiteLabel solves the critical problem of technical complexity and prohibitive costs for financial agents and development teams working with RWA tokenization - replaces the need for specialized internal teams with ready-to-use modular infrastructure. Instead of spending months developing from scratch, you access a complete, scalable, and compliance-ready solution.
 

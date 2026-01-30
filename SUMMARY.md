@@ -17,6 +17,7 @@
 * [Investor Data Room](investor-data-room.md)
 * [UPDATES](updates/README.md)
   * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
+  * [Investor Data Room (V4)](updates/investor-data-room-v4.md)
 
 ## WIKI V2
 

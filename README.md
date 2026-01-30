@@ -36,11 +36,11 @@ Our solutions do not only address technical requirements. In addition to being e
 
 DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Asset (RWA) tokenization.&#x20;
 
-<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="DOB Liquid DEX" %}
-<figure><img src=".gitbook/assets/14.png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/14 (1).png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
 
 Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on real performance of tokenized Projects.
 
@@ -48,7 +48,7 @@ Invest starting from USD 10.00. Buy and sell whenever you want. Pricing based on
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-<figure><img src=".gitbook/assets/13 (1).png" alt="Dob Validator"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/13 (1) (1).png" alt="Dob Validator"><figcaption></figcaption></figure>
 
 Certify and Approve your Project with real auditable data and access investors worldwide.
 
@@ -56,7 +56,7 @@ Certify and Approve your Project with real auditable data and access investors w
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
-<figure><img src=".gitbook/assets/15.png" alt="Dob Token Studio"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/15 (1).png" alt="Dob Token Studio"><figcaption></figcaption></figure>
 
 Tokenize your operation and access capital without banks, abusive interest rates or capital dilution.
 
@@ -64,7 +64,7 @@ Tokenize your operation and access capital without banks, abusive interest rates
 {% endtab %}
 
 {% tab title="DOB Link" %}
-<figure><img src=".gitbook/assets/16.png" alt="Dob Link"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/16 (1).png" alt="Dob Link"><figcaption></figcaption></figure>
 
 Offer access to your project tokens in a simple and secure way on your own website or wherever you want. No programming required.
 
@@ -98,7 +98,7 @@ DOB is not just a token - it is competitive advantage for those who operate in t
 
 ***
 
-<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1) (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Legal Notice and Risks:** DOB Protocol is subject to the laws of Bermuda and exclusive jurisdiction of the courts of Bermuda. Operations conducted through a regulated structure (Class IIGB and DABA Class M) with statutory segregated accounts that provide legal asset segregation. Investments in Real World Asset (RWA) tokens involve significant risks, including total loss of invested capital. Recourse limited exclusively to assets linked to the specific segregated account. The protocol implements multiple layers of risk mitigation, including continuous performance validation, auditable on-chain registration and programmatic liquidity. Not available to residents of prohibited jurisdictions (including USA, OFAC sanctioned countries and FATF blacklisted countries). Past performance does not guarantee future results. Investors should seek independent professional advice. [Consult complete documentation on risks and mitigations](https://dobprotocol-wiki.gitbook.io/dobprotocol-wiki/investor-data-room).

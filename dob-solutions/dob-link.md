@@ -4,7 +4,7 @@ icon: distribute-spacing-vertical
 
 # DOB Link
 
-<figure><img src="../.gitbook/assets/16.png" alt="DOB Link"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1).png" alt="DOB Link"><figcaption></figcaption></figure>
 
 DOB Link solves the critical capital accessibility problem for tokenized projects. It allows Project Owners to embed investment widgets directly into their websites, creating frictionless capital flows while investors earn automatic double yield (real project revenue + DeFi returns) without manual intervention.
 

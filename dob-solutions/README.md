@@ -24,7 +24,7 @@ DOB Protocol offers a complete suite of B2C and B2B solutions for Real World Ass
 
 {% tabs %}
 {% tab title="Invest with DOB" %}
-<figure><img src="../.gitbook/assets/14.png" alt="DOB Liquid DEX"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1).png" alt="DOB Liquid DEX"><figcaption></figcaption></figure>
 
 Comming Soon: DOB Protocol's solution for the structural problem of illiquid on-chain RWAs. Uses Uniswap v4 Hooks backed by revenue streams to provide integrated liquidity for all listed RWA tokens.
 
@@ -40,7 +40,7 @@ Compound capital in multiple DeFi strategies: Your capital works simultaneously 
 {% endtab %}
 
 {% tab title="Tokenize and Distribute" %}
-<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finance your Project with real auditable data. The solution combines structured forms, documentation, scoring, and on-chain anchoring.
 
@@ -48,7 +48,7 @@ Finance your Project with real auditable data. The solution combines structured 
 
 ***
 
-<figure><img src="../.gitbook/assets/15.png" alt="DOB Token Studio"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (1).png" alt="DOB Token Studio"><figcaption></figcaption></figure>
 
 Tokenize your operation and access resources worldwide without banks, high interest rates, loss of control, or capital dilution.
 
@@ -56,7 +56,7 @@ Tokenize your operation and access resources worldwide without banks, high inter
 
 ***
 
-<figure><img src="../.gitbook/assets/16.png" alt="DOB Link"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1).png" alt="DOB Link"><figcaption></figcaption></figure>
 
 Offer access to your project tokens simply and securely on your own website or wherever you choose. Automatic double yield: real revenue + DeFi returns.
 

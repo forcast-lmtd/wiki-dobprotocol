@@ -2,7 +2,7 @@
 icon: plug-circle-bolt
 ---
 
-# First use case: eHive (V2)
+# First use case: eHive
 
 <figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
@@ -10,7 +10,7 @@ icon: plug-circle-bolt
 
 Through eHive, you invest in accessible, efficient, and sustainable charging solutions that accelerate electric mobility adoption, driving us toward a greener future.
 
-<figure><img src=".gitbook/assets/First use case eHive (V2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/First use case eHive (V2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Your investment earns income from companies, fleets, and individual users seeking EV charging solutions.
 

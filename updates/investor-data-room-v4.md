@@ -2,22 +2,22 @@
 icon: display-chart-up
 ---
 
-# Investor Data Room (V3)
+# Investor Data Room (V4)
 
-![](<../.gitbook/assets/2 (6).png>)
+![](../.gitbook/assets/2.png)
 
 DOB Protocol: Your entry point for Real World Asset Tokenization.
 
 Real-world assets produce value. Financing them is slow, complex, and limited.
 
 * Tokenization is expensive.
-* RWAs lack liquidity.
+* **RWAs lack liquidity.** Secondary markets are promised but never materialize. Investors remain locked until maturity, unable to exit positions.
 * Investors distrust what they cannot verify.
 * Project Owners need capital without debt or dilution.
 
-Projects remain underfunded. Value stays locked.
+The RWA liquidity problem is structural: **$16 trillion in tokenizable assets remain trapped** because traditional secondary markets don't work for real-world assets. Projects remain underfunded. Value stays locked. Investors avoid what they cannot exit.
 
-![](<../.gitbook/assets/Copia de Copia de Deck Dobprotocol   Liquidity Problem (inicial)_20260122_175854_0000 (1) (1).jpg>)
+![](<../.gitbook/assets/Copia de Copia de Deck Dobprotocol   Liquidity Problem (inicial)_20260122_175854_0000 (1).jpg>)
 
 {% hint style="info" %}
 DOB Protocol connects real projects with global investors through on-chain infrastructure. Simple. Transparent. Compliant.
@@ -51,25 +51,27 @@ DOB Protocol transforms projects into verified, investable assets. Traceable. Co
 
 **DOB Protocol** delivers 5 modular solutions for RWA tokenization. Scalable. Secure. Compliant.
 
-![](<../.gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2) (1) (1).png>)
+![](<../.gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2).png>)
 
 {% tabs %}
 {% tab title="DOB Liquid DEX" %}
-![Dob Liquid DEX](<../.gitbook/assets/14 (1) (1).png>)
+![Dob Liquid DEX](../.gitbook/assets/14.png)
 
-First Liquid RWA DEX. Powered by Uniswap v4 Hooks.
+**The Core Problem:** RWA tokens sit illiquid after purchase. No viable secondary market exists. Investors are locked until maturity or forced into OTC deals that rarely happen. Liquidity pools collapse under stress because they lack real backing.
 
-* Liquidity backed by real project revenue
-* Invest, trade, exit freely
+**Our Solution:** First Liquid RWA DEX. Powered by Uniswap v4 Hooks.
+
+* Programmatic liquidity backed by real project revenue—not artificial market makers
+* Partial exit at any time without waiting for maturity or OTC counterparts
 * Minimum: USD 10.00
-* Dynamic pricing based on real-time performance
-* Native DeFi: AMMs, lending pools, vaults from day one
+* Dynamic pricing based on real-time, auditable on-chain performance
+* Native DeFi composability: AMMs, lending pools, vaults from day one
 
-DOB Liquid DEX makes illiquid RWAs tradeable with programmatic liquidity.
+DOB Liquid DEX transforms RWAs from illiquid instruments locked for years into truly DeFi-native assets with real, stress-resistant liquidity.
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-![DOB Validator](<../.gitbook/assets/13 (2).png>)
+![DOB Validator](../.gitbook/assets/13.png)
 
 Projects verified. Performance monitored on-chain. Only validated assets enter the DEX.
 
@@ -82,7 +84,7 @@ DOB Validator is the entry point for verified tokenization.
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
-![DOB Token Studio](<../.gitbook/assets/15 (1) (1).png>)
+![DOB Token Studio](../.gitbook/assets/15.png)
 
 Verified revenue packaged into RWA tokens. Creates liquid markets for real assets.
 
@@ -95,7 +97,7 @@ DOB Token Studio delivers capital access without intermediaries.
 {% endtab %}
 
 {% tab title="DOB Link" %}
-![DOB Link](<../.gitbook/assets/16 (1) (1).png>)
+![DOB Link](../.gitbook/assets/16.png)
 
 Sell tokens on your website. Simple and secure.
 
@@ -106,7 +108,7 @@ Sell tokens on your website. Simple and secure.
 {% endtab %}
 {% endtabs %}
 
-![DOB WhiteLabel](<../.gitbook/assets/17 (1) (1).png>)
+![DOB WhiteLabel](../.gitbook/assets/17.png)
 
 For Financial Agents and Development Teams. Offer tokenized products without internal teams. Scale through end-to-end or modular implementation.
 
@@ -114,10 +116,6 @@ For Financial Agents and Development Teams. Offer tokenized products without int
 * Operational dashboards for immediate use
 * Compliance embedded
 * Fast time to market: onboard enterprise clients in days
-
-***
-
-{% embed url="https://youtu.be/YZmr3KqsBSs" %}
 
 ## How it Works
 
@@ -137,7 +135,7 @@ Verified revenue packaged into RWA tokens via DOB Token Studio. Transparent Inve
 {% step %}
 **Invest and Trade**
 
-Tokens listed on DOB Liquid DEX. Free trading. Distribution via DOB Link. Programmatic liquidity.
+Tokens listed on DOB Liquid DEX. Unlike traditional RWA platforms where tokens remain illiquid, investors trade freely with programmatic liquidity backed by real revenue. Exit anytime. Distribution via DOB Link.
 {% endstep %}
 
 {% step %}
@@ -155,11 +153,9 @@ We unlock billions in untapped project value across emerging markets. Where othe
 DOB Protocol is operational. Generating real value through EV charging tokenization. Fully functional DEX marketplace.
 {% endhint %}
 
-***
-
 ## TRACTION: OPERATIONAL PROOF POINTS
 
-![](<../.gitbook/assets/First use case eHive (V2) (1) (1).jpg>)
+![](<../.gitbook/assets/First use case eHive (V2).jpg>)
 
 ### eHive: Operational Use Case
 
@@ -167,7 +163,7 @@ About the Project:
 
 * Platform to manage, monitor, and monetize EV charging stations
 * Focus: Santiago, Chile (Green Mobility)
-* Website: https://ehive.cc
+* Website: [https://ehive.cc](https://ehive.cc/)
 
 Figure: eHive project card showing APY and pool balance.
 
@@ -186,7 +182,7 @@ Charger #172: Status "Trusted", available for Airdrop
 
 ### Metrics
 
-Functional marketplace: https://dobprotocol.com
+Functional marketplace: [https://dobprotocol.com](https://dobprotocol.com/)
 
 Location: El Bosque 433, Las Condes, Santiago, Chile
 
@@ -201,11 +197,9 @@ Location: El Bosque 433, Las Condes, Santiago, Chile
 
 Bas 3: Tokenization in process
 
-***
-
 ## RISKS & MITIGATIONS
 
-DOB Protocol operates at the intersection of real projects, verified data, and on-chain liquidity. Main risks and mitigations:
+DOB Protocol operates at the intersection of real projects, validated data, and on-chain liquidity. Main risks and mitigations:
 
 <details>
 
@@ -231,9 +225,9 @@ Inaccurate or manipulated data affects investor confidence.
 
 <summary><strong>Liquidity Risk</strong></summary>
 
-RWA markets are structurally illiquid, limiting exits.
+RWA markets are structurally illiquid. Traditional secondary markets fail because they depend on manual market makers, OTC counterparts, or simulated liquidity that collapses under stress. Investors remain locked for years.
 
-**DOB Mitigation:** Liquidity is engineered through programmatic mechanisms and Uniswap v4 Hooks backed by revenue flows. DEX provides built-in liquidity for all listed RWA tokens.
+**DOB Mitigation:** DOB Liquid DEX addresses this through programmatic liquidity via Uniswap v4 Hooks backed by validated revenue streams—not artificial market makers. Liquidity scales with project performance and remains stable regardless of market conditions. Investors can exit partially or fully at any time.
 
 </details>
 
@@ -273,13 +267,11 @@ Project Owner adoption and early execution risks remain.
 DOB Protocol does not remove risk. It makes risk visible, measurable, and liquid through verified performance and programmatic liquidity.
 {% endhint %}
 
-***
-
 ## Business Model
 
 Sustainable. Scalable. Aligned with Project Owners and capital providers. DOB Protocol earns fees at protocol level through token flows. Token holders participate in platform growth.
 
-![](<../.gitbook/assets/WE TRUST VERIFIED (1) (1).jpg>)
+![](<../.gitbook/assets/WE TRUST VERIFIED.jpg>)
 
 ### Investor-Side Fees
 
@@ -308,8 +300,6 @@ One-time fee for DOB Validator and tokenization. Price by project scale:
 
 Commercialized under consultation. Adapted to specific needs of each Financial Agent or Development Team. Contact us for modular or end-to-end implementation, API integration, dashboards, and legal structures.
 {% endhint %}
-
-***
 
 ## WHO IT'S FOR: Buyer Personas
 
@@ -367,33 +357,27 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 **Benefits:**
 
 * USD 10.00 minimum eliminates entry barriers
-* Programmatic liquidity: exit anytime
-* Fair pricing based on real performance
-* Native DeFi: capital works on multiple fronts
+* **Real liquidity, not promises:** programmatic liquidity backed by revenue lets you exit anytime—no waiting for maturity or OTC deals
+* Fair pricing based on auditable on-chain performance
+* Native DeFi composability: use RWA tokens as collateral, leverage positions, or participate in yield strategies
 {% endtab %}
 {% endtabs %}
 
-***
-
 ## PRE-SEED Round Resume
 
-![](<../.gitbook/assets/FUNDING (1) (1).jpg>)
+![](../.gitbook/assets/FUNDING.jpg)
 
 ## Projections
 
-![](<../.gitbook/assets/TAM SAM SOM (1) (1).jpg>)
-
-***
+![](<../.gitbook/assets/TAM SAM SOM.jpg>)
 
 ## TEAM
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Óscar Castillo</strong></td><td><em>Co-founder &#x26; CEO</em></td><td>10+ years in AI, blockchain, and scalable software. Led multiple successful projects.</td><td><a href="../.gitbook/assets/1720463970913 (1) (1).png">1720463970913 (1) (1).png</a></td></tr><tr><td><strong>Fernando Castillo</strong></td><td><em>Co-founder &#x26; CTO</em></td><td>Blockchain specialist. PhD candidate. 4 years developing decentralized solutions.</td><td><a href="../.gitbook/assets/Design sem nome (46) (1) (1).png">Design sem nome (46) (1) (1).png</a></td></tr><tr><td><strong>Simón Espínola</strong></td><td><em>Co-founder &#x26; COO</em></td><td>Leads operations and business execution. 10 years in business development across Latin America.</td><td><a href="../.gitbook/assets/1752805246370 (2) (1).png">1752805246370 (2) (1).png</a></td></tr></tbody></table>
-
-***
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Óscar Castillo</strong></td><td><em>Co-founder &#x26; CEO</em></td><td>10+ years in AI, blockchain, and scalable software. Led multiple successful projects.</td><td><a href="../.gitbook/assets/1720463970913.png">1720463970913.png</a></td></tr><tr><td><strong>Fernando Castillo</strong></td><td><em>Co-founder &#x26; CTO</em></td><td>Blockchain specialist. PhD candidate. 4 years developing decentralized solutions.</td><td><a href="../.gitbook/assets/Design sem nome (46).png">Design sem nome (46).png</a></td></tr><tr><td><strong>Simón Espínola</strong></td><td><em>Co-founder &#x26; COO</em></td><td>Leads operations and business execution. 10 years in business development across Latin America.</td><td><a href="../.gitbook/assets/1752805246370.png">1752805246370.png</a></td></tr></tbody></table>
 
 ## BUILDING MOMENTUM: OUR FIRST YEAR (2025)
 
-![Retrospective 2025](<../.gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1) (1) (1).png>)
+![Retrospective 2025](<../.gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1).png>)
 
 ### Q1: Early Traction
 
@@ -416,8 +400,6 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 {% hint style="info" %}
 DOB Protocol is built in the open. We work with Stellar, Draper U, Tellus Cooperative, and regional partners across Latin America. Scaling adoption, compliance, and on-chain interoperability. Our stack bridges Base (Investment Rounds) and Stellar (DeFi reinvestment), creating cross-chain capital efficiency.
 {% endhint %}
-
-***
 
 ## OUR PARTNERS & ECOSYSTEM
 
@@ -451,8 +433,6 @@ Capital should flow to projects that produce value, not to opacity. DOB Protocol
 
 Projects that work, earn, and share. Real World Asset Tokenization. Wired for the world.
 {% endhint %}
-
-***
 
 ## NEXT STEPS & CONTACT
 
@@ -512,7 +492,5 @@ Scheduling individual demos and live Q\&A for stakeholders.
 
 DOB Protocol is subject to Bermuda laws and exclusive jurisdiction of Bermuda courts. Operations through regulated structure (Class IIGB and DABA Class M) with statutory segregated accounts providing legal asset segregation. RWA token investments involve significant risks, including total loss of capital. Recourse limited to assets in specific segregated account. Protocol implements multiple risk mitigation layers: continuous performance validation, auditable on-chain recording, programmatic liquidity. Not available in prohibited jurisdictions (USA, OFAC-sanctioned, FATF-blacklisted countries). Past performance does not guarantee future results. Seek independent professional advice.
 {% endhint %}
-
-***
 
 Last update: January 2026

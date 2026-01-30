@@ -4,7 +4,7 @@ icon: rainbow-half
 
 # DOB Liquid DEX
 
-<figure><img src="../.gitbook/assets/14.png" alt="DOB Liquid DEX"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1).png" alt="DOB Liquid DEX"><figcaption></figcaption></figure>
 
 Comming Soon: DOB Liquid DEX solves the structural liquidity problem for Real World Assets on-chain. The first liquid DEX for RWAs, powered by Uniswap v4 Hooks, allows anyone to invest, trade, and freely exit RWA investments with a minimum of just $10 USD, backed by real project revenue streams rather than artificial market makers.
 
