@@ -26,7 +26,7 @@ DOB WhiteLabel solves the critical problem of technical complexity and prohibiti
 
 Financial institutions, funds, banks, and software houses need to launch RWA products quickly without building internal blockchain and compliance teams. DOB WhiteLabel offers ready infrastructure, reusable legal structures, and stable APIs to accelerate time-to-market and drastically reduce costs.
 
-<a class="button primary">Contact Us</a><a class="button primary">Schedule a Meeting</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting</a>
 
 ***
 
@@ -315,13 +315,13 @@ DOB WhiteLabel solves the following critical RWA market pain points:
 {% tab title="Financial Agents" %}
 Financial institutions, funds, and banks: launch RWA products in weeks with ready infrastructure, reusable legal structures, and embedded compliance.
 
-<a class="button primary">Simulate Your Case</a><a class="button primary">Schedule Meeting</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule Meeting</a>
 {% endtab %}
 
 {% tab title="Development Teams" %}
 Software houses and agencies: offer RWA products under your own brand with stable APIs, documented SDKs, and without developing from scratch.
 
-<a class="button primary">Talk to our Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Talk to our Team</a>
 {% endtab %}
 {% endtabs %}
 

@@ -116,7 +116,7 @@ Onboard enterprise clients in days, not months.
 * Scalability without additional internal teams
 * Reduced operational costs
 
-<a class="button primary">Schedule a Meeting with our Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting with our Team</a>
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -305,7 +305,7 @@ Stop watching your RWA investments sit illiquid. Access real liquidity backed by
 {% tab title="Financial Agents & Dev Teams" %}
 Do not waste months building liquidity infrastructure from scratch. Integrate DOB Liquid DEX into your platform today with stable APIs and built-in compliance.
 
-<a class="button primary">Schedule a Meeting with our Team</a>
+<a href="mailto:simon@dobprotocol.com" class="button primary">Schedule a Meeting with our Team</a>
 {% endtab %}
 {% endtabs %}
 
