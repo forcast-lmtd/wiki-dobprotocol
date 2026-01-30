@@ -475,7 +475,7 @@ Interested in investing in tokenized Real World Assets? Explore our marketplace 
 {% endtab %}
 
 {% tab title="For Financial Agents" %}
-#### For Financial Agents and Development Teams
+#### For Financial Agents ![](.gitbook/assets/image.png)
 
 Want to know more about our scalable infrastructure for the future of real-world finance? DOB White Label offers modular solutions to scale your operation without internal teams.
 
