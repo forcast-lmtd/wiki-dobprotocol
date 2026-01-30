@@ -474,8 +474,8 @@ Interested in investing in tokenized Real World Assets? Explore our marketplace 
 <a href="https://home.dobprotocol.com/explore" class="button primary">Explore Marketplace</a>
 {% endtab %}
 
-{% tab title="For Financial Agents" %}
-#### For Financial Agents ![](.gitbook/assets/image.png)
+{% tab title="For Financial Agents and Development Teams" %}
+#### For Financial Agents and Development Teams
 
 Want to know more about our scalable infrastructure for the future of real-world finance? DOB White Label offers modular solutions to scale your operation without internal teams.
 
