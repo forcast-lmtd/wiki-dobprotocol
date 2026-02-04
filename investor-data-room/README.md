@@ -481,7 +481,7 @@ Scheduling individual demos and live Q\&A for stakeholders.
 {% column %}
 **Resources**
 
-* [Deck](https://docs.google.com/presentation/d/1jKRYZnN_-2IHszJzEJ7PBatzGwNjaczp2q8qtwNM9Ho/edit?slide=id.p#slide=id.p)
+* [Deck](https://drive.google.com/file/d/1XdzGwwtlI2bazzCoNEJ-IegWdoNyu9fQ/view?usp=sharing)
 * [Research and Development](../research-and-development.md)
 * [Mission, Vision & Values](mission-vision-and-values.md)
 {% endcolumn %}
