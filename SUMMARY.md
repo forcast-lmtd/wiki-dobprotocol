@@ -17,16 +17,6 @@
 * [Investor Data Room](investor-data-room/README.md)
   * [Mission, Vision and Values](investor-data-room/mission-vision-and-values.md)
   * [Company Info](investor-data-room/company-info.md)
-* [UPDATES](updates/README.md)
-  * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
-
-## WIKI V2
-
-* [Trusted by](wiki-v2/trusted-by.md)
-* [Investor Data Room (V2)](wiki-v2/investor-data-room.md)
-
-***
-
 * [WIKI V1](wiki-v1/README.md)
   * [Dobprotocol in simple words (V1)](wiki-v1/dobprotocol-simple-words/README.md)
     * [Value Proposition (V1)](wiki-v1/dobprotocol-simple-words/value-proposition.md)
@@ -66,3 +56,5 @@
     * [Privacy Policy](wiki-v1/fundamentals-v1/privacy-policy/README.md)
       * [Terms and Conditions](wiki-v1/fundamentals-v1/privacy-policy/terms-and-conditions.md)
     * [Customer support](wiki-v1/fundamentals-v1/customer-support.md)
+* [UPDATES](updates/README.md)
+  * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
