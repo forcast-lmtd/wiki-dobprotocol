@@ -2,7 +2,7 @@
 icon: display-chart-up
 ---
 
-# Investor Data Room (V4)
+# Investor Data Room
 
 ![](../.gitbook/assets/2.png)
 
@@ -482,7 +482,7 @@ Scheduling individual demos and live Q\&A for stakeholders.
 **Resources**
 
 * [Deck](https://docs.google.com/presentation/d/1jKRYZnN_-2IHszJzEJ7PBatzGwNjaczp2q8qtwNM9Ho/edit?slide=id.p#slide=id.p)
-* [Research and Development](https://dobprotocol-wiki.gitbook.io/dobprotocol-wiki/research-and-development)
+* [Research and Development](../research-and-development.md)
 * [DOB Protocol Mission, Vision & Values](https://shorturl.at/VWw7I)
 {% endcolumn %}
 {% endcolumns %}
