@@ -2,9 +2,9 @@
 icon: display-chart-up
 ---
 
-# Investor Data Room
+# Investor Data Room (V2)
 
-<figure><img src=".gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DOB Protocol: Your starting point for Real World Asset Tokenization.
 
@@ -17,7 +17,7 @@ Real-world assets produce real value. But financing them is slow, complex, and l
 
 Thus, projects remain underfunded. And value remains locked.
 
-<figure><img src=".gitbook/assets/Copia de Copia de Deck Dobprotocol - Liquidity Problem (inicial)_20260122_175854_0000 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Copia de Copia de Deck Dobprotocol - Liquidity Problem (inicial)_20260122_175854_0000 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 DOB Protocol connects real projects with global investors through simple, transparent, and compliant WEB3 on-chain infrastructure.
@@ -49,13 +49,13 @@ DOB Protocol transforms real-world projects into verified and investable assets.
 
 ## THE SOLUTION: DOB PROTOCOL
 
-<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **DOB Protocol** offers a complete ecosystem of modular, scalable, secure, and compliant solutions for Real World Asset (RWA) tokenization. Our 5 solutions work together to solve the main challenges of the real-world asset tokenization market.
 
 {% tabs %}
 {% tab title="DOB Liquid DEX" %}
-<figure><img src=".gitbook/assets/14 (1).png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1).png" alt="Dob Liquid DEX"><figcaption></figcaption></figure>
 
 Comming Soon: The First Liquid RWA DEX powered by Uniswap v4 Hooks.
 
@@ -69,7 +69,7 @@ Dob Liquid DEX transforms structurally illiquid RWAs into truly tradeable assets
 {% endtab %}
 
 {% tab title="DOB Validator" %}
-<figure><img src=".gitbook/assets/13 (1) (1).png" alt="DOB Validator"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1) (1).png" alt="DOB Validator"><figcaption></figcaption></figure>
 
 Projects are verified. Performance and cash flow are continuously monitored and recorded on-chain. Only validated assets enter the DEX.
 
@@ -82,7 +82,7 @@ Dob Validator is the official entry point for projects that want to be verified,
 {% endtab %}
 
 {% tab title="DOB Token Studio" %}
-<figure><img src=".gitbook/assets/15 (1).png" alt="Dob Token Studio"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (1).png" alt="Dob Token Studio"><figcaption></figcaption></figure>
 
 Verified project revenue is packaged into investable digital assets (RWA tokens). This tokenization infrastructure powers the DEX, creating liquid markets for real-world assets.
 
@@ -95,7 +95,7 @@ Dob Token Studio offers access to capital without traditional intermediaries, el
 {% endtab %}
 
 {% tab title="DOB Link" %}
-<figure><img src=".gitbook/assets/16 (1).png" alt="Dob Link"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1).png" alt="Dob Link"><figcaption></figcaption></figure>
 
 Offer access to your project's tokens simply and securely on your own website or wherever you want.&#x20;
 
@@ -106,7 +106,7 @@ Offer access to your project's tokens simply and securely on your own website or
 {% endtab %}
 {% endtabs %}
 
-<figure><img src=".gitbook/assets/Cópia.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cópia.png" alt="DOB WhiteLabel"><figcaption></figcaption></figure>
 
 Strategic solution for Financial Agents and Development Teams who want to offer tokenized products without recruiting internal teams of programmers and lawyers. Scale with our solutions through end-to-end or modular implementation.
 
@@ -161,7 +161,7 @@ DOB Protocol is not just a concept, but an operational platform generating real 
 
 ## TRACTION: OPERATIONAL PROOF POINTS
 
-<figure><img src=".gitbook/assets/First use case eHive (V2) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/First use case eHive (V2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### eHive: Operational Use Case
 
@@ -284,7 +284,7 @@ DOB Protocol does not remove risk. It makes risk visible, measurable, and liquid
 
 Our business model is designed to be sustainable, scalable, and aligned with the interests of Project Owners and capital providers. DOB Protocol earns fees at the protocol level through token flows, while creating new opportunities for token holders to participate in platform growth.
 
-<figure><img src=".gitbook/assets/WE TRUST VERIFIED (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WE TRUST VERIFIED (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Investor-Side Fees
 
@@ -382,23 +382,23 @@ Invest → Yields generated → Reinvestment/composability → Returns distribut
 
 ## PRE-SEED Round Resume
 
-<figure><img src=".gitbook/assets/FUNDING (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FUNDING (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Projections
 
-<figure><img src=".gitbook/assets/TAM SAM SOM (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TAM SAM SOM (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## TEAM
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Óscar Castillo</strong></td><td align="center"><em>Co-founder &#x26; CEO</em></td><td align="center">With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects.</td><td><a href=".gitbook/assets/1720463970913 (1).png">1720463970913 (1).png</a></td></tr><tr><td align="center"><strong>Fernando Castillo</strong></td><td align="center"><em>Co-founder &#x26; CTO</em></td><td align="center">Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td><a href=".gitbook/assets/Design sem nome (46) (1).png">Design sem nome (46) (1).png</a></td></tr><tr><td align="center"><strong>Simón Espínola</strong></td><td align="center"><em>Co-founder &#x26; COO</em></td><td align="center">Simón leads operations and business execution at DOB Protocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td><a href=".gitbook/assets/1752805246370 (2).png">1752805246370 (2).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Óscar Castillo</strong></td><td align="center"><em>Co-founder &#x26; CEO</em></td><td align="center">With over 10 years of experience in AI, blockchain, and scalable software development, Oscar has successfully led multiple projects.</td><td><a href="../.gitbook/assets/1720463970913 (1).png">1720463970913 (1).png</a></td></tr><tr><td align="center"><strong>Fernando Castillo</strong></td><td align="center"><em>Co-founder &#x26; CTO</em></td><td align="center">Fernando Castillo is a founder, blockchain specialist, and PhD candidate with 4 years of experience developing decentralized and scalable solutions.</td><td><a href="../.gitbook/assets/Design sem nome (46) (1).png">Design sem nome (46) (1).png</a></td></tr><tr><td align="center"><strong>Simón Espínola</strong></td><td align="center"><em>Co-founder &#x26; COO</em></td><td align="center">Simón leads operations and business execution at DOB Protocol. 10 years of experience leading business development and commercial strategy across Latin America.</td><td><a href="../.gitbook/assets/1752805246370 (2).png">1752805246370 (2).png</a></td></tr></tbody></table>
 
 ***
 
 ## BUILDING MOMENTUM: OUR FIRST YEAR (2025)
 
-<figure><img src=".gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1) (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Presentación Manual de Marca Moderno Rosa y Blanco (1) (1).png" alt="Retrospective 2025"><figcaption></figcaption></figure>
 
 ### Q1: Early Traction
 
@@ -469,7 +469,7 @@ Our vision is simple: projects that work, earn, and share. We call it Real World
 
 Want to tokenize your productive assets? Reach out to discover how DOB Protocol can help you access capital without debt or dilution.
 
-<a href="dob-solutions/" class="button primary">Learn More</a>
+<a href="../dob-solutions/" class="button primary">Learn More</a>
 {% endtab %}
 
 {% tab title="For Investors" %}
@@ -509,7 +509,7 @@ We are scheduling individual demos and a live Q\&A session for stakeholders.
 **Resources**
 
 * [Deck](https://docs.google.com/presentation/d/1jKRYZnN_-2IHszJzEJ7PBatzGwNjaczp2q8qtwNM9Ho/edit?slide=id.p#slide=id.p)
-* [Research and Development](research-and-development.md)
+* [Research and Development](../research-and-development.md)
 * [DOB Protocol Mission, Vision & Values](https://shorturl.at/VWw7I)
 {% endcolumn %}
 {% endcolumns %}

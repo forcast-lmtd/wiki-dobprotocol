@@ -14,14 +14,16 @@
 * [Research and Development](research-and-development.md)
 * [Legal](legal.md)
 * [Glossary](glossary.md)
-* [Investor Data Room](investor-data-room.md)
+* [Investor Data Room](investor-data-room/README.md)
+  * [Mission, Vision and Values](investor-data-room/mission-vision-and-values.md)
+  * [Company Info](investor-data-room/company-info.md)
 * [UPDATES](updates/README.md)
   * [Investor Data Room (V3)](updates/investor-data-room-v3.md)
-  * [Investor Data Room (V4)](updates/investor-data-room-v4.md)
 
 ## WIKI V2
 
 * [Trusted by](wiki-v2/trusted-by.md)
+* [Investor Data Room (V2)](wiki-v2/investor-data-room.md)
 
 ***
 
