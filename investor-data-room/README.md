@@ -473,7 +473,7 @@ Scheduling individual demos and live Q\&A for stakeholders.
 {% column %}
 **Company**
 
-* [Company Information](https://shorturl.at/dksFb)
+* [Company Information](company-info.md)
 * [Cap-table](https://docs.google.com/spreadsheets/d/18u5HXZe5cHt50vz59uaHeEjZfMJd8nCRGjFvCIx9b8c/edit?gid=196707966#gid=196707966)
 * [Traction](https://docs.google.com/document/d/1CaBVkwbT9tFt7HaLLzcbHIRy6F1t7zA9MWx41-gGD08/edit?tab=t.0#heading=h.z4955cmp761e)
 {% endcolumn %}
