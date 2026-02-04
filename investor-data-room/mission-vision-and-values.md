@@ -4,6 +4,8 @@ icon: diamonds-4
 
 # Mission, Vision and Values
 
+<figure><img src="../.gitbook/assets/Cópia (2).png" alt="Mission, Vision and Values"><figcaption></figcaption></figure>
+
 DOB Protocol was founded with a clear mission: democratize access to investments in real projects around the world.
 
 {% hint style="info" %}

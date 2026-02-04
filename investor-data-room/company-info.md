@@ -4,6 +4,8 @@ icon: building-magnifying-glass
 
 # Company Info
 
+<figure><img src="../.gitbook/assets/Cópia (1).png" alt=""><figcaption></figcaption></figure>
+
 Dobprotocol connects real projects with global investors through simple, transparent, and compliant WEB3 infrastructure. A complete ecosystem of solutions for Real World Asset (RWA) tokenization.
 
 ***
