@@ -483,7 +483,7 @@ Scheduling individual demos and live Q\&A for stakeholders.
 
 * [Deck](https://docs.google.com/presentation/d/1jKRYZnN_-2IHszJzEJ7PBatzGwNjaczp2q8qtwNM9Ho/edit?slide=id.p#slide=id.p)
 * [Research and Development](../research-and-development.md)
-* [DOB Protocol Mission, Vision & Values](https://shorturl.at/VWw7I)
+* [Mission, Vision & Values](mission-vision-and-values.md)
 {% endcolumn %}
 {% endcolumns %}
 
