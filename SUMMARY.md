@@ -17,6 +17,7 @@
 * [Investor Data Room](investor-data-room/README.md)
   * [Mission, Vision and Values](investor-data-room/mission-vision-and-values.md)
   * [Company Info](investor-data-room/company-info.md)
+  * [Traction Evidence](investor-data-room/traction-evidence.md)
 * [WIKI V1](wiki-v1/README.md)
   * [Dobprotocol in simple words (V1)](wiki-v1/dobprotocol-simple-words/README.md)
     * [Value Proposition (V1)](wiki-v1/dobprotocol-simple-words/value-proposition.md)
